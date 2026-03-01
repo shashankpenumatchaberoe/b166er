@@ -1,0 +1,39 @@
+{
+  "taskId": "end-to-end-test-1772353568427",
+  "createdAt": "2026-03-01T08:26:08.429Z",
+  "updatedAt": "2026-03-01T08:26:25.982Z",
+  "conversations": [
+    {
+      "taskId": "end-to-end-test-1772353568427",
+      "terminalId": "test-terminal",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Write a joke about TypeScript",
+      "timestamp": "2026-03-01T08:26:18.425Z",
+      "metadata": {
+        "cwd": "D:\\Repositories\\max-ai-ui",
+        "prompt": "Write a joke about TypeScript",
+        "sessionId": "be9e3e58-1c7e-45ee-a874-26b7760b9402",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "end-to-end-test-1772353568427",
+      "terminalId": "test-terminal",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "agent_response",
+      "role": "assistant",
+      "message": "Why did TypeScript go to therapy? Because it had too many undefined relationships!",
+      "timestamp": "2026-03-01T08:26:25.979Z",
+      "metadata": {
+        "message": "Why did TypeScript go to therapy? Because it had too many undefined relationships!",
+        "agentName": "GitHub Copilot",
+        "sessionId": "be9e3e58-1c7e-45ee-a874-26b7760b9402",
+        "eventType": "agent_response"
+      }
+    }
+  ]
+}

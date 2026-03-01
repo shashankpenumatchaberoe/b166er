@@ -1,0 +1,117 @@
+{
+  "taskId": "task-2-smoke",
+  "createdAt": "2026-02-24T21:10:26.568Z",
+  "updatedAt": "2026-02-24T21:10:26.839Z",
+  "conversations": [
+    {
+      "taskId": "task-2-smoke",
+      "terminalId": "smoke-terminal-1",
+      "terminalName": "coder-smoke",
+      "agentName": "coder",
+      "eventType": "stop",
+      "role": "user",
+      "message": "How do we log every user message?",
+      "timestamp": "2026-02-24T21:10:26.568Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "stop",
+        "raw": {
+          "event_type": "stop",
+          "task_id": "task-2-smoke",
+          "terminal_id": "smoke-terminal-1",
+          "prompt": "How do we log every user message?",
+          "agent_name": "coder",
+          "terminal_name": "coder-smoke",
+          "response": "Persist each turn as a timeline entry with role metadata."
+        }
+      }
+    },
+    {
+      "taskId": "task-2-smoke",
+      "terminalId": "smoke-terminal-1",
+      "terminalName": "coder-smoke",
+      "agentName": "coder",
+      "eventType": "stop",
+      "role": "assistant",
+      "message": "Persist each turn as a timeline entry with role metadata.",
+      "timestamp": "2026-02-24T21:10:26.568Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "stop",
+        "raw": {
+          "event_type": "stop",
+          "task_id": "task-2-smoke",
+          "terminal_id": "smoke-terminal-1",
+          "prompt": "How do we log every user message?",
+          "agent_name": "coder",
+          "terminal_name": "coder-smoke",
+          "response": "Persist each turn as a timeline entry with role metadata."
+        }
+      }
+    },
+    {
+      "taskId": "task-2-smoke",
+      "terminalId": "smoke-terminal-1",
+      "terminalName": "coder-smoke",
+      "agentName": "coder",
+      "eventType": "post_tool",
+      "role": "user",
+      "message": "Show task and terminal in UI history.",
+      "timestamp": "2026-02-24T21:10:26.839Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "messages": [
+            {
+              "content": "Show task and terminal in UI history.",
+              "role": "user"
+            },
+            {
+              "content": "UI now renders task tag, terminal name, and optional agent tag.",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "post_tool",
+          "task_id": "task-2-smoke",
+          "terminal_id": "smoke-terminal-1",
+          "agent_name": "coder",
+          "terminal_name": "coder-smoke",
+          "tool": "read_file"
+        }
+      }
+    },
+    {
+      "taskId": "task-2-smoke",
+      "terminalId": "smoke-terminal-1",
+      "terminalName": "coder-smoke",
+      "agentName": "coder",
+      "eventType": "post_tool",
+      "role": "assistant",
+      "message": "UI now renders task tag, terminal name, and optional agent tag.",
+      "timestamp": "2026-02-24T21:10:26.839Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "messages": [
+            {
+              "content": "Show task and terminal in UI history.",
+              "role": "user"
+            },
+            {
+              "content": "UI now renders task tag, terminal name, and optional agent tag.",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "post_tool",
+          "task_id": "task-2-smoke",
+          "terminal_id": "smoke-terminal-1",
+          "agent_name": "coder",
+          "terminal_name": "coder-smoke",
+          "tool": "read_file"
+        }
+      }
+    }
+  ]
+}

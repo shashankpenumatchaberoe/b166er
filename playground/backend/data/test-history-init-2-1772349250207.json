@@ -1,0 +1,39 @@
+{
+  "taskId": "test-history-init-2-1772349250207",
+  "createdAt": "2026-03-01T07:14:10.213Z",
+  "updatedAt": "2026-03-01T07:14:38.183Z",
+  "conversations": [
+    {
+      "taskId": "test-history-init-2-1772349250207",
+      "terminalId": "test-term-123",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Hello, can you tell me a joke?",
+      "timestamp": "2026-03-01T07:14:38.090Z",
+      "metadata": {
+        "prompt": "Hello, can you tell me a joke?",
+        "cwd": "/test",
+        "timestamp": "2026-03-01T07:15:00.000Z",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "test-history-init-2-1772349250207",
+      "terminalId": "test-term-123",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "agent_response",
+      "role": "assistant",
+      "message": "Why did the chicken cross the road? To get to the other side!",
+      "timestamp": "2026-03-01T07:14:38.181Z",
+      "metadata": {
+        "message": "Why did the chicken cross the road? To get to the other side!",
+        "agentName": "GitHub Copilot",
+        "timestamp": "2026-03-01T07:15:01.000Z",
+        "eventType": "agent_response"
+      }
+    }
+  ]
+}

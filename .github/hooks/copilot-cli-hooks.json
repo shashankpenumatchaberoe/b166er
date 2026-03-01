@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "hooks": {
+
+    "sessionStart": [
+      {
+        "type": "command",
+        "bash": "./scripts/copilot-hooks/log-session-start.sh",
+        "powershell": "./scripts/copilot-hooks/log-session-start.ps1",
+        "timeoutSec": 10
+      }
+    ],
+    "sessionEnd": [
+      {
+
+        "type": "command",
+        "bash": "./scripts/copilot-hooks/log-session-end.sh",
+        "powershell": "./scripts/copilot-hooks/log-session-end.ps1",
+        "timeoutSec": 10
+      }
+    ],
+    "userPromptSubmitted": [
+      {
+        "type": "command",
+        "bash": "./scripts/copilot-hooks/log-user-prompt.sh",
+        "powershell": "./scripts/copilot-hooks/log-user-prompt.ps1",
+        "env": {
+          "LOG_LEVEL": "INFO"
+        },
+        "timeoutSec": 10
+      }
+    ],
+    "agentResponse": [
+      {
+        "type": "command",
+        "bash": "./scripts/copilot-hooks/log-agent-response.sh",
+        "powershell": "./scripts/copilot-hooks/log-agent-response.ps1",
+        "timeoutSec": 10
+      }
+    ],
+    "postToolUse": [
+      {
+        "type": "command",
+        "bash": "./scripts/copilot-hooks/log-post-tool.sh",
+        "powershell": "./scripts/copilot-hooks/log-post-tool.ps1",
+        "timeoutSec": 10
+      }
+    ]
+  }
+}

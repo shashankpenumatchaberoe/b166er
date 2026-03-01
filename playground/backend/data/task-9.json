@@ -1,0 +1,3094 @@
+{
+  "taskId": "task-9",
+  "createdAt": "2026-02-24T18:05:00.926Z",
+  "updatedAt": "2026-02-25T06:20:35.329Z",
+  "conversations": [
+    {
+      "taskId": "task-9",
+      "terminalId": "84c8d6f4-646f-4fbc-9340-9108af315c4a",
+      "terminalName": "84c8d6f4-646f-4fbc-9340-9108af315c4a",
+      "agentName": null,
+      "eventType": "legacy",
+      "role": "assistant",
+      "message": "\u001b[?9001h\u001b[?1004h\u001b[?25l\u001b[2J\u001b[m\u001b[H\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[H\u001b]0;C:\\WINDOWS\\SYSTEM32\\cmd.exe\u0007\u001b[?25hMicrosoft Windows [Version 10.0.26200.7840]\u001b[?25l\r\n(c) Microsoft Corporation. All rights reserved.\u001b[4;1HD:\\Repositories\\max-ai-ui\\playground\\backend>\u001b[?25h\u001b[?9001l\u001b[?1004l",
+      "timestamp": "2026-02-24T18:05:00.926Z"
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "test-terminal-123",
+      "terminalName": "claude-test",
+      "agentName": "test",
+      "eventType": "post_tool",
+      "role": "user",
+      "message": "Testing hooks infrastructure",
+      "timestamp": "2026-02-24T23:28:56.778Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "messages": [
+            {
+              "content": "Testing hooks infrastructure",
+              "role": "user"
+            },
+            {
+              "content": "This is a test of the manual hook call",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "post_tool",
+          "task_id": "task-9",
+          "terminal_id": "test-terminal-123",
+          "agent_name": null,
+          "terminal_name": "claude-test",
+          "tool": "read_file"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "test-terminal-123",
+      "terminalName": "claude-test",
+      "agentName": "test",
+      "eventType": "post_tool",
+      "role": "assistant",
+      "message": "This is a test of the manual hook call",
+      "timestamp": "2026-02-24T23:28:56.778Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "messages": [
+            {
+              "content": "Testing hooks infrastructure",
+              "role": "user"
+            },
+            {
+              "content": "This is a test of the manual hook call",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "post_tool",
+          "task_id": "task-9",
+          "terminal_id": "test-terminal-123",
+          "agent_name": null,
+          "terminal_name": "claude-test",
+          "tool": "read_file"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "4721ada1-578e-494b-a557-d120bdcae9ae",
+      "terminalName": "custom-agent",
+      "agentName": "custom-agent",
+      "eventType": "stop",
+      "role": "assistant",
+      "message": "Coder agent completed: Implemented stop event automation",
+      "timestamp": "2026-02-24T23:47:00.627Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "stop",
+        "raw": {
+          "messages": [
+            {
+              "content": "Coder agent completed: Implemented stop event automation",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "stop",
+          "task_id": "task-9",
+          "terminal_id": "4721ada1-578e-494b-a557-d120bdcae9ae",
+          "agent_name": "custom-agent",
+          "terminal_name": "custom-agent"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "5f21fd33-8d8d-4d77-bacc-acc536cd4f19",
+      "terminalName": "custom-agent",
+      "agentName": "custom-agent",
+      "eventType": "stop",
+      "role": "assistant",
+      "message": "Coder: Implemented agent handoff protocol with to_agent field",
+      "timestamp": "2026-02-24T23:49:27.305Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "stop",
+        "raw": {
+          "messages": [
+            {
+              "content": "Coder: Implemented agent handoff protocol with to_agent field",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "stop",
+          "task_id": "task-9",
+          "terminal_id": "5f21fd33-8d8d-4d77-bacc-acc536cd4f19",
+          "agent_name": "custom-agent",
+          "terminal_name": "custom-agent",
+          "to_agent": "reviewer"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "1ed46169-c476-4074-9f9a-2c234957f783",
+      "terminalName": "custom-agent",
+      "agentName": "custom-agent",
+      "eventType": "stop",
+      "role": "assistant",
+      "message": "Coder: Implemented mandatory agent handoff protocol. All agents now send to_agent field with stop events. Updated scripts, guidelines, and documentation.",
+      "timestamp": "2026-02-24T23:50:19.748Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "stop",
+        "raw": {
+          "messages": [
+            {
+              "content": "Coder: Implemented mandatory agent handoff protocol. All agents now send to_agent field with stop events. Updated scripts, guidelines, and documentation.",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "stop",
+          "task_id": "task-9",
+          "terminal_id": "1ed46169-c476-4074-9f9a-2c234957f783",
+          "agent_name": "custom-agent",
+          "terminal_name": "custom-agent",
+          "to_agent": "reviewer"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cbbb6f38-35ff-4564-8f2c-a8a77668c7d6",
+      "terminalName": "custom-agent",
+      "agentName": "custom-agent",
+      "eventType": "stop",
+      "role": "assistant",
+      "message": "Coder: Extracted agent handoff chain to .github/agent-flow.md with complete workflow diagram and examples",
+      "timestamp": "2026-02-24T23:53:13.310Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "stop",
+        "raw": {
+          "messages": [
+            {
+              "content": "Coder: Extracted agent handoff chain to .github/agent-flow.md with complete workflow diagram and examples",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "stop",
+          "task_id": "task-9",
+          "terminal_id": "cbbb6f38-35ff-4564-8f2c-a8a77668c7d6",
+          "agent_name": "custom-agent",
+          "terminal_name": "custom-agent",
+          "to_agent": "reviewer"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "42600aed-35e5-4b21-9a3a-7cbc20bfc005",
+      "terminalName": "custom-agent",
+      "agentName": "custom-agent",
+      "eventType": "stop",
+      "role": "assistant",
+      "message": "Coder: Moved Task ID & Task Completion sections to .github/agent-flow.md. Both instruction files now reference the centralized protocol document.",
+      "timestamp": "2026-02-24T23:58:46.734Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "stop",
+        "raw": {
+          "messages": [
+            {
+              "content": "Coder: Moved Task ID & Task Completion sections to .github/agent-flow.md. Both instruction files now reference the centralized protocol document.",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "stop",
+          "task_id": "task-9",
+          "terminal_id": "42600aed-35e5-4b21-9a3a-7cbc20bfc005",
+          "agent_name": "custom-agent",
+          "terminal_name": "custom-agent",
+          "to_agent": "reviewer"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "test-session-063136",
+      "terminalName": "orchestrator-test",
+      "agentName": "orchestrator",
+      "eventType": "post_tool",
+      "role": "user",
+      "message": "Testing playground hooks infrastructure",
+      "timestamp": "2026-02-25T01:01:36.440Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "messages": [
+            {
+              "content": "Testing playground hooks infrastructure",
+              "role": "user"
+            },
+            {
+              "content": "Hook test successful",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "post_tool",
+          "task_id": "task-9",
+          "terminal_id": "test-session-063136",
+          "agent_name": "orchestrator",
+          "terminal_name": "orchestrator-test",
+          "tool": "run_in_terminal"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "test-session-063136",
+      "terminalName": "orchestrator-test",
+      "agentName": "orchestrator",
+      "eventType": "post_tool",
+      "role": "assistant",
+      "message": "Hook test successful",
+      "timestamp": "2026-02-25T01:01:36.440Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "messages": [
+            {
+              "content": "Testing playground hooks infrastructure",
+              "role": "user"
+            },
+            {
+              "content": "Hook test successful",
+              "role": "assistant"
+            }
+          ],
+          "event_type": "post_tool",
+          "task_id": "task-9",
+          "terminal_id": "test-session-063136",
+          "agent_name": "orchestrator",
+          "terminal_name": "orchestrator-test",
+          "tool": "run_in_terminal"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "test-123",
+      "terminalName": "orchestrator",
+      "agentName": "orchestrator",
+      "eventType": "post_tool",
+      "role": "user",
+      "message": "Testing hooks",
+      "timestamp": "2026-02-25T01:01:43.753Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "event_type": "post_tool",
+          "task_id": "task-9",
+          "terminal_id": "test-123",
+          "terminal_name": "orchestrator",
+          "agent_name": "orchestrator",
+          "messages": [
+            {
+              "role": "user",
+              "content": "Testing hooks"
+            }
+          ],
+          "tool": "run_in_terminal"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T01:22:26.176Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:22:26.176Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "make a plan for empty page",
+      "timestamp": "2026-02-25T01:22:55.591Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:22:55.591Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "make a plan for empty page",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "make a plan for empty page"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "user prompts are saved but not agent response",
+      "timestamp": "2026-02-25T01:23:57.672Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:23:57.672Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "user prompts are saved but not agent response",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "user prompts are saved but not agent response"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Setup\r\nGet Started\r\nConfigure\r\nEdit Code\r\nBuild, Debug, Test\r\nGitHub Copilot\r\nOverview\r\nSetup\r\nQuickstart\r\nBest Practices\r\nAgents\r\nCustomization\r\nOverview\r\nInstructions\r\nPrompt Files\r\nCustom Agents\r\nAgent Skills\r\nLanguage Models\r\nMCP\r\nHooks\r\nChat\r\nInline Suggestions\r\nSmart Actions\r\nGuides\r\nSecurity\r\nTroubleshooting\r\nFAQ\r\nReference\r\nSource Control\r\nTerminal\r\nEnterprise\r\nLanguages\r\nNode.js / JavaScript\r\nTypeScript\r\nPython\r\nJava\r\nC++\r\nC#\r\nContainer Tools\r\nData Science\r\nIntelligent Apps\r\nAzure\r\nRemote\r\nDev Containers\r\nReference\r\nOn this page there are 19 sectionsOn this page\r\nWhy use hooks?\r\nHook lifecycle events\r\nConfigure hooks\r\nHook input and output\r\nPreToolUse\r\nPostToolUse\r\nUserPromptSubmit\r\nSessionStart\r\nStop\r\nSubagentStart\r\nSubagentStop\r\nPreCompact\r\nConfigure hooks with the /hooks command\r\nUsage scenarios\r\nSafety\r\nTroubleshooting\r\nFrequently asked questions\r\nSecurity considerations\r\nRelated resources\r\nAgent hooks in Visual Studio Code (Preview)\r\nHooks enable you to execute custom shell commands at key lifecycle points during agent sessions. Use hooks to automate workflows, enforce security policies, validate operations, and integrate with external tools. Hooks run deterministically and can control agent behavior, including blocking tool execution or injecting context into the conversation.\r\n\r\nNote\r\nAgent hooks are currently in Preview for VS Code 1.109.3. The configuration format and behavior might change in future releases.\r\n\r\nImportant\r\nYour organization might have disabled the use of hooks in VS Code. Contact your admin for more information. See enterprise policies for details.\r\n\r\nHooks are designed to work across agent types, including local agents, background agents, and cloud agents. Each hook receives structured JSON input and can return JSON output to influence agent behavior.\r\n\r\nWhy use hooks?\r\nHooks provide deterministic, code-driven automation. Unlike instructions or custom prompts that guide agent behavior, hooks execute your code at specific lifecycle points with guaranteed outcomes:\r\n\r\nEnforce security policies: Block dangerous commands like rm -rf or DROP TABLE before they execute, regardless of how the agent was prompted.\r\n\r\nAutomate code quality: Run formatters, linters, or tests automatically after file modifications.\r\n\r\nCreate audit trails: Log every tool invocation, command execution, or file change for compliance and debugging.\r\n\r\nInject context: Add project-specific information, API keys, or environment details to help the agent make better decisions.\r\n\r\nControl approvals: Automatically approve safe operations while requiring confirmation for sensitive ones.\r\n\r\nHook lifecycle events\r\nVS Code supports eight hook events that fire at specific points during an agent session:\r\n\r\nExpand table\r\nHook Event\tWhen It Fires\tCommon Use Cases\r\nSessionStart\tUser submits the first prompt of a new session\tInitialize resources, log session start, validate project state\r\nUserPromptSubmit\tUser submits a prompt\tAudit user requests, inject system context\r\nPreToolUse\tBefore agent invokes any tool\tBlock dangerous operations, require approval, modify tool input\r\nPostToolUse\tAfter tool completes successfully\tRun formatters, log results, trigger follow-up actions\r\nPreCompact\tBefore conversation context is compacted\tExport important context, save state before truncation\r\nSubagentStart\tSubagent is spawned\tTrack nested agent usage, initialize subagent resources\r\nSubagentStop\tSubagent completes\tAggregate results, cleanup subagent resources\r\nStop\tAgent session ends\tGenerate reports, cleanup resources, send notifications\r\nConfigure hooks\r\nHooks are configured in JSON files stored in your workspace or user directory.\r\n\r\nHook file locations\r\nVS Code searches for hook configuration files in these locations:\r\n\r\nWorkspace: .github/hooks/*.json - Project-specific hooks shared with your team\r\nWorkspace: .claude/settings.local.json - Local workspace hooks (not committed)\r\nWorkspace: .claude/settings.json - Workspace-level hooks\r\nUser: ~/.claude/settings.json - Personal hooks applied across all workspaces\r\nWorkspace hooks take precedence over user hooks for the same event type.\r\n\r\nHook configuration format\r\nCreate a JSON file with a hooks object containing arrays of hook commands for each event type. VS Code uses the same hook format as Claude Code and Copilot CLI for compatibility:\r\n\r\nJSON\r\n\r\n{\r\n  \"hooks\": {\r\n    \"PreToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"./scripts/validate-tool.sh\",\r\n        \"timeout\": 15\r\n      }\r\n    ],\r\n    \"PostToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"npx prettier --write \\\"$TOOL_INPUT_FILE_PATH\\\"\"\r\n      }\r\n    ]\r\n  }\r\n}\r\nHook command properties\r\nEach hook entry must have type: \"command\" and at least one command property:\r\n\r\nExpand table\r\nProperty\tType\tDescription\r\ntype\tstring\tMust be \"command\"\r\ncommand\tstring\tDefault command to run (cross-platform)\r\nwindows\tstring\tWindows-specific command override\r\nlinux\tstring\tLinux-specific command override\r\nosx\tstring\tmacOS-specific command override\r\ncwd\tstring\tWorking directory (relative to repository root)\r\nenv\tobject\tAdditional environment variables\r\ntimeout\tnumber\tTimeout in seconds (default: 30)\r\nNote\r\nOS-specific commands are selected based on the extension host platform. In remote development scenarios (SSH, Containers, WSL), this might differ from your local operating system.\r\n\r\nOS-specific commands\r\nSpecify different commands for each operating system:\r\n\r\nJSON\r\n\r\n{\r\n  \"hooks\": {\r\n    \"PostToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"./scripts/format.sh\",\r\n        \"windows\": \"powershell -File scripts\\\\format.ps1\",\r\n        \"linux\": \"./scripts/format-linux.sh\",\r\n        \"osx\": \"./scripts/format-mac.sh\"\r\n      }\r\n    ]\r\n  }\r\n}\r\nThe execution service selects the appropriate command based on your OS. If no OS-specific command is defined, it falls back to the command property.\r\n\r\nHook input and output\r\nHooks communicate with VS Code through stdin (input) and stdout (output) using JSON.\r\n\r\nCommon input fields\r\nEvery hook receives a JSON object via stdin with these common fields:\r\n\r\nJSON\r\n\r\n{\r\n  \"timestamp\": \"2026-02-09T10:30:00.000Z\",\r\n  \"cwd\": \"/path/to/workspace\",\r\n  \"sessionId\": \"session-identifier\",\r\n  \"hookEventName\": \"PreToolUse\",\r\n  \"transcript_path\": \"/path/to/transcript.json\"\r\n}\r\nCommon output format\r\nHooks can return JSON via stdout to influence agent behavior. All hooks support these output fields:\r\n\r\nJSON\r\n\r\n{\r\n  \"continue\": true,\r\n  \"stopReason\": \"Security policy violation\",\r\n  \"systemMessage\": \"Operation blocked by security hook\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\ncontinue\tboolean\tSet to false to stop processing (default: true)\r\nstopReason\tstring\tReason for stopping (shown to the model)\r\nsystemMessage\tstring\tMessage displayed to the user\r\nExit codes\r\nThe hook's exit code determines how VS Code handles the result:\r\n\r\nExpand table\r\nExit Code\tBehavior\r\n0\tSuccess: parse stdout as JSON\r\n2\tBlocking error: stop processing and show error to model\r\nOther\tNon-blocking warning: show warning to user, continue processing\r\nPreToolUse\r\nThe PreToolUse hook fires before the agent invokes a tool.\r\n\r\nPreToolUse input\r\nIn addition to the common fields, PreToolUse hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"tool_name\": \"editFiles\",\r\n  \"tool_input\": { \"files\": [\"src/main.ts\"] },\r\n  \"tool_use_id\": \"tool-123\"\r\n}\r\nPreToolUse output\r\nThe PreToolUse hook can control tool execution through a hookSpecificOutput object:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"PreToolUse\",\r\n    \"permissionDecision\": \"deny\",\r\n    \"permissionDecisionReason\": \"Destructive command blocked by policy\",\r\n    \"updatedInput\": { \"files\": [\"src/safe.ts\"] },\r\n    \"additionalContext\": \"User has read-only access to production files\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\npermissionDecision\t\"allow\", \"deny\", \"ask\"\tControls tool approval\r\npermissionDecisionReason\tstring\tReason shown to user\r\nupdatedInput\tobject\tModified tool input (optional)\r\nadditionalContext\tstring\tExtra context for the model\r\nPermission decision priority: When multiple hooks run for the same tool invocation, the most restrictive decision wins:\r\n\r\ndeny (most restrictive): blocks tool execution\r\nask: requires user confirmation\r\nallow (least restrictive): auto-approves execution\r\nupdatedInput format: To determine the format of updatedInput, run the command \"Show Chat Debug View\" and find the logged tool schema. If updatedInput doesn't match the expected schema, it will be ignored.\r\n\r\nPostToolUse\r\nThe PostToolUse hook fires after a tool completes successfully.\r\n\r\nPostToolUse input\r\nIn addition to the common fields, PostToolUse hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"tool_name\": \"editFiles\",\r\n  \"tool_input\": { \"files\": [\"src/main.ts\"] },\r\n  \"tool_use_id\": \"tool-123\",\r\n  \"tool_response\": \"File edited successfully\"\r\n}\r\nPostToolUse output\r\nThe PostToolUse hook can provide additional context to the model, or block further processing:\r\n\r\nJSON\r\n\r\n{\r\n  \"decision\": \"block\",\r\n  \"reason\": \"Post-processing validation failed\",\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"PostToolUse\",\r\n    \"additionalContext\": \"The edited file has lint errors that need to be fixed\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tBlock further processing (optional)\r\nreason\tstring\tReason for blocking (shown to the model)\r\nhookSpecificOutput.additionalContext\tstring\tExtra context injected into the conversation\r\nUserPromptSubmit\r\nThe UserPromptSubmit hook fires when the user submits a prompt.\r\n\r\nUserPromptSubmit input\r\nIn addition to the common fields, UserPromptSubmit hooks receive a prompt field with the text the user submitted.\r\n\r\nThe UserPromptSubmit hook uses the common output format only.\r\n\r\nSessionStart\r\nThe SessionStart hook fires when a new agent session begins.\r\n\r\nSessionStart input\r\nIn addition to the common fields, SessionStart hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"source\": \"new\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nsource\tstring\tHow the session was started. Currently always \"new\".\r\nSessionStart output\r\nThe SessionStart hook can inject additional context into the agent's conversation:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"SessionStart\",\r\n    \"additionalContext\": \"Project: my-app v2.1.0 | Branch: main | Node: v20.11.0\"\r\n  }\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nadditionalContext\tstring\tContext added to the agent's conversation\r\nStop\r\nThe Stop hook fires when the agent session ends.\r\n\r\nStop input\r\nIn addition to the common fields, Stop hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"stop_hook_active\": false\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nstop_hook_active\tboolean\ttrue when the agent is already continuing as a result of a previous stop hook. Check this value to prevent the agent from running indefinitely.\r\nStop output\r\nThe Stop hook can prevent the agent from stopping:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"Stop\",\r\n    \"decision\": \"block\",\r\n    \"reason\": \"Run the test suite before finishing\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tPrevent the agent from stopping\r\nreason\tstring\tRequired when decision is \"block\". Tells the agent why it should continue.\r\nImportant\r\nWhen a Stop hook blocks the agent from stopping, the agent continues running and the additional turns consume premium requests. Always check the stop_hook_active field to prevent the agent from running indefinitely.\r\n\r\nSubagentStart\r\nThe SubagentStart hook fires when a subagent is spawned.\r\n\r\nSubagentStart input\r\nIn addition to the common fields, SubagentStart hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"agent_id\": \"subagent-456\",\r\n  \"agent_type\": \"Plan\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nagent_id\tstring\tUnique identifier for the subagent\r\nagent_type\tstring\tThe agent name (for example, \"Plan\" for built-in agents or custom agent names)\r\nSubagentStart output\r\nThe SubagentStart hook can inject additional context into the subagent's conversation:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"SubagentStart\",\r\n    \"additionalContext\": \"This subagent should follow the project coding guidelines\"\r\n  }\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nadditionalContext\tstring\tContext added to the subagent's conversation\r\nSubagentStop\r\nThe SubagentStop hook fires when a subagent completes.\r\n\r\nSubagentStop input\r\nIn addition to the common fields, SubagentStop hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"agent_id\": \"subagent-456\",\r\n  \"agent_type\": \"Plan\",\r\n  \"stop_hook_active\": false\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nagent_id\tstring\tUnique identifier for the subagent\r\nagent_type\tstring\tThe agent name (for example, \"Plan\" for built-in agents or custom agent names)\r\nstop_hook_active\tboolean\ttrue when the subagent is already continuing as a result of a previous stop hook. Check this value to prevent the subagent from running indefinitely.\r\nSubagentStop output\r\nThe SubagentStop hook can prevent the subagent from stopping:\r\n\r\nJSON\r\n\r\n{\r\n  \"decision\": \"block\",\r\n  \"reason\": \"Verify subagent results before completing\"\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tPrevent the subagent from stopping\r\nreason\tstring\tRequired when decision is \"block\". Tells the subagent why it should continue.\r\nPreCompact\r\nThe PreCompact hook fires before conversation context is compacted.\r\n\r\nPreCompact input\r\nIn addition to the common fields, PreCompact hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"trigger\": \"auto\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\ntrigger\tstring\tHow the compaction was triggered. \"auto\" when the conversation is too long for the prompt budget.\r\nThe PreCompact hook uses the common output format only.\r\n\r\nConfigure hooks with the /hooks command\r\nUse the /hooks slash command in chat to configure hooks through an interactive UI:\r\n\r\nType /hooks in the chat input and press Enter.\r\n\r\nSelect a hook event type from the list.\r\n\r\nChoose an existing hook to edit or select Add new hook to create one.\r\n\r\nSelect or create a hook configuration file.\r\n\r\nThe command opens the hook file in the editor with your cursor positioned at the command field, ready for editing.\r\n\r\nUsage scenarios\r\nThe following examples demonstrate common hook patterns.\r\n\r\nBlock dangerous terminal commands\r\nAuto-format code after edits\r\nLog tool usage for auditing\r\nRequire approval for specific tools\r\nInject project context at session start\r\nSafety\r\nIf the agent has access to edit scripts run by hooks, then it has the ability to modify those scripts during its own run, and execute the code it writes. We recommend using the chat.tools.edits.autoApprove to disallow the agent from editing hook scripts without manual approval.\r\n\r\nTroubleshooting\r\nView hook diagnostics\r\nTo see which hooks are loaded and check for configuration errors:\r\n\r\nRight-click in the Chat view and select Diagnostics.\r\n\r\nLook for the hooks section to see loaded hooks and any validation errors.\r\n\r\nView hook output\r\nTo review hook output and errors:\r\n\r\nOpen the Output panel.\r\n\r\nSelect GitHub Copilot Chat Hooks from the channel list.\r\n\r\nCommon issues\r\nHook not executing: Verify the hook file is in .github/hooks/ and has a .json extension. Check that the type property is set to \"command\".\r\n\r\nPermission denied errors: Ensure your hook scripts have execute permissions (chmod +x script.sh).\r\n\r\nTimeout errors: Increase the timeout value or optimize your hook script. The default is 30 seconds.\r\n\r\nJSON parse errors: Verify your hook script outputs valid JSON to stdout. Use jq or a JSON library to construct output.\r\n\r\nFrequently asked questions\r\nHow does VS Code handle Claude Code hook configurations?\r\nVS Code parses Claude Code's hook configuration format, including matcher syntax. Currently, VS Code ignores matcher values, so hooks apply to all tools. Claude Code uses an empty string matcher (\"\") to represent all tools.\r\n\r\nHow does VS Code handle Copilot CLI hook configurations?\r\nVS Code parses Copilot CLI hook configurations and converts the lowerCamelCase hook event names (like preToolUse) to the PascalCase format used by VS Code (PreToolUse). Both bash and powershell command formats are supported.\r\n\r\nSecurity considerations\r\nCaution\r\nHooks execute shell commands with the same permissions as VS Code. Review hook configurations carefully, especially when using hooks from untrusted sources.\r\n\r\nReview hook scripts: Inspect all hook scripts before enabling them, especially in shared repositories.\r\n\r\nLimit hook permissions: Use the principle of least privilege. Hooks should only have access to what they need.\r\n\r\nValidate input: Hook scripts receive input from the agent. Validate and sanitize all input to prevent injection attacks.\r\n\r\nSecure credentials: Never hardcode secrets in hook scripts. Use environment variables or secure credential storage.\r\n\r\nRelated resources",
+      "timestamp": "2026-02-25T01:25:22.890Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:25:22.890Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "Setup\r\nGet Started\r\nConfigure\r\nEdit Code\r\nBuild, Debug, Test\r\nGitHub Copilot\r\nOverview\r\nSetup\r\nQuickstart\r\nBest Practices\r\nAgents\r\nCustomization\r\nOverview\r\nInstructions\r\nPrompt Files\r\nCustom Agents\r\nAgent Skills\r\nLanguage Models\r\nMCP\r\nHooks\r\nChat\r\nInline Suggestions\r\nSmart Actions\r\nGuides\r\nSecurity\r\nTroubleshooting\r\nFAQ\r\nReference\r\nSource Control\r\nTerminal\r\nEnterprise\r\nLanguages\r\nNode.js / JavaScript\r\nTypeScript\r\nPython\r\nJava\r\nC++\r\nC#\r\nContainer Tools\r\nData Science\r\nIntelligent Apps\r\nAzure\r\nRemote\r\nDev Containers\r\nReference\r\nOn this page there are 19 sectionsOn this page\r\nWhy use hooks?\r\nHook lifecycle events\r\nConfigure hooks\r\nHook input and output\r\nPreToolUse\r\nPostToolUse\r\nUserPromptSubmit\r\nSessionStart\r\nStop\r\nSubagentStart\r\nSubagentStop\r\nPreCompact\r\nConfigure hooks with the /hooks command\r\nUsage scenarios\r\nSafety\r\nTroubleshooting\r\nFrequently asked questions\r\nSecurity considerations\r\nRelated resources\r\nAgent hooks in Visual Studio Code (Preview)\r\nHooks enable you to execute custom shell commands at key lifecycle points during agent sessions. Use hooks to automate workflows, enforce security policies, validate operations, and integrate with external tools. Hooks run deterministically and can control agent behavior, including blocking tool execution or injecting context into the conversation.\r\n\r\nNote\r\nAgent hooks are currently in Preview for VS Code 1.109.3. The configuration format and behavior might change in future releases.\r\n\r\nImportant\r\nYour organization might have disabled the use of hooks in VS Code. Contact your admin for more information. See enterprise policies for details.\r\n\r\nHooks are designed to work across agent types, including local agents, background agents, and cloud agents. Each hook receives structured JSON input and can return JSON output to influence agent behavior.\r\n\r\nWhy use hooks?\r\nHooks provide deterministic, code-driven automation. Unlike instructions or custom prompts that guide agent behavior, hooks execute your code at specific lifecycle points with guaranteed outcomes:\r\n\r\nEnforce security policies: Block dangerous commands like rm -rf or DROP TABLE before they execute, regardless of how the agent was prompted.\r\n\r\nAutomate code quality: Run formatters, linters, or tests automatically after file modifications.\r\n\r\nCreate audit trails: Log every tool invocation, command execution, or file change for compliance and debugging.\r\n\r\nInject context: Add project-specific information, API keys, or environment details to help the agent make better decisions.\r\n\r\nControl approvals: Automatically approve safe operations while requiring confirmation for sensitive ones.\r\n\r\nHook lifecycle events\r\nVS Code supports eight hook events that fire at specific points during an agent session:\r\n\r\nExpand table\r\nHook Event\tWhen It Fires\tCommon Use Cases\r\nSessionStart\tUser submits the first prompt of a new session\tInitialize resources, log session start, validate project state\r\nUserPromptSubmit\tUser submits a prompt\tAudit user requests, inject system context\r\nPreToolUse\tBefore agent invokes any tool\tBlock dangerous operations, require approval, modify tool input\r\nPostToolUse\tAfter tool completes successfully\tRun formatters, log results, trigger follow-up actions\r\nPreCompact\tBefore conversation context is compacted\tExport important context, save state before truncation\r\nSubagentStart\tSubagent is spawned\tTrack nested agent usage, initialize subagent resources\r\nSubagentStop\tSubagent completes\tAggregate results, cleanup subagent resources\r\nStop\tAgent session ends\tGenerate reports, cleanup resources, send notifications\r\nConfigure hooks\r\nHooks are configured in JSON files stored in your workspace or user directory.\r\n\r\nHook file locations\r\nVS Code searches for hook configuration files in these locations:\r\n\r\nWorkspace: .github/hooks/*.json - Project-specific hooks shared with your team\r\nWorkspace: .claude/settings.local.json - Local workspace hooks (not committed)\r\nWorkspace: .claude/settings.json - Workspace-level hooks\r\nUser: ~/.claude/settings.json - Personal hooks applied across all workspaces\r\nWorkspace hooks take precedence over user hooks for the same event type.\r\n\r\nHook configuration format\r\nCreate a JSON file with a hooks object containing arrays of hook commands for each event type. VS Code uses the same hook format as Claude Code and Copilot CLI for compatibility:\r\n\r\nJSON\r\n\r\n{\r\n  \"hooks\": {\r\n    \"PreToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"./scripts/validate-tool.sh\",\r\n        \"timeout\": 15\r\n      }\r\n    ],\r\n    \"PostToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"npx prettier --write \\\"$TOOL_INPUT_FILE_PATH\\\"\"\r\n      }\r\n    ]\r\n  }\r\n}\r\nHook command properties\r\nEach hook entry must have type: \"command\" and at least one command property:\r\n\r\nExpand table\r\nProperty\tType\tDescription\r\ntype\tstring\tMust be \"command\"\r\ncommand\tstring\tDefault command to run (cross-platform)\r\nwindows\tstring\tWindows-specific command override\r\nlinux\tstring\tLinux-specific command override\r\nosx\tstring\tmacOS-specific command override\r\ncwd\tstring\tWorking directory (relative to repository root)\r\nenv\tobject\tAdditional environment variables\r\ntimeout\tnumber\tTimeout in seconds (default: 30)\r\nNote\r\nOS-specific commands are selected based on the extension host platform. In remote development scenarios (SSH, Containers, WSL), this might differ from your local operating system.\r\n\r\nOS-specific commands\r\nSpecify different commands for each operating system:\r\n\r\nJSON\r\n\r\n{\r\n  \"hooks\": {\r\n    \"PostToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"./scripts/format.sh\",\r\n        \"windows\": \"powershell -File scripts\\\\format.ps1\",\r\n        \"linux\": \"./scripts/format-linux.sh\",\r\n        \"osx\": \"./scripts/format-mac.sh\"\r\n      }\r\n    ]\r\n  }\r\n}\r\nThe execution service selects the appropriate command based on your OS. If no OS-specific command is defined, it falls back to the command property.\r\n\r\nHook input and output\r\nHooks communicate with VS Code through stdin (input) and stdout (output) using JSON.\r\n\r\nCommon input fields\r\nEvery hook receives a JSON object via stdin with these common fields:\r\n\r\nJSON\r\n\r\n{\r\n  \"timestamp\": \"2026-02-09T10:30:00.000Z\",\r\n  \"cwd\": \"/path/to/workspace\",\r\n  \"sessionId\": \"session-identifier\",\r\n  \"hookEventName\": \"PreToolUse\",\r\n  \"transcript_path\": \"/path/to/transcript.json\"\r\n}\r\nCommon output format\r\nHooks can return JSON via stdout to influence agent behavior. All hooks support these output fields:\r\n\r\nJSON\r\n\r\n{\r\n  \"continue\": true,\r\n  \"stopReason\": \"Security policy violation\",\r\n  \"systemMessage\": \"Operation blocked by security hook\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\ncontinue\tboolean\tSet to false to stop processing (default: true)\r\nstopReason\tstring\tReason for stopping (shown to the model)\r\nsystemMessage\tstring\tMessage displayed to the user\r\nExit codes\r\nThe hook's exit code determines how VS Code handles the result:\r\n\r\nExpand table\r\nExit Code\tBehavior\r\n0\tSuccess: parse stdout as JSON\r\n2\tBlocking error: stop processing and show error to model\r\nOther\tNon-blocking warning: show warning to user, continue processing\r\nPreToolUse\r\nThe PreToolUse hook fires before the agent invokes a tool.\r\n\r\nPreToolUse input\r\nIn addition to the common fields, PreToolUse hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"tool_name\": \"editFiles\",\r\n  \"tool_input\": { \"files\": [\"src/main.ts\"] },\r\n  \"tool_use_id\": \"tool-123\"\r\n}\r\nPreToolUse output\r\nThe PreToolUse hook can control tool execution through a hookSpecificOutput object:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"PreToolUse\",\r\n    \"permissionDecision\": \"deny\",\r\n    \"permissionDecisionReason\": \"Destructive command blocked by policy\",\r\n    \"updatedInput\": { \"files\": [\"src/safe.ts\"] },\r\n    \"additionalContext\": \"User has read-only access to production files\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\npermissionDecision\t\"allow\", \"deny\", \"ask\"\tControls tool approval\r\npermissionDecisionReason\tstring\tReason shown to user\r\nupdatedInput\tobject\tModified tool input (optional)\r\nadditionalContext\tstring\tExtra context for the model\r\nPermission decision priority: When multiple hooks run for the same tool invocation, the most restrictive decision wins:\r\n\r\ndeny (most restrictive): blocks tool execution\r\nask: requires user confirmation\r\nallow (least restrictive): auto-approves execution\r\nupdatedInput format: To determine the format of updatedInput, run the command \"Show Chat Debug View\" and find the logged tool schema. If updatedInput doesn't match the expected schema, it will be ignored.\r\n\r\nPostToolUse\r\nThe PostToolUse hook fires after a tool completes successfully.\r\n\r\nPostToolUse input\r\nIn addition to the common fields, PostToolUse hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"tool_name\": \"editFiles\",\r\n  \"tool_input\": { \"files\": [\"src/main.ts\"] },\r\n  \"tool_use_id\": \"tool-123\",\r\n  \"tool_response\": \"File edited successfully\"\r\n}\r\nPostToolUse output\r\nThe PostToolUse hook can provide additional context to the model, or block further processing:\r\n\r\nJSON\r\n\r\n{\r\n  \"decision\": \"block\",\r\n  \"reason\": \"Post-processing validation failed\",\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"PostToolUse\",\r\n    \"additionalContext\": \"The edited file has lint errors that need to be fixed\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tBlock further processing (optional)\r\nreason\tstring\tReason for blocking (shown to the model)\r\nhookSpecificOutput.additionalContext\tstring\tExtra context injected into the conversation\r\nUserPromptSubmit\r\nThe UserPromptSubmit hook fires when the user submits a prompt.\r\n\r\nUserPromptSubmit input\r\nIn addition to the common fields, UserPromptSubmit hooks receive a prompt field with the text the user submitted.\r\n\r\nThe UserPromptSubmit hook uses the common output format only.\r\n\r\nSessionStart\r\nThe SessionStart hook fires when a new agent session begins.\r\n\r\nSessionStart input\r\nIn addition to the common fields, SessionStart hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"source\": \"new\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nsource\tstring\tHow the session was started. Currently always \"new\".\r\nSessionStart output\r\nThe SessionStart hook can inject additional context into the agent's conversation:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"SessionStart\",\r\n    \"additionalContext\": \"Project: my-app v2.1.0 | Branch: main | Node: v20.11.0\"\r\n  }\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nadditionalContext\tstring\tContext added to the agent's conversation\r\nStop\r\nThe Stop hook fires when the agent session ends.\r\n\r\nStop input\r\nIn addition to the common fields, Stop hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"stop_hook_active\": false\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nstop_hook_active\tboolean\ttrue when the agent is already continuing as a result of a previous stop hook. Check this value to prevent the agent from running indefinitely.\r\nStop output\r\nThe Stop hook can prevent the agent from stopping:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"Stop\",\r\n    \"decision\": \"block\",\r\n    \"reason\": \"Run the test suite before finishing\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tPrevent the agent from stopping\r\nreason\tstring\tRequired when decision is \"block\". Tells the agent why it should continue.\r\nImportant\r\nWhen a Stop hook blocks the agent from stopping, the agent continues running and the additional turns consume premium requests. Always check the stop_hook_active field to prevent the agent from running indefinitely.\r\n\r\nSubagentStart\r\nThe SubagentStart hook fires when a subagent is spawned.\r\n\r\nSubagentStart input\r\nIn addition to the common fields, SubagentStart hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"agent_id\": \"subagent-456\",\r\n  \"agent_type\": \"Plan\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nagent_id\tstring\tUnique identifier for the subagent\r\nagent_type\tstring\tThe agent name (for example, \"Plan\" for built-in agents or custom agent names)\r\nSubagentStart output\r\nThe SubagentStart hook can inject additional context into the subagent's conversation:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"SubagentStart\",\r\n    \"additionalContext\": \"This subagent should follow the project coding guidelines\"\r\n  }\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nadditionalContext\tstring\tContext added to the subagent's conversation\r\nSubagentStop\r\nThe SubagentStop hook fires when a subagent completes.\r\n\r\nSubagentStop input\r\nIn addition to the common fields, SubagentStop hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"agent_id\": \"subagent-456\",\r\n  \"agent_type\": \"Plan\",\r\n  \"stop_hook_active\": false\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nagent_id\tstring\tUnique identifier for the subagent\r\nagent_type\tstring\tThe agent name (for example, \"Plan\" for built-in agents or custom agent names)\r\nstop_hook_active\tboolean\ttrue when the subagent is already continuing as a result of a previous stop hook. Check this value to prevent the subagent from running indefinitely.\r\nSubagentStop output\r\nThe SubagentStop hook can prevent the subagent from stopping:\r\n\r\nJSON\r\n\r\n{\r\n  \"decision\": \"block\",\r\n  \"reason\": \"Verify subagent results before completing\"\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tPrevent the subagent from stopping\r\nreason\tstring\tRequired when decision is \"block\". Tells the subagent why it should continue.\r\nPreCompact\r\nThe PreCompact hook fires before conversation context is compacted.\r\n\r\nPreCompact input\r\nIn addition to the common fields, PreCompact hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"trigger\": \"auto\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\ntrigger\tstring\tHow the compaction was triggered. \"auto\" when the conversation is too long for the prompt budget.\r\nThe PreCompact hook uses the common output format only.\r\n\r\nConfigure hooks with the /hooks command\r\nUse the /hooks slash command in chat to configure hooks through an interactive UI:\r\n\r\nType /hooks in the chat input and press Enter.\r\n\r\nSelect a hook event type from the list.\r\n\r\nChoose an existing hook to edit or select Add new hook to create one.\r\n\r\nSelect or create a hook configuration file.\r\n\r\nThe command opens the hook file in the editor with your cursor positioned at the command field, ready for editing.\r\n\r\nUsage scenarios\r\nThe following examples demonstrate common hook patterns.\r\n\r\nBlock dangerous terminal commands\r\nAuto-format code after edits\r\nLog tool usage for auditing\r\nRequire approval for specific tools\r\nInject project context at session start\r\nSafety\r\nIf the agent has access to edit scripts run by hooks, then it has the ability to modify those scripts during its own run, and execute the code it writes. We recommend using the chat.tools.edits.autoApprove to disallow the agent from editing hook scripts without manual approval.\r\n\r\nTroubleshooting\r\nView hook diagnostics\r\nTo see which hooks are loaded and check for configuration errors:\r\n\r\nRight-click in the Chat view and select Diagnostics.\r\n\r\nLook for the hooks section to see loaded hooks and any validation errors.\r\n\r\nView hook output\r\nTo review hook output and errors:\r\n\r\nOpen the Output panel.\r\n\r\nSelect GitHub Copilot Chat Hooks from the channel list.\r\n\r\nCommon issues\r\nHook not executing: Verify the hook file is in .github/hooks/ and has a .json extension. Check that the type property is set to \"command\".\r\n\r\nPermission denied errors: Ensure your hook scripts have execute permissions (chmod +x script.sh).\r\n\r\nTimeout errors: Increase the timeout value or optimize your hook script. The default is 30 seconds.\r\n\r\nJSON parse errors: Verify your hook script outputs valid JSON to stdout. Use jq or a JSON library to construct output.\r\n\r\nFrequently asked questions\r\nHow does VS Code handle Claude Code hook configurations?\r\nVS Code parses Claude Code's hook configuration format, including matcher syntax. Currently, VS Code ignores matcher values, so hooks apply to all tools. Claude Code uses an empty string matcher (\"\") to represent all tools.\r\n\r\nHow does VS Code handle Copilot CLI hook configurations?\r\nVS Code parses Copilot CLI hook configurations and converts the lowerCamelCase hook event names (like preToolUse) to the PascalCase format used by VS Code (PreToolUse). Both bash and powershell command formats are supported.\r\n\r\nSecurity considerations\r\nCaution\r\nHooks execute shell commands with the same permissions as VS Code. Review hook configurations carefully, especially when using hooks from untrusted sources.\r\n\r\nReview hook scripts: Inspect all hook scripts before enabling them, especially in shared repositories.\r\n\r\nLimit hook permissions: Use the principle of least privilege. Hooks should only have access to what they need.\r\n\r\nValidate input: Hook scripts receive input from the agent. Validate and sanitize all input to prevent injection attacks.\r\n\r\nSecure credentials: Never hardcode secrets in hook scripts. Use environment variables or secure credential storage.\r\n\r\nRelated resources",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "Setup\r\nGet Started\r\nConfigure\r\nEdit Code\r\nBuild, Debug, Test\r\nGitHub Copilot\r\nOverview\r\nSetup\r\nQuickstart\r\nBest Practices\r\nAgents\r\nCustomization\r\nOverview\r\nInstructions\r\nPrompt Files\r\nCustom Agents\r\nAgent Skills\r\nLanguage Models\r\nMCP\r\nHooks\r\nChat\r\nInline Suggestions\r\nSmart Actions\r\nGuides\r\nSecurity\r\nTroubleshooting\r\nFAQ\r\nReference\r\nSource Control\r\nTerminal\r\nEnterprise\r\nLanguages\r\nNode.js / JavaScript\r\nTypeScript\r\nPython\r\nJava\r\nC++\r\nC#\r\nContainer Tools\r\nData Science\r\nIntelligent Apps\r\nAzure\r\nRemote\r\nDev Containers\r\nReference\r\nOn this page there are 19 sectionsOn this page\r\nWhy use hooks?\r\nHook lifecycle events\r\nConfigure hooks\r\nHook input and output\r\nPreToolUse\r\nPostToolUse\r\nUserPromptSubmit\r\nSessionStart\r\nStop\r\nSubagentStart\r\nSubagentStop\r\nPreCompact\r\nConfigure hooks with the /hooks command\r\nUsage scenarios\r\nSafety\r\nTroubleshooting\r\nFrequently asked questions\r\nSecurity considerations\r\nRelated resources\r\nAgent hooks in Visual Studio Code (Preview)\r\nHooks enable you to execute custom shell commands at key lifecycle points during agent sessions. Use hooks to automate workflows, enforce security policies, validate operations, and integrate with external tools. Hooks run deterministically and can control agent behavior, including blocking tool execution or injecting context into the conversation.\r\n\r\nNote\r\nAgent hooks are currently in Preview for VS Code 1.109.3. The configuration format and behavior might change in future releases.\r\n\r\nImportant\r\nYour organization might have disabled the use of hooks in VS Code. Contact your admin for more information. See enterprise policies for details.\r\n\r\nHooks are designed to work across agent types, including local agents, background agents, and cloud agents. Each hook receives structured JSON input and can return JSON output to influence agent behavior.\r\n\r\nWhy use hooks?\r\nHooks provide deterministic, code-driven automation. Unlike instructions or custom prompts that guide agent behavior, hooks execute your code at specific lifecycle points with guaranteed outcomes:\r\n\r\nEnforce security policies: Block dangerous commands like rm -rf or DROP TABLE before they execute, regardless of how the agent was prompted.\r\n\r\nAutomate code quality: Run formatters, linters, or tests automatically after file modifications.\r\n\r\nCreate audit trails: Log every tool invocation, command execution, or file change for compliance and debugging.\r\n\r\nInject context: Add project-specific information, API keys, or environment details to help the agent make better decisions.\r\n\r\nControl approvals: Automatically approve safe operations while requiring confirmation for sensitive ones.\r\n\r\nHook lifecycle events\r\nVS Code supports eight hook events that fire at specific points during an agent session:\r\n\r\nExpand table\r\nHook Event\tWhen It Fires\tCommon Use Cases\r\nSessionStart\tUser submits the first prompt of a new session\tInitialize resources, log session start, validate project state\r\nUserPromptSubmit\tUser submits a prompt\tAudit user requests, inject system context\r\nPreToolUse\tBefore agent invokes any tool\tBlock dangerous operations, require approval, modify tool input\r\nPostToolUse\tAfter tool completes successfully\tRun formatters, log results, trigger follow-up actions\r\nPreCompact\tBefore conversation context is compacted\tExport important context, save state before truncation\r\nSubagentStart\tSubagent is spawned\tTrack nested agent usage, initialize subagent resources\r\nSubagentStop\tSubagent completes\tAggregate results, cleanup subagent resources\r\nStop\tAgent session ends\tGenerate reports, cleanup resources, send notifications\r\nConfigure hooks\r\nHooks are configured in JSON files stored in your workspace or user directory.\r\n\r\nHook file locations\r\nVS Code searches for hook configuration files in these locations:\r\n\r\nWorkspace: .github/hooks/*.json - Project-specific hooks shared with your team\r\nWorkspace: .claude/settings.local.json - Local workspace hooks (not committed)\r\nWorkspace: .claude/settings.json - Workspace-level hooks\r\nUser: ~/.claude/settings.json - Personal hooks applied across all workspaces\r\nWorkspace hooks take precedence over user hooks for the same event type.\r\n\r\nHook configuration format\r\nCreate a JSON file with a hooks object containing arrays of hook commands for each event type. VS Code uses the same hook format as Claude Code and Copilot CLI for compatibility:\r\n\r\nJSON\r\n\r\n{\r\n  \"hooks\": {\r\n    \"PreToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"./scripts/validate-tool.sh\",\r\n        \"timeout\": 15\r\n      }\r\n    ],\r\n    \"PostToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"npx prettier --write \\\"$TOOL_INPUT_FILE_PATH\\\"\"\r\n      }\r\n    ]\r\n  }\r\n}\r\nHook command properties\r\nEach hook entry must have type: \"command\" and at least one command property:\r\n\r\nExpand table\r\nProperty\tType\tDescription\r\ntype\tstring\tMust be \"command\"\r\ncommand\tstring\tDefault command to run (cross-platform)\r\nwindows\tstring\tWindows-specific command override\r\nlinux\tstring\tLinux-specific command override\r\nosx\tstring\tmacOS-specific command override\r\ncwd\tstring\tWorking directory (relative to repository root)\r\nenv\tobject\tAdditional environment variables\r\ntimeout\tnumber\tTimeout in seconds (default: 30)\r\nNote\r\nOS-specific commands are selected based on the extension host platform. In remote development scenarios (SSH, Containers, WSL), this might differ from your local operating system.\r\n\r\nOS-specific commands\r\nSpecify different commands for each operating system:\r\n\r\nJSON\r\n\r\n{\r\n  \"hooks\": {\r\n    \"PostToolUse\": [\r\n      {\r\n        \"type\": \"command\",\r\n        \"command\": \"./scripts/format.sh\",\r\n        \"windows\": \"powershell -File scripts\\\\format.ps1\",\r\n        \"linux\": \"./scripts/format-linux.sh\",\r\n        \"osx\": \"./scripts/format-mac.sh\"\r\n      }\r\n    ]\r\n  }\r\n}\r\nThe execution service selects the appropriate command based on your OS. If no OS-specific command is defined, it falls back to the command property.\r\n\r\nHook input and output\r\nHooks communicate with VS Code through stdin (input) and stdout (output) using JSON.\r\n\r\nCommon input fields\r\nEvery hook receives a JSON object via stdin with these common fields:\r\n\r\nJSON\r\n\r\n{\r\n  \"timestamp\": \"2026-02-09T10:30:00.000Z\",\r\n  \"cwd\": \"/path/to/workspace\",\r\n  \"sessionId\": \"session-identifier\",\r\n  \"hookEventName\": \"PreToolUse\",\r\n  \"transcript_path\": \"/path/to/transcript.json\"\r\n}\r\nCommon output format\r\nHooks can return JSON via stdout to influence agent behavior. All hooks support these output fields:\r\n\r\nJSON\r\n\r\n{\r\n  \"continue\": true,\r\n  \"stopReason\": \"Security policy violation\",\r\n  \"systemMessage\": \"Operation blocked by security hook\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\ncontinue\tboolean\tSet to false to stop processing (default: true)\r\nstopReason\tstring\tReason for stopping (shown to the model)\r\nsystemMessage\tstring\tMessage displayed to the user\r\nExit codes\r\nThe hook's exit code determines how VS Code handles the result:\r\n\r\nExpand table\r\nExit Code\tBehavior\r\n0\tSuccess: parse stdout as JSON\r\n2\tBlocking error: stop processing and show error to model\r\nOther\tNon-blocking warning: show warning to user, continue processing\r\nPreToolUse\r\nThe PreToolUse hook fires before the agent invokes a tool.\r\n\r\nPreToolUse input\r\nIn addition to the common fields, PreToolUse hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"tool_name\": \"editFiles\",\r\n  \"tool_input\": { \"files\": [\"src/main.ts\"] },\r\n  \"tool_use_id\": \"tool-123\"\r\n}\r\nPreToolUse output\r\nThe PreToolUse hook can control tool execution through a hookSpecificOutput object:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"PreToolUse\",\r\n    \"permissionDecision\": \"deny\",\r\n    \"permissionDecisionReason\": \"Destructive command blocked by policy\",\r\n    \"updatedInput\": { \"files\": [\"src/safe.ts\"] },\r\n    \"additionalContext\": \"User has read-only access to production files\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\npermissionDecision\t\"allow\", \"deny\", \"ask\"\tControls tool approval\r\npermissionDecisionReason\tstring\tReason shown to user\r\nupdatedInput\tobject\tModified tool input (optional)\r\nadditionalContext\tstring\tExtra context for the model\r\nPermission decision priority: When multiple hooks run for the same tool invocation, the most restrictive decision wins:\r\n\r\ndeny (most restrictive): blocks tool execution\r\nask: requires user confirmation\r\nallow (least restrictive): auto-approves execution\r\nupdatedInput format: To determine the format of updatedInput, run the command \"Show Chat Debug View\" and find the logged tool schema. If updatedInput doesn't match the expected schema, it will be ignored.\r\n\r\nPostToolUse\r\nThe PostToolUse hook fires after a tool completes successfully.\r\n\r\nPostToolUse input\r\nIn addition to the common fields, PostToolUse hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"tool_name\": \"editFiles\",\r\n  \"tool_input\": { \"files\": [\"src/main.ts\"] },\r\n  \"tool_use_id\": \"tool-123\",\r\n  \"tool_response\": \"File edited successfully\"\r\n}\r\nPostToolUse output\r\nThe PostToolUse hook can provide additional context to the model, or block further processing:\r\n\r\nJSON\r\n\r\n{\r\n  \"decision\": \"block\",\r\n  \"reason\": \"Post-processing validation failed\",\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"PostToolUse\",\r\n    \"additionalContext\": \"The edited file has lint errors that need to be fixed\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tBlock further processing (optional)\r\nreason\tstring\tReason for blocking (shown to the model)\r\nhookSpecificOutput.additionalContext\tstring\tExtra context injected into the conversation\r\nUserPromptSubmit\r\nThe UserPromptSubmit hook fires when the user submits a prompt.\r\n\r\nUserPromptSubmit input\r\nIn addition to the common fields, UserPromptSubmit hooks receive a prompt field with the text the user submitted.\r\n\r\nThe UserPromptSubmit hook uses the common output format only.\r\n\r\nSessionStart\r\nThe SessionStart hook fires when a new agent session begins.\r\n\r\nSessionStart input\r\nIn addition to the common fields, SessionStart hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"source\": \"new\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nsource\tstring\tHow the session was started. Currently always \"new\".\r\nSessionStart output\r\nThe SessionStart hook can inject additional context into the agent's conversation:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"SessionStart\",\r\n    \"additionalContext\": \"Project: my-app v2.1.0 | Branch: main | Node: v20.11.0\"\r\n  }\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nadditionalContext\tstring\tContext added to the agent's conversation\r\nStop\r\nThe Stop hook fires when the agent session ends.\r\n\r\nStop input\r\nIn addition to the common fields, Stop hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"stop_hook_active\": false\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nstop_hook_active\tboolean\ttrue when the agent is already continuing as a result of a previous stop hook. Check this value to prevent the agent from running indefinitely.\r\nStop output\r\nThe Stop hook can prevent the agent from stopping:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"Stop\",\r\n    \"decision\": \"block\",\r\n    \"reason\": \"Run the test suite before finishing\"\r\n  }\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tPrevent the agent from stopping\r\nreason\tstring\tRequired when decision is \"block\". Tells the agent why it should continue.\r\nImportant\r\nWhen a Stop hook blocks the agent from stopping, the agent continues running and the additional turns consume premium requests. Always check the stop_hook_active field to prevent the agent from running indefinitely.\r\n\r\nSubagentStart\r\nThe SubagentStart hook fires when a subagent is spawned.\r\n\r\nSubagentStart input\r\nIn addition to the common fields, SubagentStart hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"agent_id\": \"subagent-456\",\r\n  \"agent_type\": \"Plan\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nagent_id\tstring\tUnique identifier for the subagent\r\nagent_type\tstring\tThe agent name (for example, \"Plan\" for built-in agents or custom agent names)\r\nSubagentStart output\r\nThe SubagentStart hook can inject additional context into the subagent's conversation:\r\n\r\nJSON\r\n\r\n{\r\n  \"hookSpecificOutput\": {\r\n    \"hookEventName\": \"SubagentStart\",\r\n    \"additionalContext\": \"This subagent should follow the project coding guidelines\"\r\n  }\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nadditionalContext\tstring\tContext added to the subagent's conversation\r\nSubagentStop\r\nThe SubagentStop hook fires when a subagent completes.\r\n\r\nSubagentStop input\r\nIn addition to the common fields, SubagentStop hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"agent_id\": \"subagent-456\",\r\n  \"agent_type\": \"Plan\",\r\n  \"stop_hook_active\": false\r\n}\r\nExpand table\r\nField\tType\tDescription\r\nagent_id\tstring\tUnique identifier for the subagent\r\nagent_type\tstring\tThe agent name (for example, \"Plan\" for built-in agents or custom agent names)\r\nstop_hook_active\tboolean\ttrue when the subagent is already continuing as a result of a previous stop hook. Check this value to prevent the subagent from running indefinitely.\r\nSubagentStop output\r\nThe SubagentStop hook can prevent the subagent from stopping:\r\n\r\nJSON\r\n\r\n{\r\n  \"decision\": \"block\",\r\n  \"reason\": \"Verify subagent results before completing\"\r\n}\r\nExpand table\r\nField\tValues\tDescription\r\ndecision\t\"block\"\tPrevent the subagent from stopping\r\nreason\tstring\tRequired when decision is \"block\". Tells the subagent why it should continue.\r\nPreCompact\r\nThe PreCompact hook fires before conversation context is compacted.\r\n\r\nPreCompact input\r\nIn addition to the common fields, PreCompact hooks receive:\r\n\r\nJSON\r\n\r\n{\r\n  \"trigger\": \"auto\"\r\n}\r\nExpand table\r\nField\tType\tDescription\r\ntrigger\tstring\tHow the compaction was triggered. \"auto\" when the conversation is too long for the prompt budget.\r\nThe PreCompact hook uses the common output format only.\r\n\r\nConfigure hooks with the /hooks command\r\nUse the /hooks slash command in chat to configure hooks through an interactive UI:\r\n\r\nType /hooks in the chat input and press Enter.\r\n\r\nSelect a hook event type from the list.\r\n\r\nChoose an existing hook to edit or select Add new hook to create one.\r\n\r\nSelect or create a hook configuration file.\r\n\r\nThe command opens the hook file in the editor with your cursor positioned at the command field, ready for editing.\r\n\r\nUsage scenarios\r\nThe following examples demonstrate common hook patterns.\r\n\r\nBlock dangerous terminal commands\r\nAuto-format code after edits\r\nLog tool usage for auditing\r\nRequire approval for specific tools\r\nInject project context at session start\r\nSafety\r\nIf the agent has access to edit scripts run by hooks, then it has the ability to modify those scripts during its own run, and execute the code it writes. We recommend using the chat.tools.edits.autoApprove to disallow the agent from editing hook scripts without manual approval.\r\n\r\nTroubleshooting\r\nView hook diagnostics\r\nTo see which hooks are loaded and check for configuration errors:\r\n\r\nRight-click in the Chat view and select Diagnostics.\r\n\r\nLook for the hooks section to see loaded hooks and any validation errors.\r\n\r\nView hook output\r\nTo review hook output and errors:\r\n\r\nOpen the Output panel.\r\n\r\nSelect GitHub Copilot Chat Hooks from the channel list.\r\n\r\nCommon issues\r\nHook not executing: Verify the hook file is in .github/hooks/ and has a .json extension. Check that the type property is set to \"command\".\r\n\r\nPermission denied errors: Ensure your hook scripts have execute permissions (chmod +x script.sh).\r\n\r\nTimeout errors: Increase the timeout value or optimize your hook script. The default is 30 seconds.\r\n\r\nJSON parse errors: Verify your hook script outputs valid JSON to stdout. Use jq or a JSON library to construct output.\r\n\r\nFrequently asked questions\r\nHow does VS Code handle Claude Code hook configurations?\r\nVS Code parses Claude Code's hook configuration format, including matcher syntax. Currently, VS Code ignores matcher values, so hooks apply to all tools. Claude Code uses an empty string matcher (\"\") to represent all tools.\r\n\r\nHow does VS Code handle Copilot CLI hook configurations?\r\nVS Code parses Copilot CLI hook configurations and converts the lowerCamelCase hook event names (like preToolUse) to the PascalCase format used by VS Code (PreToolUse). Both bash and powershell command formats are supported.\r\n\r\nSecurity considerations\r\nCaution\r\nHooks execute shell commands with the same permissions as VS Code. Review hook configurations carefully, especially when using hooks from untrusted sources.\r\n\r\nReview hook scripts: Inspect all hook scripts before enabling them, especially in shared repositories.\r\n\r\nLimit hook permissions: Use the principle of least privilege. Hooks should only have access to what they need.\r\n\r\nValidate input: Hook scripts receive input from the agent. Validate and sanitize all input to prevent injection attacks.\r\n\r\nSecure credentials: Never hardcode secrets in hook scripts. Use environment variables or secure credential storage.\r\n\r\nRelated resources"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "where is task-9 saved in vscode settings",
+      "timestamp": "2026-02-25T01:30:48.945Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:30:48.945Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "where is task-9 saved in vscode settings",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "where is task-9 saved in vscode settings"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T01:32:25.310Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:32:25.310Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "where is it set",
+      "timestamp": "2026-02-25T01:32:42.906Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:32:42.906Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "where is it set",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "where is it set"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "actualy can we read the taskid from json that is stored in fs",
+      "timestamp": "2026-02-25T01:34:54.432Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:34:54.432Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "actualy can we read the taskid from json that is stored in fs",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "actualy can we read the taskid from json that is stored in fs"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "we want task id at teminal level",
+      "timestamp": "2026-02-25T01:35:22.692Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:35:22.692Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "we want task id at teminal level",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "we want task id at teminal level"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "terminalName": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Try Again",
+      "timestamp": "2026-02-25T01:43:11.551Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:43:11.551Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7d80a61c-9a03-495d-b0f0-935ee1ce98e2.jsonl",
+          "prompt": "Try Again",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7d80a61c-9a03-495d-b0f0-935ee1ce98e2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "Try Again"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "terminalName": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T01:47:18.560Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:47:18.560Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f1839078-616d-4e93-a8e1-295e86c0865e.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "terminalName": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "task-10",
+      "timestamp": "2026-02-25T01:47:49.902Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:47:49.902Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f1839078-616d-4e93-a8e1-295e86c0865e.jsonl",
+          "prompt": "task-10",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "task-10"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "terminalName": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "where is taskid set",
+      "timestamp": "2026-02-25T01:48:14.067Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:48:14.067Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f1839078-616d-4e93-a8e1-295e86c0865e.jsonl",
+          "prompt": "where is taskid set",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "where is taskid set"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "terminalName": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "didnt we update to use json?",
+      "timestamp": "2026-02-25T01:48:41.740Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:48:41.740Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f1839078-616d-4e93-a8e1-295e86c0865e.jsonl",
+          "prompt": "didnt we update to use json?",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "didnt we update to use json?"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "terminalName": "f1839078-616d-4e93-a8e1-295e86c0865e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "let the copilot agents also set json ",
+      "timestamp": "2026-02-25T01:49:11.991Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:49:11.991Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f1839078-616d-4e93-a8e1-295e86c0865e.jsonl",
+          "prompt": "let the copilot agents also set json ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f1839078-616d-4e93-a8e1-295e86c0865e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "let the copilot agents also set json "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+      "terminalName": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi ",
+      "timestamp": "2026-02-25T01:51:57.137Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:51:57.137Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\3c39f749-200f-49bc-8da9-4da8a84b356b.jsonl",
+          "prompt": "hi ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+      "terminalName": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "why still agent is check env not json?",
+      "timestamp": "2026-02-25T01:52:26.590Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:52:26.590Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\3c39f749-200f-49bc-8da9-4da8a84b356b.jsonl",
+          "prompt": "why still agent is check env not json?",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "why still agent is check env not json?"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+      "terminalName": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "by default ask fot id if the current terminal is not found in json",
+      "timestamp": "2026-02-25T01:54:02.497Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:54:02.497Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\3c39f749-200f-49bc-8da9-4da8a84b356b.jsonl",
+          "prompt": "by default ask fot id if the current terminal is not found in json",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "3c39f749-200f-49bc-8da9-4da8a84b356b",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "by default ask fot id if the current terminal is not found in json"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "terminalName": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi ",
+      "timestamp": "2026-02-25T01:55:02.232Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:55:02.232Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ec39c37f-1723-4123-b3df-5db07d91bbd4.jsonl",
+          "prompt": "hi ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "terminalName": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "task-10",
+      "timestamp": "2026-02-25T01:55:36.487Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:55:36.487Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ec39c37f-1723-4123-b3df-5db07d91bbd4.jsonl",
+          "prompt": "task-10",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "task-10"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "terminalName": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "good morning",
+      "timestamp": "2026-02-25T01:55:57.824Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:55:57.824Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ec39c37f-1723-4123-b3df-5db07d91bbd4.jsonl",
+          "prompt": "good morning",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "good morning"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "terminalName": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "how are you",
+      "timestamp": "2026-02-25T01:56:33.490Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:56:33.490Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ec39c37f-1723-4123-b3df-5db07d91bbd4.jsonl",
+          "prompt": "how are you",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "how are you"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "terminalName": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "not being logged in history, something workg with taskid mapping i think ",
+      "timestamp": "2026-02-25T01:57:15.140Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T01:57:15.140Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ec39c37f-1723-4123-b3df-5db07d91bbd4.jsonl",
+          "prompt": "not being logged in history, something workg with taskid mapping i think ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "not being logged in history, something workg with taskid mapping i think "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "terminalName": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "i want task id to be set by user for each chat",
+      "timestamp": "2026-02-25T02:00:45.560Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:00:45.560Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ec39c37f-1723-4123-b3df-5db07d91bbd4.jsonl",
+          "prompt": "i want task id to be set by user for each chat",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "i want task id to be set by user for each chat"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "terminalName": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "ensure we are not depeding on env variable anywherfe for taskid",
+      "timestamp": "2026-02-25T02:01:20.510Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:01:20.510Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ec39c37f-1723-4123-b3df-5db07d91bbd4.jsonl",
+          "prompt": "ensure we are not depeding on env variable anywherfe for taskid",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "ensure we are not depeding on env variable anywherfe for taskid"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "terminalName": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Continue: \"Continue to iterate?\"",
+      "timestamp": "2026-02-25T02:05:09.390Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:05:09.390Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ec39c37f-1723-4123-b3df-5db07d91bbd4.jsonl",
+          "prompt": "Continue: \"Continue to iterate?\"",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ec39c37f-1723-4123-b3df-5db07d91bbd4",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "Continue: \"Continue to iterate?\""
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "terminalName": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:06:06.091Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:06:06.091Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\4ae109bb-f125-4441-908e-6832c4cbb250.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "terminalName": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "task-10",
+      "timestamp": "2026-02-25T02:06:33.868Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:06:33.868Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\4ae109bb-f125-4441-908e-6832c4cbb250.jsonl",
+          "prompt": "task-10",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "task-10"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "terminalName": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "nothing ",
+      "timestamp": "2026-02-25T02:06:52.787Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:06:52.787Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\4ae109bb-f125-4441-908e-6832c4cbb250.jsonl",
+          "prompt": "nothing ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "nothing "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "terminalName": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "still history is not logged",
+      "timestamp": "2026-02-25T02:07:19.349Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:07:19.349Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\4ae109bb-f125-4441-908e-6832c4cbb250.jsonl",
+          "prompt": "still history is not logged",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "still history is not logged"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "terminalName": "4ae109bb-f125-4441-908e-6832c4cbb250",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "it is running",
+      "timestamp": "2026-02-25T02:07:46.959Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:07:46.959Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\4ae109bb-f125-4441-908e-6832c4cbb250.jsonl",
+          "prompt": "it is running",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "4ae109bb-f125-4441-908e-6832c4cbb250",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "it is running"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab",
+      "terminalName": "2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:14:16.952Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:14:16.952Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab",
+      "terminalName": "2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "task-11",
+      "timestamp": "2026-02-25T02:14:42.194Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:14:42.194Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab.jsonl",
+          "prompt": "task-11",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "2f35ed5b-fecf-49b4-9d5c-f1d44f4d14ab",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "task-11"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "terminalName": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:15:05.888Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:15:05.888Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\21fd79d5-d593-46bc-8c30-bada0b5300a0.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "terminalName": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hello",
+      "timestamp": "2026-02-25T02:15:29.685Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:15:29.685Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\21fd79d5-d593-46bc-8c30-bada0b5300a0.jsonl",
+          "prompt": "hello",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hello"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "terminalName": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "history not looging whe  doing through chat",
+      "timestamp": "2026-02-25T02:16:12.393Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:16:12.393Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\21fd79d5-d593-46bc-8c30-bada0b5300a0.jsonl",
+          "prompt": "history not looging whe  doing through chat",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "history not looging whe  doing through chat"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "terminalName": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:19:45.292Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:19:45.292Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\21fd79d5-d593-46bc-8c30-bada0b5300a0.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "3dbb036f-17d9-4511-8296-c51adc6d2323",
+      "terminalName": "3dbb036f-17d9-4511-8296-c51adc6d2323",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:24:48.621Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:24:48.621Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "3dbb036f-17d9-4511-8296-c51adc6d2323",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\3dbb036f-17d9-4511-8296-c51adc6d2323.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "3dbb036f-17d9-4511-8296-c51adc6d2323",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:26:02.423Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:26:02.423Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "klll;",
+      "timestamp": "2026-02-25T02:26:27.027Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:26:27.027Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "klll;",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "klll;"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "why not logging",
+      "timestamp": "2026-02-25T02:27:00.623Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:27:00.623Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "why not logging",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "why not logging"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "task-11",
+      "timestamp": "2026-02-25T02:27:34.565Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:27:34.565Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "task-11",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "task-11"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "update to task-11",
+      "timestamp": "2026-02-25T02:27:49.548Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:27:49.548Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "update to task-11",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "update to task-11"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "update to task-12",
+      "timestamp": "2026-02-25T02:28:09.899Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:28:09.899Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "update to task-12",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "update to task-12"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:28:23.074Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:28:23.074Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "do nothink",
+      "timestamp": "2026-02-25T02:28:34.579Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:28:34.579Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "do nothink",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "do nothink"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "again not logging",
+      "timestamp": "2026-02-25T02:28:55.332Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:28:55.332Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "again not logging",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "again not logging"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "how to avoid this issue ",
+      "timestamp": "2026-02-25T02:30:39.322Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:30:39.322Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "how to avoid this issue ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "how to avoid this issue "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "terminalName": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "is new chant equal to new session",
+      "timestamp": "2026-02-25T02:55:56.372Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:55:56.372Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\c62e90b3-294d-4aa8-b622-be3b446bb90e.jsonl",
+          "prompt": "is new chant equal to new session",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "c62e90b3-294d-4aa8-b622-be3b446bb90e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "is new chant equal to new session"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "4d5c0423-172d-4f94-ab28-36593774c8a2",
+      "terminalName": "4d5c0423-172d-4f94-ab28-36593774c8a2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:57:20.368Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:57:20.368Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "4d5c0423-172d-4f94-ab28-36593774c8a2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\4d5c0423-172d-4f94-ab28-36593774c8a2.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "4d5c0423-172d-4f94-ab28-36593774c8a2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "4d5c0423-172d-4f94-ab28-36593774c8a2",
+      "terminalName": "4d5c0423-172d-4f94-ab28-36593774c8a2",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi ",
+      "timestamp": "2026-02-25T02:58:18.752Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:58:18.752Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "4d5c0423-172d-4f94-ab28-36593774c8a2",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\4d5c0423-172d-4f94-ab28-36593774c8a2.jsonl",
+          "prompt": "hi ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "4d5c0423-172d-4f94-ab28-36593774c8a2",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T02:58:48.250Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:58:48.250Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "what is current task id",
+      "timestamp": "2026-02-25T02:59:10.094Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:59:10.094Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "what is current task id",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "what is current task id"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "update to task-13",
+      "timestamp": "2026-02-25T03:00:26.097Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:00:26.097Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "update to task-13",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "update to task-13"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T03:00:42.959Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:00:42.959Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "still not tracking in history. ca you explain how the history is set from copilot",
+      "timestamp": "2026-02-25T03:01:29.896Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:01:29.896Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "still not tracking in history. ca you explain how the history is set from copilot",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "still not tracking in history. ca you explain how the history is set from copilot"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T03:03:17.569Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:03:17.569Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T03:04:13.440Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:04:13.440Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "explain sessiona dn taks mappin",
+      "timestamp": "2026-02-25T03:07:11.205Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:07:11.205Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "explain sessiona dn taks mappin",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "explain sessiona dn taks mappin"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "terminalName": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "whaere is sessio n id task mapping stored",
+      "timestamp": "2026-02-25T03:08:46.615Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:08:46.615Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7a663b5d-8c6c-4e0b-b854-e004ceda31f5.jsonl",
+          "prompt": "whaere is sessio n id task mapping stored",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7a663b5d-8c6c-4e0b-b854-e004ceda31f5",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "whaere is sessio n id task mapping stored"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "ab21d783-d0ba-46a1-a9f0-a40994f28e25",
+      "terminalName": "ab21d783-d0ba-46a1-a9f0-a40994f28e25",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi ",
+      "timestamp": "2026-02-25T03:10:22.689Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:10:22.689Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "ab21d783-d0ba-46a1-a9f0-a40994f28e25",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\ab21d783-d0ba-46a1-a9f0-a40994f28e25.jsonl",
+          "prompt": "hi ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "ab21d783-d0ba-46a1-a9f0-a40994f28e25",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+      "terminalName": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "how  are we checkin current tsk id",
+      "timestamp": "2026-02-25T03:11:03.137Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:11:03.137Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\d9f806fc-5044-4a3c-9d0c-bf056a610bae.jsonl",
+          "prompt": "how  are we checkin current tsk id",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "how  are we checkin current tsk id"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+      "terminalName": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "isnt this wrong Extracts the first session ID from the response\r\n",
+      "timestamp": "2026-02-25T03:11:43.230Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:11:43.230Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\d9f806fc-5044-4a3c-9d0c-bf056a610bae.jsonl",
+          "prompt": "isnt this wrong Extracts the first session ID from the response\r\n",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "isnt this wrong Extracts the first session ID from the response\r\n"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+      "terminalName": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "we should check if current session has a task id or else add a new entry with currsnt session id and task id from user",
+      "timestamp": "2026-02-25T03:12:40.814Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:12:40.814Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\d9f806fc-5044-4a3c-9d0c-bf056a610bae.jsonl",
+          "prompt": "we should check if current session has a task id or else add a new entry with currsnt session id and task id from user",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "d9f806fc-5044-4a3c-9d0c-bf056a610bae",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "we should check if current session has a task id or else add a new entry with currsnt session id and task id from user"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+      "terminalName": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T03:15:50.632Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:15:50.632Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f3e0eccb-c35c-42cf-bad1-40988d1a5026.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+      "terminalName": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T03:16:09.968Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:16:09.968Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f3e0eccb-c35c-42cf-bad1-40988d1a5026.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+      "terminalName": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "check agaiin",
+      "timestamp": "2026-02-25T03:16:50.362Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:16:50.362Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f3e0eccb-c35c-42cf-bad1-40988d1a5026.jsonl",
+          "prompt": "check agaiin",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "check agaiin"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+      "terminalName": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "sdcsdczxc",
+      "timestamp": "2026-02-25T03:17:47.552Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:17:47.552Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\f3e0eccb-c35c-42cf-bad1-40988d1a5026.jsonl",
+          "prompt": "sdcsdczxc",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "f3e0eccb-c35c-42cf-bad1-40988d1a5026",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "sdcsdczxc"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "b75294bb-b5a9-4c75-8a3f-61431a23c5e8",
+      "terminalName": "b75294bb-b5a9-4c75-8a3f-61431a23c5e8",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "o",
+      "timestamp": "2026-02-25T03:21:13.125Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T03:21:13.125Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "b75294bb-b5a9-4c75-8a3f-61431a23c5e8",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\b75294bb-b5a9-4c75-8a3f-61431a23c5e8.jsonl",
+          "prompt": "o",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "b75294bb-b5a9-4c75-8a3f-61431a23c5e8",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "o"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "terminalName": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi ",
+      "timestamp": "2026-02-25T05:54:18.449Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:54:18.449Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\38d6bc87-19c6-4603-ab08-fc4371acc018.jsonl",
+          "prompt": "hi ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "terminalName": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi ",
+      "timestamp": "2026-02-25T05:54:27.477Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:54:27.477Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\38d6bc87-19c6-4603-ab08-fc4371acc018.jsonl",
+          "prompt": "hi ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "terminalName": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "how are you",
+      "timestamp": "2026-02-25T05:55:03.513Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:55:03.513Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\38d6bc87-19c6-4603-ab08-fc4371acc018.jsonl",
+          "prompt": "how are you",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "how are you"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "terminalName": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "still not working can you please make it work so that every time i start a fresh chat in vscode it should always ask for task id regardless of if one is there",
+      "timestamp": "2026-02-25T05:56:14.826Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:56:14.826Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\38d6bc87-19c6-4603-ab08-fc4371acc018.jsonl",
+          "prompt": "still not working can you please make it work so that every time i start a fresh chat in vscode it should always ask for task id regardless of if one is there",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "still not working can you please make it work so that every time i start a fresh chat in vscode it should always ask for task id regardless of if one is there"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "terminalName": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T05:56:54.477Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:56:54.477Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\38d6bc87-19c6-4603-ab08-fc4371acc018.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "terminalName": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "task-13",
+      "timestamp": "2026-02-25T05:57:09.409Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:57:09.409Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\38d6bc87-19c6-4603-ab08-fc4371acc018.jsonl",
+          "prompt": "task-13",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "task-13"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "terminalName": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "not all just the current terminal should go ",
+      "timestamp": "2026-02-25T05:57:46.078Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:57:46.078Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\38d6bc87-19c6-4603-ab08-fc4371acc018.jsonl",
+          "prompt": "not all just the current terminal should go ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "38d6bc87-19c6-4603-ab08-fc4371acc018",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "not all just the current terminal should go "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-25T05:58:45.466Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:58:45.466Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "hi",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "task-14",
+      "timestamp": "2026-02-25T05:59:02.627Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:59:02.627Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "task-14",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "task-14"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "nothinf",
+      "timestamp": "2026-02-25T05:59:34.761Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T05:59:34.761Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "nothinf",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "nothinf"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "l\\sendign this to testbhistory",
+      "timestamp": "2026-02-25T06:00:02.936Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:00:02.936Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "l\\sendign this to testbhistory",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "l\\sendign this to testbhistory"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "No history yet for this task.\r\n",
+      "timestamp": "2026-02-25T06:00:35.595Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:00:35.595Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "No history yet for this task.\r\n",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "No history yet for this task.\r\n"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "build a batman page",
+      "timestamp": "2026-02-25T06:01:05.186Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:01:05.186Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "build a batman page",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "build a batman page"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "yes",
+      "timestamp": "2026-02-25T06:01:54.044Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:01:54.044Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "yes",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "yes"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cf645973-eb73-4ca9-9062-c835dccea53d",
+      "terminalName": "cf645973-eb73-4ca9-9062-c835dccea53d",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Create a new standalone Batman page at src/app/[locale]/batman/page.tsx with the following requirements:\n\n- Simple hero section with Batman information (title, description, image)\n- Follow the **integrating-matomo-analytics** and **adding-data-test-ids** skills\n- Use appropriate Subframe components from @/ui/components for layout (do NOT create custom components)\n- Set analytics module to 'batman-page' in useEffect\n- Add data-testid attributes to all interactive elements using kebab-case with proper prefixes\n- Use PortalLoader for any loading states\n- No sidebar layout - standalone page\n- TypeScript with proper types\n- Do NOT commit the changes - leave as modified files\n- Do NOT modify src/ui/\n\nThe page should be accessible at /batman route.",
+      "timestamp": "2026-02-25T06:02:01.830Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:02:01.830Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cf645973-eb73-4ca9-9062-c835dccea53d",
+          "prompt": "Create a new standalone Batman page at src/app/[locale]/batman/page.tsx with the following requirements:\n\n- Simple hero section with Batman information (title, description, image)\n- Follow the **integrating-matomo-analytics** and **adding-data-test-ids** skills\n- Use appropriate Subframe components from @/ui/components for layout (do NOT create custom components)\n- Set analytics module to 'batman-page' in useEffect\n- Add data-testid attributes to all interactive elements using kebab-case with proper prefixes\n- Use PortalLoader for any loading states\n- No sidebar layout - standalone page\n- TypeScript with proper types\n- Do NOT commit the changes - leave as modified files\n- Do NOT modify src/ui/\n\nThe page should be accessible at /batman route.",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cf645973-eb73-4ca9-9062-c835dccea53d",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "Create a new standalone Batman page at src/app/[locale]/batman/page.tsx with the following requirements:\n\n- Simple hero section with Batman information (title, description, image)\n- Follow the **integrating-matomo-analytics** and **adding-data-test-ids** skills\n- Use appropriate Subframe components from @/ui/components for layout (do NOT create custom components)\n- Set analytics module to 'batman-page' in useEffect\n- Add data-testid attributes to all interactive elements using kebab-case with proper prefixes\n- Use PortalLoader for any loading states\n- No sidebar layout - standalone page\n- TypeScript with proper types\n- Do NOT commit the changes - leave as modified files\n- Do NOT modify src/ui/\n\nThe page should be accessible at /batman route."
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "No history yet for this task.\r\n",
+      "timestamp": "2026-02-25T06:02:53.911Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:02:53.911Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "No history yet for this task.\r\n",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "No history yet for this task.\r\n"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "60197f49-297d-48c3-a705-b03e2cad3f2e",
+      "terminalName": "60197f49-297d-48c3-a705-b03e2cad3f2e",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Create a new standalone Batman page at src/app/[locale]/batman/page.tsx with the following requirements:\n\n- Simple hero section with Batman information (title, description, image)\n- Follow the **integrating-matomo-analytics** and **adding-data-test-ids** skills\n- Use appropriate Subframe components from @/ui/components for layout (do NOT create custom components)\n- Set analytics module to 'batman-page' in useEffect\n- Add data-testid attributes to all interactive elements using kebab-case with proper prefixes\n- Use PortalLoader for any loading states\n- No sidebar layout - standalone page\n- TypeScript with proper types\n- Do NOT commit the changes - leave as modified files\n- Do NOT modify src/ui/\n\nThe page should be accessible at /batman route.",
+      "timestamp": "2026-02-25T06:03:06.813Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:03:06.813Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "60197f49-297d-48c3-a705-b03e2cad3f2e",
+          "prompt": "Create a new standalone Batman page at src/app/[locale]/batman/page.tsx with the following requirements:\n\n- Simple hero section with Batman information (title, description, image)\n- Follow the **integrating-matomo-analytics** and **adding-data-test-ids** skills\n- Use appropriate Subframe components from @/ui/components for layout (do NOT create custom components)\n- Set analytics module to 'batman-page' in useEffect\n- Add data-testid attributes to all interactive elements using kebab-case with proper prefixes\n- Use PortalLoader for any loading states\n- No sidebar layout - standalone page\n- TypeScript with proper types\n- Do NOT commit the changes - leave as modified files\n- Do NOT modify src/ui/\n\nThe page should be accessible at /batman route.",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "60197f49-297d-48c3-a705-b03e2cad3f2e",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "Create a new standalone Batman page at src/app/[locale]/batman/page.tsx with the following requirements:\n\n- Simple hero section with Batman information (title, description, image)\n- Follow the **integrating-matomo-analytics** and **adding-data-test-ids** skills\n- Use appropriate Subframe components from @/ui/components for layout (do NOT create custom components)\n- Set analytics module to 'batman-page' in useEffect\n- Add data-testid attributes to all interactive elements using kebab-case with proper prefixes\n- Use PortalLoader for any loading states\n- No sidebar layout - standalone page\n- TypeScript with proper types\n- Do NOT commit the changes - leave as modified files\n- Do NOT modify src/ui/\n\nThe page should be accessible at /batman route."
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "No history yet for this task.\r\n",
+      "timestamp": "2026-02-25T06:03:47.356Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:03:47.356Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "No history yet for this task.\r\n",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "No history yet for this task.\r\n"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "kdsmfls",
+      "timestamp": "2026-02-25T06:05:38.903Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:05:38.903Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "kdsmfls",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "kdsmfls"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "test the history",
+      "timestamp": "2026-02-25T06:06:03.671Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:06:03.671Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "test the history",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "test the history"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "but why isnt it working if a isart a new chat",
+      "timestamp": "2026-02-25T06:07:08.959Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:07:08.959Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "but why isnt it working if a isart a new chat",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "but why isnt it working if a isart a new chat"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "terminalName": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "please ask the user task id when starting a new question/session. and make it work ",
+      "timestamp": "2026-02-25T06:08:58.910Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:08:58.910Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\cc4438f0-f4fc-4700-b758-25e93d13c995.jsonl",
+          "prompt": "please ask the user task id when starting a new question/session. and make it work ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "cc4438f0-f4fc-4700-b758-25e93d13c995",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "please ask the user task id when starting a new question/session. and make it work "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "terminalName": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hello",
+      "timestamp": "2026-02-25T06:18:18.218Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:18:18.218Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7752ecb0-0af3-4064-b881-7e63389ef87c.jsonl",
+          "prompt": "hello",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hello"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "terminalName": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "task-14",
+      "timestamp": "2026-02-25T06:18:36.815Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:18:36.815Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7752ecb0-0af3-4064-b881-7e63389ef87c.jsonl",
+          "prompt": "task-14",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "task-14"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "terminalName": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi ",
+      "timestamp": "2026-02-25T06:18:54.442Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:18:54.442Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7752ecb0-0af3-4064-b881-7e63389ef87c.jsonl",
+          "prompt": "hi ",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "hi "
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "terminalName": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "make a plan for a dummy page",
+      "timestamp": "2026-02-25T06:19:14.632Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:19:14.632Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7752ecb0-0af3-4064-b881-7e63389ef87c.jsonl",
+          "prompt": "make a plan for a dummy page",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "make a plan for a dummy page"
+        }
+      }
+    },
+    {
+      "taskId": "task-9",
+      "terminalId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "terminalName": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "kill server",
+      "timestamp": "2026-02-25T06:20:34.641Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T06:20:34.641Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\7752ecb0-0af3-4064-b881-7e63389ef87c.jsonl",
+          "prompt": "kill server",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-9",
+          "event_type": "user_prompt",
+          "terminal_id": "7752ecb0-0af3-4064-b881-7e63389ef87c",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "kill server"
+        }
+      }
+    }
+  ]
+}

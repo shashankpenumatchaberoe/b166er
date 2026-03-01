@@ -1,0 +1,1500 @@
+2026-03-01T12:54:11.3992462+05:30 [session-start] Starting hook execution
+2026-03-01T12:54:11.4053112+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T12:54:11.5017360+05:30 [session-start] Session info received: 
+2026-03-01T12:54:11.5038378+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T12:56:07.3370606+05:30 [session-start] Starting hook execution
+2026-03-01T12:56:07.3469634+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T12:56:07.4833898+05:30 [session-start] Session info received: 
+2026-03-01T12:56:07.4859778+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T13:12:17.5110749+05:30 [session-start] Starting hook execution
+2026-03-01T13:12:17.5232660+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T13:12:17.6357251+05:30 [session-start] Session info received: 
+2026-03-01T13:12:17.6381992+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T13:15:37.3070363+05:30 [session-start] Starting hook execution
+2026-03-01T13:15:37.3242331+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T13:15:37.5326639+05:30 [session-start] Session info received: 
+2026-03-01T13:15:37.5374437+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T13:18:21.1496235+05:30 [session-start] Starting hook execution
+2026-03-01T13:18:21.1668509+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T13:18:21.3908528+05:30 [session-start] Session info received: 
+2026-03-01T13:18:21.3925627+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T13:20:04.9785486+05:30 [session-start] Starting hook execution
+2026-03-01T13:20:04.9851260+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T13:20:05.0731248+05:30 [session-start] Session info received: 
+2026-03-01T13:20:05.0751872+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T13:28:52.4508027+05:30 [session-start] Starting hook execution
+2026-03-01T13:28:52.4564827+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T13:28:52.5361071+05:30 [session-start] Session info received: 
+2026-03-01T13:28:52.5377870+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T13:44:20.4127761+05:30 [session-start] Starting hook execution
+2026-03-01T13:44:20.4317126+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T13:44:20.6127103+05:30 [session-start] Session info received: 
+2026-03-01T13:44:20.6164856+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T13:57:46.4548567+05:30 [session-start] Starting hook execution
+2026-03-01T13:57:46.4810059+05:30 [session-start] Received sessionId from Copilot: 11004c24-48f1-419c-a663-044c7a79d77b
+2026-03-01T13:57:46.4946965+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T13:57:46.5001703+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T13:57:46.6083940+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"testing-1772353645652","name":"testing","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T13:57:46.6119837+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T13:57:46.6132354+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T13:57:46.6736514+05:30 [session-start] Session info received: 
+2026-03-01T13:57:46.6757977+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T14:03:49.5437866+05:30 [session-start] Starting hook execution
+2026-03-01T14:03:49.6860170+05:30 [session-start] Received sessionId from Copilot: d3e61744-5bcb-4e92-a9bc-f00fc5feaffe
+2026-03-01T14:03:49.6964429+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:03:49.7009169+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:03:49.7864059+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"yyyy-1772353998561","name":"yyyy","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T14:03:49.7893067+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T14:03:49.7903564+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:03:49.8554874+05:30 [session-start] Session info received: 
+2026-03-01T14:03:49.8572135+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T14:04:47.8536449+05:30 [session-start] Starting hook execution
+2026-03-01T14:04:47.8633001+05:30 [session-start] Received sessionId from Copilot: d3e61744-5bcb-4e92-a9bc-f00fc5feaffe
+2026-03-01T14:04:47.8688225+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:04:47.8709743+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:04:47.9225553+05:30 [session-start] Init result: {"status":"ready","taskId":"yyyy-1772353998561","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: yyyy-1772353998561"}
+2026-03-01T14:04:47.9251737+05:30 [session-start] ✓ Session auto-mapped to task: yyyy-1772353998561
+2026-03-01T14:04:47.9263722+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:04:47.9871666+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"yyyy-1772353998561"}
+2026-03-01T14:04:47.9880294+05:30 [session-start] Parsed - TaskId: yyyy-1772353998561, Workflow: comedy_club
+2026-03-01T14:04:47.9965725+05:30 [session-start] Logging session start: taskId=yyyy-1772353998561, sessionId=d3e61744-5bcb-4e92-a9bc-f00fc5feaffe, terminalId=7d5f1e06-1efb-496c-bf77-4e3814cecbbb
+2026-03-01T14:04:48.0120674+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:04:48.0224817+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:04:48.0238583+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:04:48.0253149+05:30 [session-start] File exists: True
+2026-03-01T14:04:48.0354303+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:16:15.4412620+05:30 [session-start] Starting hook execution
+2026-03-01T14:16:15.5688223+05:30 [session-start] Received sessionId from Copilot: fd16b33d-a3fd-4be7-acf7-a3bd152faace
+2026-03-01T14:16:15.5779879+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:16:15.5813405+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:16:15.6644105+05:30 [session-start] Init result: {"status":"ready","taskId":"verify-auto-queue-test-1772354156987","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: verify-auto-queue-test-1772354156987"}
+2026-03-01T14:16:15.6688812+05:30 [session-start] ✓ Session auto-mapped to task: verify-auto-queue-test-1772354156987
+2026-03-01T14:16:15.6698024+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:16:15.7245901+05:30 [session-start] Session info received: {"taskId":"verify-auto-queue-test-1772354156987","workflowFilename":"comedy_club"}
+2026-03-01T14:16:15.7255876+05:30 [session-start] Parsed - TaskId: verify-auto-queue-test-1772354156987, Workflow: comedy_club
+2026-03-01T14:16:15.7389460+05:30 [session-start] Logging session start: taskId=verify-auto-queue-test-1772354156987, sessionId=fd16b33d-a3fd-4be7-acf7-a3bd152faace, terminalId=7b05510e-7b6f-4e1f-bc87-17685ee0b611
+2026-03-01T14:16:15.7506381+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:16:15.7534794+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:16:15.7545434+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:16:15.7556744+05:30 [session-start] File exists: True
+2026-03-01T14:16:15.7628428+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:33:31.4081662+05:30 [session-start] Starting hook execution
+2026-03-01T14:33:31.7187646+05:30 [session-start] Received sessionId from Copilot: 7afc54ef-c0f0-4573-a75c-6a9bcb10fca3
+2026-03-01T14:33:31.7318483+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:33:31.7347227+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:33:31.8105097+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"club-1772355784405","name":"club","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T14:33:31.8146641+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T14:33:31.8159859+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:33:31.8749953+05:30 [session-start] Session info received: 
+2026-03-01T14:33:31.8766556+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T14:35:15.0784603+05:30 [session-start] Starting hook execution
+2026-03-01T14:35:15.3596121+05:30 [session-start] Received sessionId from Copilot: aa158222-cf0b-4cfc-8a8f-3d6431ec8633
+2026-03-01T14:35:15.3723026+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:35:15.3761898+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:35:15.4950830+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"club-1772355784405","name":"club","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T14:35:15.4985622+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T14:35:15.5012938+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:35:15.5607476+05:30 [session-start] Session info received: 
+2026-03-01T14:35:15.5630582+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T14:36:35.3714945+05:30 [session-start] Starting hook execution
+2026-03-01T14:36:35.7204937+05:30 [session-start] Received sessionId from Copilot: 35b5b234-d6cc-47e7-a738-e6065985f55e
+2026-03-01T14:36:35.7337525+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:36:35.7371174+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:36:35.8244183+05:30 [session-start] Init result: {"status":"ready","taskId":"assa-1772355978341","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: assa-1772355978341"}
+2026-03-01T14:36:35.8288810+05:30 [session-start] ✓ Session auto-mapped to task: assa-1772355978341
+2026-03-01T14:36:35.8299655+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:36:35.8955963+05:30 [session-start] Session info received: {"taskId":"assa-1772355978341","workflowFilename":"comedy_club"}
+2026-03-01T14:36:35.8969303+05:30 [session-start] Parsed - TaskId: assa-1772355978341, Workflow: comedy_club
+2026-03-01T14:36:35.9100509+05:30 [session-start] Logging session start: taskId=assa-1772355978341, sessionId=35b5b234-d6cc-47e7-a738-e6065985f55e, terminalId=31a73e52-f6b7-4830-a9ad-a56aab85b368
+2026-03-01T14:36:35.9213554+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:36:35.9264524+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:36:35.9282855+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:36:35.9300290+05:30 [session-start] File exists: True
+2026-03-01T14:36:35.9396533+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:37:45.7456309+05:30 [session-start] Starting hook execution
+2026-03-01T14:37:45.7563587+05:30 [session-start] Received sessionId from Copilot: 35b5b234-d6cc-47e7-a738-e6065985f55e
+2026-03-01T14:37:45.7609210+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:37:45.7624538+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:37:45.8087123+05:30 [session-start] Init result: {"status":"ready","taskId":"assa-1772355978341","workflowFilename":"comedy_club","message":"Session mapped to task: assa-1772355978341"}
+2026-03-01T14:37:45.8115932+05:30 [session-start] ✓ Session auto-mapped to task: assa-1772355978341
+2026-03-01T14:37:45.8124502+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:37:45.8612744+05:30 [session-start] Session info received: {"taskId":"assa-1772355978341","workflowFilename":"comedy_club"}
+2026-03-01T14:37:45.8621235+05:30 [session-start] Parsed - TaskId: assa-1772355978341, Workflow: comedy_club
+2026-03-01T14:37:45.8702260+05:30 [session-start] Logging session start: taskId=assa-1772355978341, sessionId=35b5b234-d6cc-47e7-a738-e6065985f55e, terminalId=31a73e52-f6b7-4830-a9ad-a56aab85b368
+2026-03-01T14:37:45.8859416+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:37:45.8895390+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:37:45.8911360+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:37:45.8927284+05:30 [session-start] File exists: True
+2026-03-01T14:37:45.9008879+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:39:19.3193825+05:30 [session-start] Starting hook execution
+2026-03-01T14:39:19.3316919+05:30 [session-start] Received sessionId from Copilot: 35b5b234-d6cc-47e7-a738-e6065985f55e
+2026-03-01T14:39:19.3363169+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:39:19.3379843+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:39:19.3836158+05:30 [session-start] Init result: {"status":"ready","taskId":"assa-1772355978341","workflowFilename":"comedy_club","message":"Session mapped to task: assa-1772355978341"}
+2026-03-01T14:39:19.3864597+05:30 [session-start] ✓ Session auto-mapped to task: assa-1772355978341
+2026-03-01T14:39:19.3872147+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:39:19.4346117+05:30 [session-start] Session info received: {"taskId":"assa-1772355978341","workflowFilename":"comedy_club"}
+2026-03-01T14:39:19.4354429+05:30 [session-start] Parsed - TaskId: assa-1772355978341, Workflow: comedy_club
+2026-03-01T14:39:19.4434187+05:30 [session-start] Logging session start: taskId=assa-1772355978341, sessionId=35b5b234-d6cc-47e7-a738-e6065985f55e, terminalId=31a73e52-f6b7-4830-a9ad-a56aab85b368
+2026-03-01T14:39:19.4575832+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:39:19.4627202+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:39:19.4639596+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:39:19.4651888+05:30 [session-start] File exists: True
+2026-03-01T14:39:19.4725282+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:45:48.0681217+05:30 [session-start] Starting hook execution
+2026-03-01T14:45:48.5788701+05:30 [session-start] Received sessionId from Copilot: 42112a8e-e2ae-4918-87b9-dc54b1018764
+2026-03-01T14:45:48.5883751+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:45:48.5908549+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:45:48.6506690+05:30 [session-start] Init result: {"status":"ready","taskId":"club-1772356528492","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: club-1772356528492"}
+2026-03-01T14:45:48.6536174+05:30 [session-start] ✓ Session auto-mapped to task: club-1772356528492
+2026-03-01T14:45:48.6545828+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:45:48.7163983+05:30 [session-start] Session info received: {"taskId":"club-1772356528492","workflowFilename":"comedy_club"}
+2026-03-01T14:45:48.7176554+05:30 [session-start] Parsed - TaskId: club-1772356528492, Workflow: comedy_club
+2026-03-01T14:45:48.7294406+05:30 [session-start] Logging session start: taskId=club-1772356528492, sessionId=42112a8e-e2ae-4918-87b9-dc54b1018764, terminalId=f2d00ebd-cfe7-420a-bdb7-18b53c17e40b
+2026-03-01T14:45:48.7437004+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:45:48.7492258+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:45:48.7510248+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:45:48.7527216+05:30 [session-start] File exists: True
+2026-03-01T14:45:48.7615477+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:46:24.7069405+05:30 [session-start] Starting hook execution
+2026-03-01T14:46:24.7199291+05:30 [session-start] Received sessionId from Copilot: 42112a8e-e2ae-4918-87b9-dc54b1018764
+2026-03-01T14:46:24.7245347+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:46:24.7260690+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:46:24.7673098+05:30 [session-start] Init result: {"status":"ready","taskId":"club-1772356528492","workflowFilename":"comedy_club","message":"Session mapped to task: club-1772356528492"}
+2026-03-01T14:46:24.7705493+05:30 [session-start] ✓ Session auto-mapped to task: club-1772356528492
+2026-03-01T14:46:24.7714970+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:46:24.8239070+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"club-1772356528492"}
+2026-03-01T14:46:24.8247968+05:30 [session-start] Parsed - TaskId: club-1772356528492, Workflow: comedy_club
+2026-03-01T14:46:24.8351885+05:30 [session-start] Logging session start: taskId=club-1772356528492, sessionId=42112a8e-e2ae-4918-87b9-dc54b1018764, terminalId=f2d00ebd-cfe7-420a-bdb7-18b53c17e40b
+2026-03-01T14:46:24.8488702+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:46:24.8532938+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:46:24.8544750+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:46:24.8556855+05:30 [session-start] File exists: True
+2026-03-01T14:46:24.8645092+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:47:13.3589485+05:30 [session-start] Starting hook execution
+2026-03-01T14:47:13.3687235+05:30 [session-start] Received sessionId from Copilot: 42112a8e-e2ae-4918-87b9-dc54b1018764
+2026-03-01T14:47:13.3738411+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:47:13.3758667+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:47:13.4210219+05:30 [session-start] Init result: {"status":"ready","taskId":"club-1772356528492","workflowFilename":"comedy_club","message":"Session mapped to task: club-1772356528492"}
+2026-03-01T14:47:13.4256406+05:30 [session-start] ✓ Session auto-mapped to task: club-1772356528492
+2026-03-01T14:47:13.4264792+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:47:13.4755443+05:30 [session-start] Session info received: {"taskId":"club-1772356528492","workflowFilename":"comedy_club"}
+2026-03-01T14:47:13.4764279+05:30 [session-start] Parsed - TaskId: club-1772356528492, Workflow: comedy_club
+2026-03-01T14:47:13.4837465+05:30 [session-start] Logging session start: taskId=club-1772356528492, sessionId=42112a8e-e2ae-4918-87b9-dc54b1018764, terminalId=f2d00ebd-cfe7-420a-bdb7-18b53c17e40b
+2026-03-01T14:47:13.4991005+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:47:13.5024341+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:47:13.5045678+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:47:13.5078211+05:30 [session-start] File exists: True
+2026-03-01T14:47:13.5167073+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:50:39.5092650+05:30 [session-start] Starting hook execution
+2026-03-01T14:50:40.2184215+05:30 [session-start] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:50:40.2279440+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:50:40.2310131+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:50:40.2960534+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"aksl-1772356824145","name":"aksl","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T14:50:40.2992975+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T14:50:40.3005343+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:50:40.3624095+05:30 [session-start] Session info received: 
+2026-03-01T14:50:40.3642679+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T14:51:45.8761108+05:30 [session-start] Starting hook execution
+2026-03-01T14:51:45.8883248+05:30 [session-start] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:51:45.8965402+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:51:45.8996059+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:51:45.9681610+05:30 [session-start] Init result: {"status":"ready","taskId":"aksl-1772356824145","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: aksl-1772356824145"}
+2026-03-01T14:51:45.9707040+05:30 [session-start] ✓ Session auto-mapped to task: aksl-1772356824145
+2026-03-01T14:51:45.9715866+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:51:46.0535181+05:30 [session-start] Session info received: {"taskId":"aksl-1772356824145","workflowFilename":"comedy_club"}
+2026-03-01T14:51:46.0554277+05:30 [session-start] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:51:46.0724434+05:30 [session-start] Logging session start: taskId=aksl-1772356824145, sessionId=56634d21-130f-4bf3-87cd-e9ac6985fce7, terminalId=812c22b2-6ecd-43f9-bafb-790082e0d4b8
+2026-03-01T14:51:46.0843910+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:51:46.0877259+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:51:46.0891610+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:51:46.0908017+05:30 [session-start] File exists: True
+2026-03-01T14:51:46.1009810+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:51:59.0915979+05:30 [session-start] Starting hook execution
+2026-03-01T14:51:59.1016370+05:30 [session-start] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:51:59.1061448+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:51:59.1077199+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:51:59.1522292+05:30 [session-start] Init result: {"status":"ready","taskId":"aksl-1772356824145","workflowFilename":"comedy_club","message":"Session mapped to task: aksl-1772356824145"}
+2026-03-01T14:51:59.1545256+05:30 [session-start] ✓ Session auto-mapped to task: aksl-1772356824145
+2026-03-01T14:51:59.1552842+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:51:59.2095810+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksl-1772356824145"}
+2026-03-01T14:51:59.2105094+05:30 [session-start] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:51:59.2184950+05:30 [session-start] Logging session start: taskId=aksl-1772356824145, sessionId=56634d21-130f-4bf3-87cd-e9ac6985fce7, terminalId=812c22b2-6ecd-43f9-bafb-790082e0d4b8
+2026-03-01T14:51:59.2415769+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:51:59.2445143+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:51:59.2462275+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:51:59.2478216+05:30 [session-start] File exists: True
+2026-03-01T14:51:59.2604579+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:52:06.7878933+05:30 [session-start] Starting hook execution
+2026-03-01T14:52:06.8038934+05:30 [session-start] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:52:06.8116181+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:52:06.8141023+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:52:06.8776965+05:30 [session-start] Init result: {"status":"ready","taskId":"aksl-1772356824145","workflowFilename":"comedy_club","message":"Session mapped to task: aksl-1772356824145"}
+2026-03-01T14:52:06.8811857+05:30 [session-start] ✓ Session auto-mapped to task: aksl-1772356824145
+2026-03-01T14:52:06.8822995+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:52:06.9679476+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksl-1772356824145"}
+2026-03-01T14:52:06.9706491+05:30 [session-start] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:52:06.9900762+05:30 [session-start] Logging session start: taskId=aksl-1772356824145, sessionId=56634d21-130f-4bf3-87cd-e9ac6985fce7, terminalId=812c22b2-6ecd-43f9-bafb-790082e0d4b8
+2026-03-01T14:52:07.0137158+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:52:07.0207520+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:52:07.0246529+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:52:07.0286974+05:30 [session-start] File exists: True
+2026-03-01T14:52:07.0440392+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:52:15.7776521+05:30 [session-start] Starting hook execution
+2026-03-01T14:52:15.7875496+05:30 [session-start] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:52:15.7920513+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:52:15.7934658+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:52:15.8315473+05:30 [session-start] Init result: {"status":"ready","taskId":"aksl-1772356824145","workflowFilename":"comedy_club","message":"Session mapped to task: aksl-1772356824145"}
+2026-03-01T14:52:15.8340916+05:30 [session-start] ✓ Session auto-mapped to task: aksl-1772356824145
+2026-03-01T14:52:15.8348288+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:52:15.8771719+05:30 [session-start] Session info received: {"taskId":"aksl-1772356824145","workflowFilename":"comedy_club"}
+2026-03-01T14:52:15.8780181+05:30 [session-start] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:52:15.8847522+05:30 [session-start] Logging session start: taskId=aksl-1772356824145, sessionId=56634d21-130f-4bf3-87cd-e9ac6985fce7, terminalId=812c22b2-6ecd-43f9-bafb-790082e0d4b8
+2026-03-01T14:52:15.8983439+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:52:15.9026548+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:52:15.9043297+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:52:15.9056215+05:30 [session-start] File exists: True
+2026-03-01T14:52:15.9122993+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:52:36.0613012+05:30 [session-start] Starting hook execution
+2026-03-01T14:52:36.0712310+05:30 [session-start] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:52:36.0763849+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:52:36.0779251+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:52:36.1186304+05:30 [session-start] Init result: {"status":"ready","taskId":"aksl-1772356824145","workflowFilename":"comedy_club","message":"Session mapped to task: aksl-1772356824145"}
+2026-03-01T14:52:36.1223027+05:30 [session-start] ✓ Session auto-mapped to task: aksl-1772356824145
+2026-03-01T14:52:36.1231487+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:52:36.1692602+05:30 [session-start] Session info received: {"taskId":"aksl-1772356824145","workflowFilename":"comedy_club"}
+2026-03-01T14:52:36.1703422+05:30 [session-start] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:52:36.1779532+05:30 [session-start] Logging session start: taskId=aksl-1772356824145, sessionId=56634d21-130f-4bf3-87cd-e9ac6985fce7, terminalId=812c22b2-6ecd-43f9-bafb-790082e0d4b8
+2026-03-01T14:52:36.1921731+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:52:36.1959931+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:52:36.1975600+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:52:36.1996034+05:30 [session-start] File exists: True
+2026-03-01T14:52:36.2097707+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:52:53.5648775+05:30 [session-start] Starting hook execution
+2026-03-01T14:52:53.5768487+05:30 [session-start] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:52:53.5816806+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:52:53.5832762+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:52:53.6246434+05:30 [session-start] Init result: {"status":"ready","taskId":"aksl-1772356824145","workflowFilename":"comedy_club","message":"Session mapped to task: aksl-1772356824145"}
+2026-03-01T14:52:53.6269396+05:30 [session-start] ✓ Session auto-mapped to task: aksl-1772356824145
+2026-03-01T14:52:53.6276610+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:52:53.6763013+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksl-1772356824145"}
+2026-03-01T14:52:53.6771702+05:30 [session-start] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:52:53.6844994+05:30 [session-start] Logging session start: taskId=aksl-1772356824145, sessionId=56634d21-130f-4bf3-87cd-e9ac6985fce7, terminalId=812c22b2-6ecd-43f9-bafb-790082e0d4b8
+2026-03-01T14:52:53.7066693+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:52:53.7153423+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:52:53.7182064+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:52:53.7215088+05:30 [session-start] File exists: True
+2026-03-01T14:52:53.7410014+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:56:57.5972381+05:30 [session-start] Starting hook execution
+2026-03-01T14:56:58.4383388+05:30 [session-start] Received sessionId from Copilot: b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:56:58.4483436+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:56:58.4511957+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:56:58.5045716+05:30 [session-start] Init result: {"status":"ready","taskId":"adas-1772357204084","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: adas-1772357204084"}
+2026-03-01T14:56:58.5081336+05:30 [session-start] ✓ Session auto-mapped to task: adas-1772357204084
+2026-03-01T14:56:58.5096255+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:56:58.5703435+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"adas-1772357204084"}
+2026-03-01T14:56:58.5713600+05:30 [session-start] Parsed - TaskId: adas-1772357204084, Workflow: comedy_club
+2026-03-01T14:56:58.5838985+05:30 [session-start] Logging session start: taskId=adas-1772357204084, sessionId=b98be431-14a4-40f2-9735-bae9b3fe2026, terminalId=d45ad1af-a547-4a37-8009-2cb001a1ea02
+2026-03-01T14:56:58.5954162+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:56:58.5985100+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:56:58.5997538+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:56:58.6010096+05:30 [session-start] File exists: True
+2026-03-01T14:56:58.6106245+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:57:24.5662476+05:30 [session-start] Starting hook execution
+2026-03-01T14:57:24.5768971+05:30 [session-start] Received sessionId from Copilot: b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:57:24.5814956+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:57:24.5829303+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:57:24.6286525+05:30 [session-start] Init result: {"status":"ready","taskId":"adas-1772357204084","workflowFilename":"comedy_club","message":"Session mapped to task: adas-1772357204084"}
+2026-03-01T14:57:24.6311805+05:30 [session-start] ✓ Session auto-mapped to task: adas-1772357204084
+2026-03-01T14:57:24.6322613+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:57:24.6903859+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"adas-1772357204084"}
+2026-03-01T14:57:24.6914697+05:30 [session-start] Parsed - TaskId: adas-1772357204084, Workflow: comedy_club
+2026-03-01T14:57:24.6999763+05:30 [session-start] Logging session start: taskId=adas-1772357204084, sessionId=b98be431-14a4-40f2-9735-bae9b3fe2026, terminalId=d45ad1af-a547-4a37-8009-2cb001a1ea02
+2026-03-01T14:57:24.7164405+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:57:24.7192245+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:57:24.7203086+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:57:24.7216712+05:30 [session-start] File exists: True
+2026-03-01T14:57:24.7313325+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:58:03.8238449+05:30 [session-start] Starting hook execution
+2026-03-01T14:58:03.8346646+05:30 [session-start] Received sessionId from Copilot: b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:58:03.8394087+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:58:03.8407919+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:58:03.8824229+05:30 [session-start] Init result: {"status":"ready","taskId":"adas-1772357204084","workflowFilename":"comedy_club","message":"Session mapped to task: adas-1772357204084"}
+2026-03-01T14:58:03.8849139+05:30 [session-start] ✓ Session auto-mapped to task: adas-1772357204084
+2026-03-01T14:58:03.8857817+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:58:03.9340632+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"adas-1772357204084"}
+2026-03-01T14:58:03.9350994+05:30 [session-start] Parsed - TaskId: adas-1772357204084, Workflow: comedy_club
+2026-03-01T14:58:03.9423577+05:30 [session-start] Logging session start: taskId=adas-1772357204084, sessionId=b98be431-14a4-40f2-9735-bae9b3fe2026, terminalId=d45ad1af-a547-4a37-8009-2cb001a1ea02
+2026-03-01T14:58:03.9583960+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:58:03.9616715+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:58:03.9643291+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:58:03.9657629+05:30 [session-start] File exists: True
+2026-03-01T14:58:03.9735549+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:58:36.8920431+05:30 [session-start] Starting hook execution
+2026-03-01T14:58:36.9043844+05:30 [session-start] Received sessionId from Copilot: b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:58:36.9110435+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T14:58:36.9126023+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T14:58:36.9677339+05:30 [session-start] Init result: {"status":"ready","taskId":"adas-1772357204084","workflowFilename":"comedy_club","message":"Session mapped to task: adas-1772357204084"}
+2026-03-01T14:58:36.9706392+05:30 [session-start] ✓ Session auto-mapped to task: adas-1772357204084
+2026-03-01T14:58:36.9722094+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T14:58:37.0271351+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"adas-1772357204084"}
+2026-03-01T14:58:37.0281634+05:30 [session-start] Parsed - TaskId: adas-1772357204084, Workflow: comedy_club
+2026-03-01T14:58:37.0381350+05:30 [session-start] Logging session start: taskId=adas-1772357204084, sessionId=b98be431-14a4-40f2-9735-bae9b3fe2026, terminalId=d45ad1af-a547-4a37-8009-2cb001a1ea02
+2026-03-01T14:58:37.0558873+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T14:58:37.0590375+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:58:37.0603390+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:58:37.0616678+05:30 [session-start] File exists: True
+2026-03-01T14:58:37.0718058+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:01.9669221+05:30 [session-start] Starting hook execution
+2026-03-01T15:05:02.9296118+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:02.9377458+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:05:02.9409411+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:05:02.9973498+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: aksja-1772357689513"}
+2026-03-01T15:05:03.0002017+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:05:03.0012735+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:05:03.0626925+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:05:03.0645647+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:03.0758373+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:05:03.0894699+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:05:03.0928567+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:03.0942070+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:03.0982564+05:30 [session-start] File exists: True
+2026-03-01T15:05:03.1073805+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:23.0973091+05:30 [session-start] Starting hook execution
+2026-03-01T15:05:23.1135718+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:23.1190246+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:05:23.1204635+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:05:23.1647373+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:05:23.1674489+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:05:23.1682042+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:05:23.2189668+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:23.2198923+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:23.2276276+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:05:23.2427782+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:05:23.2454518+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:23.2468951+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:23.2487719+05:30 [session-start] File exists: True
+2026-03-01T15:05:23.2564291+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:37.3204076+05:30 [session-start] Starting hook execution
+2026-03-01T15:05:37.3360876+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:37.3434968+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:05:37.3458747+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:05:37.4071624+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:05:37.4107609+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:05:37.4118804+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:05:37.4849919+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:05:37.4864000+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:37.5002769+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:05:37.5205693+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:05:37.5246557+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:37.5261679+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:37.5278737+05:30 [session-start] File exists: True
+2026-03-01T15:05:37.5391744+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:42.7342621+05:30 [session-start] Starting hook execution
+2026-03-01T15:05:42.7534237+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:42.7627901+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:05:42.7684076+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:05:42.8612386+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:05:42.8689668+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:05:42.8709389+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:05:42.9631245+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:05:42.9664100+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:42.9898273+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:05:43.0237085+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:05:43.0297479+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:43.0357743+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:43.0403194+05:30 [session-start] File exists: True
+2026-03-01T15:05:43.0577912+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:47.7841399+05:30 [session-start] Starting hook execution
+2026-03-01T15:05:47.8016621+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:47.8100548+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:05:47.8128571+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:05:47.8907515+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:05:47.8957541+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:05:47.8977341+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:05:47.9815619+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:47.9833772+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:47.9945526+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:05:48.0204519+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:05:48.0251644+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:48.0272701+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:48.0295523+05:30 [session-start] File exists: True
+2026-03-01T15:05:48.0417251+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:52.4887416+05:30 [session-start] Starting hook execution
+2026-03-01T15:05:52.4980836+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:52.5044287+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:05:52.5060608+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:05:52.5477940+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:05:52.5509786+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:05:52.5518599+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:05:52.6019925+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:52.6032597+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:52.6138607+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:05:52.6311247+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:05:52.6358200+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:52.6372154+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:52.6385915+05:30 [session-start] File exists: True
+2026-03-01T15:05:52.6480468+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:56.8487409+05:30 [session-start] Starting hook execution
+2026-03-01T15:05:56.8601037+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:56.8653669+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:05:56.8680458+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:05:56.9150939+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:05:56.9190462+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:05:56.9201032+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:05:56.9742478+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:56.9752952+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:56.9863193+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:05:57.0042458+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:05:57.0076149+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:57.0089052+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:57.0102667+05:30 [session-start] File exists: True
+2026-03-01T15:05:57.0202851+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:01.5469504+05:30 [session-start] Starting hook execution
+2026-03-01T15:06:01.5585453+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:01.5633873+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:06:01.5652721+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:06:01.6070212+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:06:01.6094733+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:06:01.6103385+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:06:01.6591374+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:06:01.6600742+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:01.6688810+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:06:01.6851026+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:06:01.6896281+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:01.6907964+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:01.6920167+05:30 [session-start] File exists: True
+2026-03-01T15:06:01.7017797+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:05.8777953+05:30 [session-start] Starting hook execution
+2026-03-01T15:06:05.8888588+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:05.8930695+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:06:05.8945246+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:06:05.9378202+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:06:05.9403868+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:06:05.9411720+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:06:05.9919065+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:06:05.9928940+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:06.0014624+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:06:06.0177429+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:06:06.0219562+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:06.0237049+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:06.0253059+05:30 [session-start] File exists: True
+2026-03-01T15:06:06.0345010+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:12.6075220+05:30 [session-start] Starting hook execution
+2026-03-01T15:06:12.6186485+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:12.6242003+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:06:12.6259110+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:06:12.6771187+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:06:12.6801334+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:06:12.6810819+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:06:12.7408705+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:06:12.7420447+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:12.7549909+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:06:12.7734397+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:06:12.7770878+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:12.7785315+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:12.7801224+05:30 [session-start] File exists: True
+2026-03-01T15:06:12.7915205+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:21.3180157+05:30 [session-start] Starting hook execution
+2026-03-01T15:06:21.3290061+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:21.3332934+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:06:21.3356987+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:06:21.3778656+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:06:21.3803476+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:06:21.3812718+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:06:21.4263974+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:06:21.4276672+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:21.4345595+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:06:21.4499531+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:06:21.4542548+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:21.4554848+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:21.4565914+05:30 [session-start] File exists: True
+2026-03-01T15:06:21.4654260+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:26.6586226+05:30 [session-start] Starting hook execution
+2026-03-01T15:06:26.6697524+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:26.6756489+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:06:26.6772438+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:06:26.7307954+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:06:26.7339697+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:06:26.7365939+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:06:26.7906069+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:06:26.7915031+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:26.7992496+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:06:26.8157914+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:06:26.8198404+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:26.8215306+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:26.8231157+05:30 [session-start] File exists: True
+2026-03-01T15:06:26.8342913+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:31.8329936+05:30 [session-start] Starting hook execution
+2026-03-01T15:06:31.8451856+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:31.8511400+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:06:31.8529935+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:06:31.9043422+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:06:31.9075508+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:06:31.9084644+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:06:31.9645174+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:06:31.9655915+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:31.9734335+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:06:31.9893336+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:06:31.9927268+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:31.9947857+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:31.9975998+05:30 [session-start] File exists: True
+2026-03-01T15:06:32.0078153+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:36.6997427+05:30 [session-start] Starting hook execution
+2026-03-01T15:06:36.7162216+05:30 [session-start] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:36.7278960+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:06:36.7316359+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:06:36.7905413+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:06:36.7938489+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:06:36.7949084+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:06:36.8616972+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:06:36.8628184+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:36.8739335+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=2de96120-83c0-4ada-8eb3-ba3ea86383a1, terminalId=29530510-924e-40a6-a62e-759d259ced7a
+2026-03-01T15:06:36.8952625+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:06:36.8989335+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:36.9010825+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:36.9038077+05:30 [session-start] File exists: True
+2026-03-01T15:06:36.9161127+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:07:51.0533228+05:30 [session-start] Starting hook execution
+2026-03-01T15:07:52.6087774+05:30 [session-start] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:07:52.6178963+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:07:52.6205767+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:07:52.7058883+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"aksja-1772357689513","name":"aksja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T15:07:52.7100684+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T15:07:52.7112078+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:07:52.7645721+05:30 [session-start] Session info received: 
+2026-03-01T15:07:52.7661982+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T15:08:50.3765835+05:30 [session-start] Starting hook execution
+2026-03-01T15:08:50.4111379+05:30 [session-start] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:08:50.4171324+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:08:50.4185583+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:08:50.4671925+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: aksja-1772357689513"}
+2026-03-01T15:08:50.4694080+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:08:50.4701190+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:08:50.5224154+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:08:50.5233840+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:08:50.5310973+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=18730aff-7d46-4ff6-acd0-0d5d7d869469, terminalId=7e80e916-26da-4f5f-add2-3dc5300a7c8a
+2026-03-01T15:08:50.5412219+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:08:50.5441953+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:08:50.5463633+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:08:50.5478078+05:30 [session-start] File exists: True
+2026-03-01T15:08:50.5586279+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:09:03.9447649+05:30 [session-start] Starting hook execution
+2026-03-01T15:09:03.9562879+05:30 [session-start] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:09:03.9615070+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:09:03.9646044+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:09:04.0102916+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:09:04.0140487+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:09:04.0154129+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:09:04.0611344+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:09:04.0619969+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:09:04.0703580+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=18730aff-7d46-4ff6-acd0-0d5d7d869469, terminalId=7e80e916-26da-4f5f-add2-3dc5300a7c8a
+2026-03-01T15:09:04.0858417+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:09:04.0890459+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:09:04.0902840+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:09:04.0916056+05:30 [session-start] File exists: True
+2026-03-01T15:09:04.1022334+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:10:04.4885263+05:30 [session-start] Starting hook execution
+2026-03-01T15:10:04.4982697+05:30 [session-start] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:10:04.5036572+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:10:04.5056141+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:10:04.5484762+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:10:04.5527831+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:10:04.5537139+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:10:04.6016929+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:10:04.6032587+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:10:04.6106795+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=18730aff-7d46-4ff6-acd0-0d5d7d869469, terminalId=7e80e916-26da-4f5f-add2-3dc5300a7c8a
+2026-03-01T15:10:04.6284225+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:10:04.6315010+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:10:04.6330349+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:10:04.6378186+05:30 [session-start] File exists: True
+2026-03-01T15:10:04.6545137+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:11:01.5174001+05:30 [session-start] Starting hook execution
+2026-03-01T15:11:01.5280597+05:30 [session-start] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:11:01.5329572+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:11:01.5345487+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:11:01.5810873+05:30 [session-start] Init result: {"status":"ready","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","message":"Session mapped to task: aksja-1772357689513"}
+2026-03-01T15:11:01.5834478+05:30 [session-start] ✓ Session auto-mapped to task: aksja-1772357689513
+2026-03-01T15:11:01.5842181+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:11:01.6369418+05:30 [session-start] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:11:01.6394113+05:30 [session-start] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:11:01.6476501+05:30 [session-start] Logging session start: taskId=aksja-1772357689513, sessionId=18730aff-7d46-4ff6-acd0-0d5d7d869469, terminalId=7e80e916-26da-4f5f-add2-3dc5300a7c8a
+2026-03-01T15:11:01.6653511+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:11:01.6685433+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:11:01.6715505+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:11:01.6732246+05:30 [session-start] File exists: True
+2026-03-01T15:11:01.6819377+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:14:04.3943909+05:30 [session-start] Starting hook execution
+2026-03-01T15:14:06.1286121+05:30 [session-start] Received sessionId from Copilot: 23d7fd63-82c0-4032-b05e-e2bb47f90dc8
+2026-03-01T15:14:06.1365075+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:14:06.1388329+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:14:06.1925894+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: lakd-l-1772358231395"}
+2026-03-01T15:14:06.3073496+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:14:06.3590882+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:14:06.3601174+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:14:06.3721884+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=23d7fd63-82c0-4032-b05e-e2bb47f90dc8, terminalId=7b45d487-6d6a-430a-b2d5-7f03ba806373
+2026-03-01T15:14:06.3832048+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:14:06.3864366+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:14:06.3876328+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:14:06.3891304+05:30 [session-start] File exists: True
+2026-03-01T15:14:06.3947767+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:14:42.2577917+05:30 [session-start] Starting hook execution
+2026-03-01T15:14:42.2681611+05:30 [session-start] Received sessionId from Copilot: 23d7fd63-82c0-4032-b05e-e2bb47f90dc8
+2026-03-01T15:14:42.2740006+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:14:42.2755731+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:14:42.3193043+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:14:42.3219425+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:14:42.3227595+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:14:42.3721232+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:14:42.3730242+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:14:42.3813388+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=23d7fd63-82c0-4032-b05e-e2bb47f90dc8, terminalId=7b45d487-6d6a-430a-b2d5-7f03ba806373
+2026-03-01T15:14:42.3955808+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:14:42.3992952+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:14:42.4004207+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:14:42.4033387+05:30 [session-start] File exists: True
+2026-03-01T15:14:42.4113641+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:16:00.0935644+05:30 [session-start] Starting hook execution
+2026-03-01T15:16:00.1029152+05:30 [session-start] Received sessionId from Copilot: 23d7fd63-82c0-4032-b05e-e2bb47f90dc8
+2026-03-01T15:16:00.1083561+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:16:00.1103563+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:16:00.1519262+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:16:00.1546996+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:16:00.1558812+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:16:00.2059692+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:16:00.2078036+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:16:00.2154106+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=23d7fd63-82c0-4032-b05e-e2bb47f90dc8, terminalId=7b45d487-6d6a-430a-b2d5-7f03ba806373
+2026-03-01T15:16:00.2303817+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:16:00.2335163+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:16:00.2345558+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:16:00.2358638+05:30 [session-start] File exists: True
+2026-03-01T15:16:00.2446937+05:30 [session-start] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:26:17.9242253+05:30 [session-start] Starting hook execution
+2026-03-01T15:26:19.6195462+05:30 [session-start] Received sessionId from Copilot: 5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4
+2026-03-01T15:26:19.6307644+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:26:19.6354165+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:26:19.7111660+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"lakd-l-1772358231395","name":";lakd;l","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T15:26:19.8355609+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:26:19.8834318+05:30 [session-start] Session info received: 
+2026-03-01T15:26:19.8851329+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T15:27:12.2802751+05:30 [session-start] Starting hook execution
+2026-03-01T15:27:12.2904145+05:30 [session-start] Received sessionId from Copilot: 5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4
+2026-03-01T15:27:12.2945806+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:27:12.2961985+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:27:12.3416624+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: lakd-l-1772358231395"}
+2026-03-01T15:27:12.3444216+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:27:12.3452473+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:27:12.4058000+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:27:12.4066512+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:27:12.4147263+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4, terminalId=1c172994-eab2-44f1-92cb-b0fc8b0c9ca4
+2026-03-01T15:27:12.4269612+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:27:12.4299254+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:27:12.4310312+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:27:12.4331603+05:30 [session-start] File exists: True
+2026-03-01T15:27:12.4416306+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:27:37.3265747+05:30 [session-start] Starting hook execution
+2026-03-01T15:27:37.3373640+05:30 [session-start] Received sessionId from Copilot: 5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4
+2026-03-01T15:27:37.3428222+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:27:37.3443079+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:27:37.3869036+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:27:37.3894192+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:27:37.3901912+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:27:37.4514219+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:27:37.4549422+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:27:37.4706032+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4, terminalId=1c172994-eab2-44f1-92cb-b0fc8b0c9ca4
+2026-03-01T15:27:37.4938859+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:27:37.4970662+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:27:37.4983559+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:27:37.5014968+05:30 [session-start] File exists: True
+2026-03-01T15:27:37.5113537+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:33:17.0666388+05:30 [session-start] Starting hook execution
+2026-03-01T15:33:19.0067830+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:33:19.0136761+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:33:19.0157257+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:33:19.0801990+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"lakd-l-1772358231395","name":";lakd;l","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T15:33:19.0838668+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T15:33:19.0866748+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:33:19.2434383+05:30 [session-start] Session info received: 
+2026-03-01T15:33:19.2452111+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T15:34:02.0238626+05:30 [session-start] Starting hook execution
+2026-03-01T15:34:02.0349317+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:02.0403567+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:34:02.0426057+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:34:02.0855869+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:34:02.0889011+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:34:02.0897910+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:34:02.1395716+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:02.1407104+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:02.1484313+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:34:02.1644084+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:34:02.1671504+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:02.1682112+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:02.1700407+05:30 [session-start] File exists: True
+2026-03-01T15:34:02.1806408+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:22.6292551+05:30 [session-start] Starting hook execution
+2026-03-01T15:34:22.6398124+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:22.6444233+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:34:22.6461536+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:34:22.6890497+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:34:22.6918686+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:34:22.6926093+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:34:22.7418887+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:22.7428080+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:22.7506705+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:34:22.7667504+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:34:22.7697938+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:22.7710266+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:22.7735520+05:30 [session-start] File exists: True
+2026-03-01T15:34:22.7853883+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:30.0421688+05:30 [session-start] Starting hook execution
+2026-03-01T15:34:30.0513968+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:30.0565573+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:34:30.0592371+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:34:30.1053409+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:34:30.1096333+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:34:30.1104641+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:34:30.1557889+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:30.1570354+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:30.1651089+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:34:30.1803125+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:34:30.1829655+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:30.1842047+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:30.1853407+05:30 [session-start] File exists: True
+2026-03-01T15:34:30.1952718+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:35.9548573+05:30 [session-start] Starting hook execution
+2026-03-01T15:34:35.9649809+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:35.9692048+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:34:35.9706059+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:34:36.0124334+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:34:36.0148939+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:34:36.0156037+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:34:36.0628087+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:34:36.0636403+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:36.0701715+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:34:36.0849117+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:34:36.0878609+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:36.0899767+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:36.0930715+05:30 [session-start] File exists: True
+2026-03-01T15:34:36.1012515+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:44.9873572+05:30 [session-start] Starting hook execution
+2026-03-01T15:34:44.9978985+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:45.0032298+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:34:45.0049923+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:34:45.0496751+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:34:45.0521028+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:34:45.0527999+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:34:45.1051170+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:34:45.1087832+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:45.1158791+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:34:45.1321765+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:34:45.1357532+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:45.1373425+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:45.1388426+05:30 [session-start] File exists: True
+2026-03-01T15:34:45.1495389+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:53.3697230+05:30 [session-start] Starting hook execution
+2026-03-01T15:34:53.3800904+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:53.3848543+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:34:53.3862561+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:34:53.4286820+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:34:53.4312380+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:34:53.4319898+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:34:53.4785739+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:34:53.4796460+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:53.4872803+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:34:53.5025721+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:34:53.5053348+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:53.5069183+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:53.5093916+05:30 [session-start] File exists: True
+2026-03-01T15:34:53.5197787+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:59.7335331+05:30 [session-start] Starting hook execution
+2026-03-01T15:34:59.7477821+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:59.7537525+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:34:59.7556907+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:34:59.8105384+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:34:59.8135708+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:34:59.8146746+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:34:59.8679812+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:59.8690600+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:59.8812182+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:34:59.8992922+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:34:59.9027262+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:59.9044464+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:59.9062991+05:30 [session-start] File exists: True
+2026-03-01T15:34:59.9180693+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:05.8867861+05:30 [session-start] Starting hook execution
+2026-03-01T15:35:05.8961872+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:05.9005171+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:35:05.9021269+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:35:05.9408778+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:35:05.9432421+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:35:05.9440143+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:35:05.9874830+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:05.9883876+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:05.9975308+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:35:06.0114803+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:35:06.0171418+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:06.0198762+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:06.0216046+05:30 [session-start] File exists: True
+2026-03-01T15:35:06.0327754+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:11.2080286+05:30 [session-start] Starting hook execution
+2026-03-01T15:35:11.2223459+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:11.2291934+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:35:11.2313571+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:35:11.2924323+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:35:11.2960979+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:35:11.2972073+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:35:11.3554155+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:11.3566136+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:11.3651119+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:35:11.3851307+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:35:11.3905859+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:11.3928167+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:11.3948315+05:30 [session-start] File exists: True
+2026-03-01T15:35:11.4054944+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:16.8844848+05:30 [session-start] Starting hook execution
+2026-03-01T15:35:16.8993686+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:16.9101617+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:35:16.9151979+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:35:16.9758881+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:35:16.9793882+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:35:16.9804637+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:35:17.0407244+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:17.0420216+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:17.0511783+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:35:17.0692361+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:35:17.0730770+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:17.0746770+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:17.0769143+05:30 [session-start] File exists: True
+2026-03-01T15:35:17.0884069+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:22.9774625+05:30 [session-start] Starting hook execution
+2026-03-01T15:35:22.9962624+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:23.0033947+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:35:23.0058842+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:35:23.0767509+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:35:23.0809431+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:35:23.0826723+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:35:23.1609625+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:23.1624646+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:23.1768597+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:35:23.2018891+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:35:23.2062513+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:23.2091832+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:23.2122663+05:30 [session-start] File exists: True
+2026-03-01T15:35:23.2239675+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:31.0810193+05:30 [session-start] Starting hook execution
+2026-03-01T15:35:31.0993463+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:31.1075536+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:35:31.1103479+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:35:31.1748104+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:35:31.1790057+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:35:31.1801266+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:35:31.2440532+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:31.2454489+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:31.2568905+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:35:31.2820128+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:35:31.2864347+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:31.2879145+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:31.2894798+05:30 [session-start] File exists: True
+2026-03-01T15:35:31.3025734+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:38.2375777+05:30 [session-start] Starting hook execution
+2026-03-01T15:35:38.2554297+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:38.2642085+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:35:38.2667834+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:35:38.3378424+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:35:38.3413659+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:35:38.3440266+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:35:38.4222656+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:38.4234953+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:38.4352619+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:35:38.4543046+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:35:38.4585230+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:38.4611151+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:38.4629050+05:30 [session-start] File exists: True
+2026-03-01T15:35:38.4740636+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:46.1944151+05:30 [session-start] Starting hook execution
+2026-03-01T15:35:46.2093239+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:46.2168058+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:35:46.2192704+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:35:46.2939925+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:35:46.3015353+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:35:46.3047020+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:35:46.3848628+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:46.3865039+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:46.3978461+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:35:46.4184670+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:35:46.4225128+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:46.4241404+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:46.4274378+05:30 [session-start] File exists: True
+2026-03-01T15:35:46.4389562+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:53.5379952+05:30 [session-start] Starting hook execution
+2026-03-01T15:35:53.5484066+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:53.5534642+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:35:53.5551221+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:35:53.5951414+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:35:53.5976723+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:35:53.5985071+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:35:53.6470979+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:53.6480854+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:53.6545252+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:35:53.6700057+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:35:53.6729908+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:53.6741291+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:53.6754650+05:30 [session-start] File exists: True
+2026-03-01T15:35:53.6853340+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:01.0263397+05:30 [session-start] Starting hook execution
+2026-03-01T15:36:01.0356953+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:01.0400960+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:36:01.0415671+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:36:01.0799612+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:36:01.0825228+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:36:01.0833243+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:36:01.1253113+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:01.1263388+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:01.1326448+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:36:01.1458284+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:36:01.1484723+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:01.1494837+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:01.1505639+05:30 [session-start] File exists: True
+2026-03-01T15:36:01.1588775+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:07.9789119+05:30 [session-start] Starting hook execution
+2026-03-01T15:36:07.9880952+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:07.9925620+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:36:07.9940459+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:36:08.0316710+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:36:08.0340246+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:36:08.0347707+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:36:08.0771575+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:36:08.0780355+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:08.0842816+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:36:08.0987922+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:36:08.1015475+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:08.1025914+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:08.1049925+05:30 [session-start] File exists: True
+2026-03-01T15:36:08.1169408+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:15.3886881+05:30 [session-start] Starting hook execution
+2026-03-01T15:36:15.3993150+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:15.4046921+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:36:15.4061421+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:36:15.4445274+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:36:15.4477954+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:36:15.4486193+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:36:15.4943063+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:36:15.4952236+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:15.5028182+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:36:15.5177752+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:36:15.5206594+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:15.5218076+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:15.5230317+05:30 [session-start] File exists: True
+2026-03-01T15:36:15.5345900+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:22.9544727+05:30 [session-start] Starting hook execution
+2026-03-01T15:36:22.9665392+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:22.9720659+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:36:22.9737080+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:36:23.0210049+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:36:23.0234030+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:36:23.0242317+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:36:23.0801240+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:23.0815055+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:23.0908919+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:36:23.1107861+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:36:23.1181313+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:23.1192833+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:23.1204251+05:30 [session-start] File exists: True
+2026-03-01T15:36:23.1293568+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:31.6690555+05:30 [session-start] Starting hook execution
+2026-03-01T15:36:31.6857457+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:31.6927381+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:36:31.6951662+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:36:31.7497410+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:36:31.7529758+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:36:31.7540587+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:36:31.8125388+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:36:31.8141740+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:31.8229485+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:36:31.8414543+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:36:31.8456609+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:31.8476368+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:31.8498112+05:30 [session-start] File exists: True
+2026-03-01T15:36:31.8610250+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:39.4581385+05:30 [session-start] Starting hook execution
+2026-03-01T15:36:39.4725164+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:39.4797146+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:36:39.4819538+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:36:39.5423370+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:36:39.5455861+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:36:39.5466385+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:36:39.6030950+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:39.6042137+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:39.6131363+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:36:39.6312278+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:36:39.6353146+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:39.6378157+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:39.6411201+05:30 [session-start] File exists: True
+2026-03-01T15:36:39.6524259+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:46.6740569+05:30 [session-start] Starting hook execution
+2026-03-01T15:36:46.6865883+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:46.6934307+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:36:46.6954518+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:36:46.7520086+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:36:46.7553380+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:36:46.7564104+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:36:46.8149170+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:46.8160837+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:46.8242372+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:36:46.8482039+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:36:46.8526973+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:46.8547916+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:46.8563447+05:30 [session-start] File exists: True
+2026-03-01T15:36:46.8664954+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:53.5713161+05:30 [session-start] Starting hook execution
+2026-03-01T15:36:53.5870358+05:30 [session-start] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:53.5937030+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:36:53.5964215+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:36:53.6604762+05:30 [session-start] Init result: {"status":"ready","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","message":"Session mapped to task: lakd-l-1772358231395"}
+2026-03-01T15:36:53.6643891+05:30 [session-start] ✓ Session auto-mapped to task: lakd-l-1772358231395
+2026-03-01T15:36:53.6657153+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:36:53.7336842+05:30 [session-start] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:36:53.7348980+05:30 [session-start] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:53.7483879+05:30 [session-start] Logging session start: taskId=lakd-l-1772358231395, sessionId=cb177f56-f40f-414b-bb2e-58bf435ae284, terminalId=33f36292-191c-4d2b-b79f-53fa5dabf1ed
+2026-03-01T15:36:53.7677009+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:36:53.7721064+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:53.7737325+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:53.7754172+05:30 [session-start] File exists: True
+2026-03-01T15:36:53.7874261+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:37:29.6905969+05:30 [session-start] Starting hook execution
+2026-03-01T15:37:32.3042152+05:30 [session-start] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:37:32.3175747+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:37:32.3228478+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:37:32.4076701+05:30 [session-start] Init result: {"status":"ready","taskId":"asams-1772359631352","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: asams-1772359631352"}
+2026-03-01T15:37:32.4120244+05:30 [session-start] ✓ Session auto-mapped to task: asams-1772359631352
+2026-03-01T15:37:32.4133116+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:37:32.5635063+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:37:32.5712318+05:30 [session-start] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:37:32.6010762+05:30 [session-start] Logging session start: taskId=asams-1772359631352, sessionId=51d047fe-3a9b-41db-8dff-4898f70dbdf9, terminalId=7d407d7c-0176-4202-a19d-02b432263d5e
+2026-03-01T15:37:32.6260678+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:37:32.6362127+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:37:32.6413999+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:37:32.6480702+05:30 [session-start] File exists: True
+2026-03-01T15:37:32.6775815+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:38:09.5995006+05:30 [session-start] Starting hook execution
+2026-03-01T15:38:09.6097769+05:30 [session-start] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:38:09.6143667+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:38:09.6159436+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:38:09.6586748+05:30 [session-start] Init result: {"status":"ready","taskId":"asams-1772359631352","workflowFilename":"comedy_club","message":"Session mapped to task: asams-1772359631352"}
+2026-03-01T15:38:09.6609714+05:30 [session-start] ✓ Session auto-mapped to task: asams-1772359631352
+2026-03-01T15:38:09.6617020+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:38:09.7081484+05:30 [session-start] Session info received: {"taskId":"asams-1772359631352","workflowFilename":"comedy_club"}
+2026-03-01T15:38:09.7089828+05:30 [session-start] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:38:09.7151841+05:30 [session-start] Logging session start: taskId=asams-1772359631352, sessionId=51d047fe-3a9b-41db-8dff-4898f70dbdf9, terminalId=7d407d7c-0176-4202-a19d-02b432263d5e
+2026-03-01T15:38:09.7293713+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:38:09.7330047+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:38:09.7350383+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:38:09.7373820+05:30 [session-start] File exists: True
+2026-03-01T15:38:09.7457901+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:38:44.0456551+05:30 [session-start] Starting hook execution
+2026-03-01T15:38:44.0556044+05:30 [session-start] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:38:44.0603920+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:38:44.0621428+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:38:44.1061982+05:30 [session-start] Init result: {"status":"ready","taskId":"asams-1772359631352","workflowFilename":"comedy_club","message":"Session mapped to task: asams-1772359631352"}
+2026-03-01T15:38:44.1087364+05:30 [session-start] ✓ Session auto-mapped to task: asams-1772359631352
+2026-03-01T15:38:44.1094503+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:38:44.1569559+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:38:44.1578712+05:30 [session-start] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:38:44.1648928+05:30 [session-start] Logging session start: taskId=asams-1772359631352, sessionId=51d047fe-3a9b-41db-8dff-4898f70dbdf9, terminalId=7d407d7c-0176-4202-a19d-02b432263d5e
+2026-03-01T15:38:44.1791898+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:38:44.1825686+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:38:44.1837259+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:38:44.1850908+05:30 [session-start] File exists: True
+2026-03-01T15:38:44.1951511+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:39:29.4646912+05:30 [session-start] Starting hook execution
+2026-03-01T15:39:29.4772891+05:30 [session-start] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:39:29.4814935+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:39:29.4833325+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:39:29.5250283+05:30 [session-start] Init result: {"status":"ready","taskId":"asams-1772359631352","workflowFilename":"comedy_club","message":"Session mapped to task: asams-1772359631352"}
+2026-03-01T15:39:29.5280345+05:30 [session-start] ✓ Session auto-mapped to task: asams-1772359631352
+2026-03-01T15:39:29.5288330+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:39:29.5761074+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:39:29.5769528+05:30 [session-start] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:39:29.5832093+05:30 [session-start] Logging session start: taskId=asams-1772359631352, sessionId=51d047fe-3a9b-41db-8dff-4898f70dbdf9, terminalId=7d407d7c-0176-4202-a19d-02b432263d5e
+2026-03-01T15:39:29.5975547+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:39:29.6001777+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:39:29.6011908+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:39:29.6022948+05:30 [session-start] File exists: True
+2026-03-01T15:39:29.6151591+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:40:07.7996445+05:30 [session-start] Starting hook execution
+2026-03-01T15:40:07.8102353+05:30 [session-start] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:40:07.8156753+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:40:07.8171354+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:40:07.8602036+05:30 [session-start] Init result: {"status":"ready","taskId":"asams-1772359631352","workflowFilename":"comedy_club","message":"Session mapped to task: asams-1772359631352"}
+2026-03-01T15:40:07.8624984+05:30 [session-start] ✓ Session auto-mapped to task: asams-1772359631352
+2026-03-01T15:40:07.8633074+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:40:07.9144912+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:40:07.9153335+05:30 [session-start] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:40:07.9250660+05:30 [session-start] Logging session start: taskId=asams-1772359631352, sessionId=51d047fe-3a9b-41db-8dff-4898f70dbdf9, terminalId=7d407d7c-0176-4202-a19d-02b432263d5e
+2026-03-01T15:40:07.9397896+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:40:07.9444044+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:40:07.9455139+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:40:07.9465964+05:30 [session-start] File exists: True
+2026-03-01T15:40:07.9543387+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:44:01.2665434+05:30 [session-start] Starting hook execution
+2026-03-01T15:44:01.2777980+05:30 [session-start] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:44:01.2836615+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:44:01.2862460+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:44:01.3399271+05:30 [session-start] Init result: {"status":"ready","taskId":"asams-1772359631352","workflowFilename":"comedy_club","message":"Session mapped to task: asams-1772359631352"}
+2026-03-01T15:44:01.3451624+05:30 [session-start] ✓ Session auto-mapped to task: asams-1772359631352
+2026-03-01T15:44:01.3463500+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:44:01.4074871+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:44:01.4083900+05:30 [session-start] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:44:01.4158362+05:30 [session-start] Logging session start: taskId=asams-1772359631352, sessionId=51d047fe-3a9b-41db-8dff-4898f70dbdf9, terminalId=7d407d7c-0176-4202-a19d-02b432263d5e
+2026-03-01T15:44:01.4321787+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:44:01.4358817+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:44:01.4378124+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:44:01.4391285+05:30 [session-start] File exists: True
+2026-03-01T15:44:01.4469592+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:44:51.1026481+05:30 [session-start] Starting hook execution
+2026-03-01T15:44:51.1138774+05:30 [session-start] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:44:51.1185449+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T15:44:51.1200000+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T15:44:51.1624324+05:30 [session-start] Init result: {"status":"ready","taskId":"asams-1772359631352","workflowFilename":"comedy_club","message":"Session mapped to task: asams-1772359631352"}
+2026-03-01T15:44:51.1647469+05:30 [session-start] ✓ Session auto-mapped to task: asams-1772359631352
+2026-03-01T15:44:51.1655703+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T15:44:51.2133086+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:44:51.2141907+05:30 [session-start] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:44:51.2221843+05:30 [session-start] Logging session start: taskId=asams-1772359631352, sessionId=51d047fe-3a9b-41db-8dff-4898f70dbdf9, terminalId=7d407d7c-0176-4202-a19d-02b432263d5e
+2026-03-01T15:44:51.2424164+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T15:44:51.2459386+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:44:51.2472724+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:44:51.2491145+05:30 [session-start] File exists: True
+2026-03-01T15:44:51.2587771+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:00:02.3084780+05:30 [session-start] Starting hook execution
+2026-03-01T16:00:05.3365399+05:30 [session-start] Received sessionId from Copilot: e13ba98b-a3e5-4cc0-8086-2a3e1c86c16b
+2026-03-01T16:00:05.3515835+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:00:05.3558881+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:00:05.4487651+05:30 [session-start] Init result: {"status":"ready","taskId":"dsfsdf-1772360975813","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: dsfsdf-1772360975813"}
+2026-03-01T16:00:05.4556003+05:30 [session-start] ✓ Session auto-mapped to task: dsfsdf-1772360975813
+2026-03-01T16:00:05.4587526+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:00:05.5745578+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"dsfsdf-1772360975813"}
+2026-03-01T16:00:05.5773571+05:30 [session-start] Parsed - TaskId: dsfsdf-1772360975813, Workflow: comedy_club
+2026-03-01T16:00:05.5989966+05:30 [session-start] Logging session start: taskId=dsfsdf-1772360975813, sessionId=e13ba98b-a3e5-4cc0-8086-2a3e1c86c16b, terminalId=5f22fb44-a914-4c7f-88d8-264d7226ba3b
+2026-03-01T16:00:05.6205541+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:00:05.6266520+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:00:05.6301898+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:00:05.6342247+05:30 [session-start] File exists: True
+2026-03-01T16:00:05.6548374+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:03:55.5832664+05:30 [session-start] Starting hook execution
+2026-03-01T16:03:55.5964074+05:30 [session-start] Received sessionId from Copilot: e13ba98b-a3e5-4cc0-8086-2a3e1c86c16b
+2026-03-01T16:03:55.6018186+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:03:55.6036478+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:03:55.6516152+05:30 [session-start] Init result: {"status":"ready","taskId":"dsfsdf-1772360975813","workflowFilename":"comedy_club","message":"Session mapped to task: dsfsdf-1772360975813"}
+2026-03-01T16:03:55.6542689+05:30 [session-start] ✓ Session auto-mapped to task: dsfsdf-1772360975813
+2026-03-01T16:03:55.6551170+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:03:55.7043647+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"dsfsdf-1772360975813"}
+2026-03-01T16:03:55.7052968+05:30 [session-start] Parsed - TaskId: dsfsdf-1772360975813, Workflow: comedy_club
+2026-03-01T16:03:55.7135464+05:30 [session-start] Logging session start: taskId=dsfsdf-1772360975813, sessionId=e13ba98b-a3e5-4cc0-8086-2a3e1c86c16b, terminalId=5f22fb44-a914-4c7f-88d8-264d7226ba3b
+2026-03-01T16:03:55.7288342+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:03:55.7314834+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:03:55.7325364+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:03:55.7341332+05:30 [session-start] File exists: True
+2026-03-01T16:03:55.7424514+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:16:28.4574254+05:30 [session-start] Starting hook execution
+2026-03-01T16:16:35.9218280+05:30 [session-start] Received sessionId from Copilot: 86151608-28eb-47e3-8739-b0384ca085cb
+2026-03-01T16:16:35.9557619+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:16:35.9667191+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:16:36.2607725+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"msa-ms-1772361843025","name":"msa,ms","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T16:16:36.2777757+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T16:16:36.3186642+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:16:36.6844867+05:30 [session-start] Session info received: 
+2026-03-01T16:16:36.6981193+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T16:17:41.7541089+05:30 [session-start] Starting hook execution
+2026-03-01T16:17:41.7780357+05:30 [session-start] Received sessionId from Copilot: 86151608-28eb-47e3-8739-b0384ca085cb
+2026-03-01T16:17:41.7863602+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:17:41.7891885+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:17:41.8697795+05:30 [session-start] Init result: {"status":"ready","taskId":"msa-ms-1772361843025","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: msa-ms-1772361843025"}
+2026-03-01T16:17:41.8782529+05:30 [session-start] ✓ Session auto-mapped to task: msa-ms-1772361843025
+2026-03-01T16:17:41.8799123+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:17:41.9978120+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"msa-ms-1772361843025"}
+2026-03-01T16:17:41.9999526+05:30 [session-start] Parsed - TaskId: msa-ms-1772361843025, Workflow: comedy_club
+2026-03-01T16:17:42.0434841+05:30 [session-start] Logging session start: taskId=msa-ms-1772361843025, sessionId=86151608-28eb-47e3-8739-b0384ca085cb, terminalId=e8fd130d-24fb-4597-a4d1-b3de4712fac4
+2026-03-01T16:17:42.0679336+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:17:42.0785971+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:17:42.0811348+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:17:42.0842173+05:30 [session-start] File exists: True
+2026-03-01T16:17:42.1035459+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:23:15.8652810+05:30 [session-start] Starting hook execution
+2026-03-01T16:23:22.7953856+05:30 [session-start] Received sessionId from Copilot: a677fd2c-7db0-4e55-bd5a-51a756d2b07f
+2026-03-01T16:23:22.8080903+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:23:22.8121709+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:23:22.9082410+05:30 [session-start] Init result: {"status":"ready","taskId":"iuwiquwl-1772362377363","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: iuwiquwl-1772362377363"}
+2026-03-01T16:23:22.9126724+05:30 [session-start] ✓ Session auto-mapped to task: iuwiquwl-1772362377363
+2026-03-01T16:23:22.9140167+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:23:22.9789488+05:30 [session-start] Session info received: {"taskId":"iuwiquwl-1772362377363","workflowFilename":"comedy_club"}
+2026-03-01T16:23:22.9803541+05:30 [session-start] Parsed - TaskId: iuwiquwl-1772362377363, Workflow: comedy_club
+2026-03-01T16:23:22.9973488+05:30 [session-start] Logging session start: taskId=iuwiquwl-1772362377363, sessionId=a677fd2c-7db0-4e55-bd5a-51a756d2b07f, terminalId=98964b8d-63ca-4179-a408-cccb1c1a8b9f
+2026-03-01T16:23:23.0109479+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:23:23.0152331+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:23:23.0169301+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:23:23.0188515+05:30 [session-start] File exists: True
+2026-03-01T16:23:23.0301457+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:24:12.9218056+05:30 [session-start] Starting hook execution
+2026-03-01T16:24:12.9466578+05:30 [session-start] Received sessionId from Copilot: a677fd2c-7db0-4e55-bd5a-51a756d2b07f
+2026-03-01T16:24:12.9622239+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:24:12.9671554+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:24:13.0482565+05:30 [session-start] Init result: {"status":"ready","taskId":"iuwiquwl-1772362377363","workflowFilename":"comedy_club","message":"Session mapped to task: iuwiquwl-1772362377363"}
+2026-03-01T16:24:13.0532932+05:30 [session-start] ✓ Session auto-mapped to task: iuwiquwl-1772362377363
+2026-03-01T16:24:13.0560700+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:24:13.1638063+05:30 [session-start] Session info received: {"taskId":"iuwiquwl-1772362377363","workflowFilename":"comedy_club"}
+2026-03-01T16:24:13.1650589+05:30 [session-start] Parsed - TaskId: iuwiquwl-1772362377363, Workflow: comedy_club
+2026-03-01T16:24:13.1941671+05:30 [session-start] Logging session start: taskId=iuwiquwl-1772362377363, sessionId=a677fd2c-7db0-4e55-bd5a-51a756d2b07f, terminalId=98964b8d-63ca-4179-a408-cccb1c1a8b9f
+2026-03-01T16:24:13.2389557+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:24:13.2502277+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:24:13.2577907+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:24:13.2632810+05:30 [session-start] File exists: True
+2026-03-01T16:24:13.2940684+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:24:40.1034039+05:30 [session-start] Starting hook execution
+2026-03-01T16:24:40.1192239+05:30 [session-start] Received sessionId from Copilot: a677fd2c-7db0-4e55-bd5a-51a756d2b07f
+2026-03-01T16:24:40.1280661+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:24:40.1304230+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:24:40.1933186+05:30 [session-start] Init result: {"status":"ready","taskId":"iuwiquwl-1772362377363","workflowFilename":"comedy_club","message":"Session mapped to task: iuwiquwl-1772362377363"}
+2026-03-01T16:24:40.1972173+05:30 [session-start] ✓ Session auto-mapped to task: iuwiquwl-1772362377363
+2026-03-01T16:24:40.1983280+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:24:40.2678416+05:30 [session-start] Session info received: {"taskId":"iuwiquwl-1772362377363","workflowFilename":"comedy_club"}
+2026-03-01T16:24:40.2690783+05:30 [session-start] Parsed - TaskId: iuwiquwl-1772362377363, Workflow: comedy_club
+2026-03-01T16:24:40.2839773+05:30 [session-start] Logging session start: taskId=iuwiquwl-1772362377363, sessionId=a677fd2c-7db0-4e55-bd5a-51a756d2b07f, terminalId=98964b8d-63ca-4179-a408-cccb1c1a8b9f
+2026-03-01T16:24:40.3038929+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:24:40.3098739+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:24:40.3114737+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:24:40.3132237+05:30 [session-start] File exists: True
+2026-03-01T16:24:40.3257869+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:29:20.4834580+05:30 [session-start] Starting hook execution
+2026-03-01T16:29:24.6717610+05:30 [session-start] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:29:24.6868048+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:29:24.6915377+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:29:24.7864572+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session auto-mapped to pending task: asjdlkja-1772362729187"}
+2026-03-01T16:29:24.7915169+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T16:29:24.7939251+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:29:24.9019927+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T16:29:24.9047452+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:29:24.9266234+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=00ab4c62-c617-4b31-b606-b061bdb13661, terminalId=12c80d64-fc1c-405e-8669-66ff0af908f6
+2026-03-01T16:29:24.9433109+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:29:24.9509831+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:29:24.9539804+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:29:24.9572070+05:30 [session-start] File exists: True
+2026-03-01T16:29:24.9733325+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:30:15.8991821+05:30 [session-start] Starting hook execution
+2026-03-01T16:30:15.9100561+05:30 [session-start] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:30:15.9141800+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:30:15.9155092+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:30:15.9587263+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session mapped to task: asjdlkja-1772362729187"}
+2026-03-01T16:30:15.9612631+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T16:30:15.9620108+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:30:16.0113321+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T16:30:16.0122024+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:30:16.0227127+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=00ab4c62-c617-4b31-b606-b061bdb13661, terminalId=12c80d64-fc1c-405e-8669-66ff0af908f6
+2026-03-01T16:30:16.0377194+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:30:16.0413746+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:30:16.0424589+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:30:16.0435490+05:30 [session-start] File exists: True
+2026-03-01T16:30:16.0520028+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:30:56.8990889+05:30 [session-start] Starting hook execution
+2026-03-01T16:30:56.9096945+05:30 [session-start] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:30:56.9141515+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:30:56.9155795+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:30:56.9584433+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session mapped to task: asjdlkja-1772362729187"}
+2026-03-01T16:30:56.9608431+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T16:30:56.9615815+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:30:57.0062344+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T16:30:57.0071649+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:30:57.0148169+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=00ab4c62-c617-4b31-b606-b061bdb13661, terminalId=12c80d64-fc1c-405e-8669-66ff0af908f6
+2026-03-01T16:30:57.0285070+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:30:57.0311708+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:30:57.0321862+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:30:57.0332691+05:30 [session-start] File exists: True
+2026-03-01T16:30:57.0414126+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:31:19.9088667+05:30 [session-start] Starting hook execution
+2026-03-01T16:31:19.9178725+05:30 [session-start] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:31:19.9233090+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:31:19.9247785+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:31:19.9637454+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session mapped to task: asjdlkja-1772362729187"}
+2026-03-01T16:31:19.9659016+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T16:31:19.9665786+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:31:20.0116870+05:30 [session-start] Session info received: {"taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club"}
+2026-03-01T16:31:20.0124441+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:31:20.0216128+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=00ab4c62-c617-4b31-b606-b061bdb13661, terminalId=12c80d64-fc1c-405e-8669-66ff0af908f6
+2026-03-01T16:31:20.0348017+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:31:20.0386751+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:31:20.0399000+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:31:20.0410324+05:30 [session-start] File exists: True
+2026-03-01T16:31:20.0477042+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:31:48.2156204+05:30 [session-start] Starting hook execution
+2026-03-01T16:31:48.2268670+05:30 [session-start] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:31:48.2311408+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:31:48.2325273+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:31:48.2744244+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session mapped to task: asjdlkja-1772362729187"}
+2026-03-01T16:31:48.2771192+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T16:31:48.2779613+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:31:48.3257581+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T16:31:48.3266484+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:31:48.3364184+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=00ab4c62-c617-4b31-b606-b061bdb13661, terminalId=12c80d64-fc1c-405e-8669-66ff0af908f6
+2026-03-01T16:31:48.3514321+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T16:31:48.3549960+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:31:48.3568894+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:31:48.3582573+05:30 [session-start] File exists: True
+2026-03-01T16:31:48.3651197+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:48:37.6069367+05:30 [session-start] Starting hook execution
+2026-03-01T16:48:37.6166979+05:30 [session-start] Received sessionId from Copilot: 9fb7d553-2770-4a01-b14a-d9242ffe8d1b
+2026-03-01T16:48:37.6238993+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:48:37.6260835+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:48:37.6907300+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T16:48:37.6927472+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T16:48:37.6934943+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:48:37.7329817+05:30 [session-start] Session info received: 
+2026-03-01T16:48:37.7341230+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T16:53:24.2940447+05:30 [session-start] Starting hook execution
+2026-03-01T16:53:24.3040051+05:30 [session-start] Received sessionId from Copilot: 914173e9-981d-48a5-8605-64b68514f652
+2026-03-01T16:53:24.3085594+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:53:24.3099726+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:53:24.3694312+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T16:53:24.3713439+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T16:53:24.3721346+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:53:24.4115699+05:30 [session-start] Session info received: 
+2026-03-01T16:53:24.4127434+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T16:54:46.0145402+05:30 [session-start] Starting hook execution
+2026-03-01T16:54:46.0270953+05:30 [session-start] Received sessionId from Copilot: db489dc5-0bf4-4c12-adbb-21081221b7aa
+2026-03-01T16:54:46.0316616+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:54:46.0333064+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:54:46.0797787+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T16:54:46.0815946+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T16:54:46.0822933+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:54:46.1284784+05:30 [session-start] Session info received: 
+2026-03-01T16:54:46.1295760+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T16:56:12.8156733+05:30 [session-start] Starting hook execution
+2026-03-01T16:56:12.8274431+05:30 [session-start] Received sessionId from Copilot: 8785b911-1aa9-493e-816a-45f93cb87667
+2026-03-01T16:56:12.8326279+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:56:12.8343882+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:56:12.9069948+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T16:56:12.9101569+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T16:56:12.9114532+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:56:12.9612304+05:30 [session-start] Session info received: 
+2026-03-01T16:56:12.9627519+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T16:58:45.4452555+05:30 [session-start] Starting hook execution
+2026-03-01T16:58:45.4551150+05:30 [session-start] Received sessionId from Copilot: 950d52c7-fa4e-4335-a98c-27097a5eeeba
+2026-03-01T16:58:45.4609587+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T16:58:45.4625562+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T16:58:45.5227767+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T16:58:45.5262025+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T16:58:45.5271296+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T16:58:45.5709199+05:30 [session-start] Session info received: 
+2026-03-01T16:58:45.5721612+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T17:00:36.3567894+05:30 [session-start] Starting hook execution
+2026-03-01T17:00:36.3682357+05:30 [session-start] Received sessionId from Copilot: 77987d4e-dbcf-4e34-aa07-b443b56a141d
+2026-03-01T17:00:36.3727320+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:00:36.3741798+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:00:36.4423028+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T17:00:36.4452432+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T17:00:36.4477682+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:00:36.4960376+05:30 [session-start] Session info received: 
+2026-03-01T17:00:36.4983276+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T17:02:35.4461836+05:30 [session-start] Starting hook execution
+2026-03-01T17:02:35.5023438+05:30 [session-start] Received sessionId from Copilot: f66e4325-974a-43d5-ba1c-88d4e3b4a803
+2026-03-01T17:02:35.5147506+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:02:35.5196391+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:02:35.6385191+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T17:02:35.6417615+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T17:02:35.6425480+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:02:35.7153661+05:30 [session-start] Session info received: 
+2026-03-01T17:02:35.7182347+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T17:04:43.3231064+05:30 [session-start] Starting hook execution
+2026-03-01T17:04:43.3333682+05:30 [session-start] Received sessionId from Copilot: 4beb52ec-ca31-405b-8e14-e16a52dfd078
+2026-03-01T17:04:43.3388834+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:04:43.3406818+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:04:43.4090988+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T17:04:43.4115831+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T17:04:43.4124815+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:04:43.4648423+05:30 [session-start] Session info received: 
+2026-03-01T17:04:43.4662323+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T17:05:33.7280918+05:30 [session-start] Starting hook execution
+2026-03-01T17:05:33.7391618+05:30 [session-start] Received sessionId from Copilot: 4beb52ec-ca31-405b-8e14-e16a52dfd078
+2026-03-01T17:05:33.7442666+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:05:33.7456966+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:05:33.7874586+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session mapped to task: asjdlkja-1772362729187"}
+2026-03-01T17:05:33.7915906+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T17:05:33.7924256+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:05:33.8404168+05:30 [session-start] Session info received: {"taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club"}
+2026-03-01T17:05:33.8414284+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T17:05:33.8485821+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=4beb52ec-ca31-405b-8e14-e16a52dfd078, terminalId=8ecd520f-35e1-4e0e-926d-6d9372ddab3a
+2026-03-01T17:05:33.8629026+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T17:05:33.8655492+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T17:05:33.8665434+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T17:05:33.8675994+05:30 [session-start] File exists: True
+2026-03-01T17:05:33.8762222+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T17:25:21.7376742+05:30 [session-start] Starting hook execution
+2026-03-01T17:25:21.7482312+05:30 [session-start] Received sessionId from Copilot: 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:25:21.7549197+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:25:21.7563677+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:25:21.8181751+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T17:25:21.8200456+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T17:25:21.8207756+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:25:21.8641210+05:30 [session-start] Session info received: 
+2026-03-01T17:25:21.8655773+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T17:26:28.4149109+05:30 [session-start] Starting hook execution
+2026-03-01T17:26:28.4242409+05:30 [session-start] Received sessionId from Copilot: 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:26:28.4295824+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:26:28.4311829+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:26:28.4721458+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session mapped to task: asjdlkja-1772362729187"}
+2026-03-01T17:26:28.4745757+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T17:26:28.4754480+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:26:28.5224298+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T17:26:28.5234314+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T17:26:28.5328947+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=4053e5e2-e4d3-4637-9911-79ff7cba8376, terminalId=2e0aef07-0d65-4e32-98b7-5e5913356ff5
+2026-03-01T17:26:28.5461630+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T17:26:28.5500661+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T17:26:28.5512056+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T17:26:28.5526850+05:30 [session-start] File exists: True
+2026-03-01T17:26:28.5612751+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T17:28:03.3572113+05:30 [session-start] Starting hook execution
+2026-03-01T17:28:03.3674648+05:30 [session-start] Received sessionId from Copilot: 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:28:03.3721105+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:28:03.3735470+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:28:03.4159522+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session mapped to task: asjdlkja-1772362729187"}
+2026-03-01T17:28:03.4185106+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T17:28:03.4192216+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:28:03.4682676+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T17:28:03.4691288+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T17:28:03.4769109+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=4053e5e2-e4d3-4637-9911-79ff7cba8376, terminalId=2e0aef07-0d65-4e32-98b7-5e5913356ff5
+2026-03-01T17:28:03.4907757+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T17:28:03.4934712+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T17:28:03.4945211+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T17:28:03.4957785+05:30 [session-start] File exists: True
+2026-03-01T17:28:03.5037649+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T17:28:25.1932813+05:30 [session-start] Starting hook execution
+2026-03-01T17:28:25.2034415+05:30 [session-start] Received sessionId from Copilot: 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:28:25.2078933+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:28:25.2092564+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:28:25.2530641+05:30 [session-start] Init result: {"status":"ready","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","message":"Session mapped to task: asjdlkja-1772362729187"}
+2026-03-01T17:28:25.2553421+05:30 [session-start] ✓ Session auto-mapped to task: asjdlkja-1772362729187
+2026-03-01T17:28:25.2562965+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:28:25.3026781+05:30 [session-start] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T17:28:25.3035448+05:30 [session-start] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T17:28:25.3106043+05:30 [session-start] Logging session start: taskId=asjdlkja-1772362729187, sessionId=4053e5e2-e4d3-4637-9911-79ff7cba8376, terminalId=2e0aef07-0d65-4e32-98b7-5e5913356ff5
+2026-03-01T17:28:25.3247345+05:30 [session-start] Workflow assigned: comedy_club
+2026-03-01T17:28:25.3274937+05:30 [session-start] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T17:28:25.3284884+05:30 [session-start] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T17:28:25.3297635+05:30 [session-start] File exists: True
+2026-03-01T17:28:25.3382185+05:30 [session-start] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T17:28:50.8615252+05:30 [session-start] Starting hook execution
+2026-03-01T17:28:50.8742893+05:30 [session-start] Received sessionId from Copilot: 11bd3e27-d667-4f29-9219-d9169a5f03cd
+2026-03-01T17:28:50.8791090+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:28:50.8812161+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:28:50.9256109+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T17:28:50.9280481+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T17:28:50.9289717+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:28:50.9768875+05:30 [session-start] Session info received: 
+2026-03-01T17:28:50.9788366+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.
+2026-03-01T17:29:31.5085158+05:30 [session-start] Starting hook execution
+2026-03-01T17:29:31.5182890+05:30 [session-start] Received sessionId from Copilot: 11bd3e27-d667-4f29-9219-d9169a5f03cd
+2026-03-01T17:29:31.5227395+05:30 [session-start] Received data fields: sessionId, timestamp, cwd, source, initialPrompt
+2026-03-01T17:29:31.5240766+05:30 [session-start] Calling session initialization endpoint
+2026-03-01T17:29:31.5692358+05:30 [session-start] Init result: {"status":"task_required","availableTasks":[{"id":"asjdlkja-1772362729187","name":"asjdlkja","workflowFilename":"comedy_club"}],"message":"Please select a task with an attached workflow to continue"}
+2026-03-01T17:29:31.5712512+05:30 [session-start] Session initialization returned status: task_required
+2026-03-01T17:29:31.5719475+05:30 [session-start] Calling session-manager (non-interactive)
+2026-03-01T17:29:31.6190643+05:30 [session-start] Session info received: 
+2026-03-01T17:29:31.6207030+05:30 [session-start] ERROR: No task ID obtained. Session cannot proceed.

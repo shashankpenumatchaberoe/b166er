@@ -1,0 +1,13 @@
+{
+  "taskId": "dio`",
+  "createdAt": "2026-02-24T17:51:19.357Z",
+  "updatedAt": "2026-02-24T17:51:19.357Z",
+  "conversations": [
+    {
+      "terminalId": "be443334-fdf4-4e2b-8ac0-c6ad9992e1dd",
+      "terminalName": "be443334-fdf4-4e2b-8ac0-c6ad9992e1dd",
+      "endedAt": "2026-02-24T17:51:19.357Z",
+      "buffer": "\u001b[?9001h\u001b[?1004h\u001b[?25l\u001b[2J\u001b[m\u001b[H\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[H\u001b]0;C:\\WINDOWS\\SYSTEM32\\cmd.exe\u0007\u001b[?25hMicrosoft Windows [Version 10.0.26200.7840]\u001b[?25l\r\n(c) Microsoft Corporation. All rights reserved.\u001b[4;1HD:\\Repositories\\max-ai-ui\\playground\\backend>\u001b[?25h\u001b[?9001l\u001b[?1004l"
+    }
+  ]
+}

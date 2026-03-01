@@ -1,0 +1,57 @@
+{
+  "taskId": "{\"taskId\":\"test-1772304722044\",\"workflowFilename\":\"comedy_show\"}",
+  "createdAt": "2026-02-28T18:52:58.345Z",
+  "updatedAt": "2026-02-28T18:53:05.519Z",
+  "conversations": [
+    {
+      "taskId": "{\"taskId\":\"test-1772304722044\",\"workflowFilename\":\"comedy_show\"}",
+      "terminalId": "0a3edcd5-2301-46b1-a474-cf38839972e9",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: report_intent\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"Intent logged\"\n}",
+      "timestamp": "2026-02-28T18:52:58.345Z",
+      "metadata": {
+        "sessionId": "0cde0a77-7a54-4f01-aeb6-5439354b1022",
+        "timestamp": 1772304777731,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "report_intent",
+        "toolArgs": {
+          "intent": "Invoking comedy agent"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "Intent logged"
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "{\"taskId\":\"test-1772304722044\",\"workflowFilename\":\"comedy_show\"}",
+      "terminalId": "0a3edcd5-2301-46b1-a474-cf38839972e9",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: task\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"Why don't scientists trust atoms? \\n\\n**Because they make up everything!** ΓÜ¢∩╕Å≡ƒÿä\\n\\n---\\n\\n**Handoff:** @hecker \\\"I just told this joke: 'Why don't scientists trust atoms? Because they make up everything!' Please rate it!\\\"\"\n}",
+      "timestamp": "2026-02-28T18:53:05.519Z",
+      "metadata": {
+        "sessionId": "0cde0a77-7a54-4f01-aeb6-5439354b1022",
+        "timestamp": 1772304784969,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "task",
+        "toolArgs": {
+          "description": "Tell a joke",
+          "prompt": "Tell a joke and start the comedy workflow!",
+          "agent_type": "comedy"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "Why don't scientists trust atoms? \n\n**Because they make up everything!** ΓÜ¢∩╕Å≡ƒÿä\n\n---\n\n**Handoff:** @hecker \"I just told this joke: 'Why don't scientists trust atoms? Because they make up everything!' Please rate it!\""
+        },
+        "eventType": "post_tool_use"
+      }
+    }
+  ]
+}

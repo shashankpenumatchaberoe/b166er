@@ -1,0 +1,36 @@
+{
+  "taskId": "live-update-test-1772350789377",
+  "createdAt": "2026-03-01T07:39:49.378Z",
+  "updatedAt": "2026-03-01T07:39:50.119Z",
+  "conversations": [
+    {
+      "taskId": "live-update-test-1772350789377",
+      "terminalId": "test-live",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Testing live history updates!",
+      "timestamp": "2026-03-01T07:39:49.484Z",
+      "metadata": {
+        "prompt": "Testing live history updates!",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "live-update-test-1772350789377",
+      "terminalId": "test-live",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "agent_response",
+      "role": "assistant",
+      "message": "This should appear in real-time in the UI!",
+      "timestamp": "2026-03-01T07:39:50.116Z",
+      "metadata": {
+        "message": "This should appear in real-time in the UI!",
+        "agentName": "GitHub Copilot",
+        "eventType": "agent_response"
+      }
+    }
+  ]
+}

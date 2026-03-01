@@ -1,0 +1,51 @@
+{
+  "taskId": "task-14",
+  "createdAt": "2026-02-25T06:05:18.665Z",
+  "updatedAt": "2026-02-25T06:06:22.044Z",
+  "conversations": [
+    {
+      "taskId": "task-14",
+      "terminalId": "manual-seed",
+      "terminalName": "powershell",
+      "agentName": "orchestrator",
+      "eventType": "post_tool",
+      "role": "assistant",
+      "message": "Manual seed event to initialize task history.",
+      "timestamp": "2026-02-25T06:05:18.664Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "buffer": "Manual seed event to initialize task history.",
+          "event_type": "post_tool",
+          "task_id": "task-14",
+          "terminal_id": "manual-seed",
+          "agent_name": "orchestrator",
+          "terminal_name": "powershell"
+        }
+      }
+    },
+    {
+      "taskId": "task-14",
+      "terminalId": "history-test",
+      "terminalName": "powershell",
+      "agentName": "orchestrator",
+      "eventType": "post_tool",
+      "role": "assistant",
+      "message": "History test event from Copilot validation.",
+      "timestamp": "2026-02-25T06:06:22.044Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "post_tool",
+        "raw": {
+          "buffer": "History test event from Copilot validation.",
+          "event_type": "post_tool",
+          "task_id": "task-14",
+          "terminal_id": "history-test",
+          "agent_name": "orchestrator",
+          "terminal_name": "powershell"
+        }
+      }
+    }
+  ]
+}

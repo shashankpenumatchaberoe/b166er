@@ -1,0 +1,105 @@
+{
+  "taskId": "verify-auto-queue-test-1772354156987",
+  "createdAt": "2026-03-01T08:35:56.989Z",
+  "updatedAt": "2026-03-01T08:46:30.285Z",
+  "conversations": [
+    {
+      "taskId": "verify-auto-queue-test-1772354156987",
+      "terminalId": "7b05510e-7b6f-4e1f-bc87-17685ee0b611",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: report_intent\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"Intent logged\"\n}",
+      "timestamp": "2026-03-01T08:46:19.963Z",
+      "metadata": {
+        "sessionId": "fd16b33d-a3fd-4be7-acf7-a3bd152faace",
+        "timestamp": 1772354779554,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "report_intent",
+        "toolArgs": {
+          "intent": "Running task management"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "Intent logged"
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "verify-auto-queue-test-1772354156987",
+      "terminalId": "7b05510e-7b6f-4e1f-bc87-17685ee0b611",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: skill\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"Skill \\\"task-management\\\" loaded successfully. Follow the instructions in the skill context.\"\n}",
+      "timestamp": "2026-03-01T08:46:20.435Z",
+      "metadata": {
+        "sessionId": "fd16b33d-a3fd-4be7-acf7-a3bd152faace",
+        "timestamp": 1772354780050,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "skill",
+        "toolArgs": {
+          "skill": "task-management"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "Skill \"task-management\" loaded successfully. Follow the instructions in the skill context."
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "verify-auto-queue-test-1772354156987",
+      "terminalId": "7b05510e-7b6f-4e1f-bc87-17685ee0b611",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: powershell\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"{\\\"taskId\\\":\\\"verify-auto-queue-test-1772354156987\\\",\\\"workflowFilename\\\":\\\"comedy_club\\\"}\\n<exited with exit code 0>\"\n}",
+      "timestamp": "2026-03-01T08:46:24.926Z",
+      "metadata": {
+        "sessionId": "fd16b33d-a3fd-4be7-acf7-a3bd152faace",
+        "timestamp": 1772354784467,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "powershell",
+        "toolArgs": {
+          "command": "& D:\\Repositories\\max-ai-ui\\scripts\\copilot-hooks\\session-manager.ps1 -NonInteractive",
+          "description": "Check current session task ID and workflow"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "{\"taskId\":\"verify-auto-queue-test-1772354156987\",\"workflowFilename\":\"comedy_club\"}\n<exited with exit code 0>"
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "verify-auto-queue-test-1772354156987",
+      "terminalId": "7b05510e-7b6f-4e1f-bc87-17685ee0b611",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: powershell\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"{\\n  \\\"filename\\\": \\\"comedy_club\\\",\\n  \\\"description\\\": \\\"its a simulation of a comedy show. The **Handoff:** format is how you **invoke/call other agents** as subagents or team members to continue the workflow. **Format:** `**Handoff:** @agent-name \\\\\\\"message about what you did\\\\\\\"` This is an **ACTION** - writing this line will trigger the specified agent to execute the next step.\\\",\\n  \\\"handoffChain\\\": [\\n    {\\n      \\\"fromAgent\\\": \\\"comedian\\\",\\n      \\\"toAgent\\\": \\\"heckler\\\",\\n      \\\"condition\\\": \\\"always\\\"\\n    },\\n    {\\n      \\\"fromAgent\\\": \\\"heckler\\\",\\n      \\\"toAgent\\\": \\\"comedian\\\",\\n      \\\"condition\\\": \\\"if joke rating < 8 out of 10\\\"\\n    },\\n    {\\n      \\\"fromAgent\\\": \\\"heckler\\\",\\n      \\\"toAgent\\\": \\\"audience\\\",\\n      \\\"condition\\\": \\\"if joke rating >= 8 out of 10\\\"\\n    },\\n    {\\n      \\\"fromAgent\\\": \\\"audience\\\",\\n      \\\"toAgent\\\": \\\"comedian\\\",\\n      \\\"condition\\\": \\\"till 10 funny jokes are delivered\\\"\\n    }\\n  ]\\n}\\n<exited with exit code 0>\"\n}",
+      "timestamp": "2026-03-01T08:46:30.282Z",
+      "metadata": {
+        "sessionId": "fd16b33d-a3fd-4be7-acf7-a3bd152faace",
+        "timestamp": 1772354789863,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "powershell",
+        "toolArgs": {
+          "command": "Invoke-RestMethod -Uri \"http://localhost:3001/workflows/comedy_club\" | ConvertTo-Json -Depth 10",
+          "description": "Get comedy_club workflow details"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "{\n  \"filename\": \"comedy_club\",\n  \"description\": \"its a simulation of a comedy show. The **Handoff:** format is how you **invoke/call other agents** as subagents or team members to continue the workflow. **Format:** `**Handoff:** @agent-name \\\"message about what you did\\\"` This is an **ACTION** - writing this line will trigger the specified agent to execute the next step.\",\n  \"handoffChain\": [\n    {\n      \"fromAgent\": \"comedian\",\n      \"toAgent\": \"heckler\",\n      \"condition\": \"always\"\n    },\n    {\n      \"fromAgent\": \"heckler\",\n      \"toAgent\": \"comedian\",\n      \"condition\": \"if joke rating < 8 out of 10\"\n    },\n    {\n      \"fromAgent\": \"heckler\",\n      \"toAgent\": \"audience\",\n      \"condition\": \"if joke rating >= 8 out of 10\"\n    },\n    {\n      \"fromAgent\": \"audience\",\n      \"toAgent\": \"comedian\",\n      \"condition\": \"till 10 funny jokes are delivered\"\n    }\n  ]\n}\n<exited with exit code 0>"
+        },
+        "eventType": "post_tool_use"
+      }
+    }
+  ]
+}

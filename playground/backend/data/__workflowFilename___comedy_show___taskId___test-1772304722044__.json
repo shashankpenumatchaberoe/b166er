@@ -1,0 +1,59 @@
+{
+  "taskId": "{\"workflowFilename\":\"comedy_show\",\"taskId\":\"test-1772304722044\"}",
+  "createdAt": "2026-02-28T18:53:21.673Z",
+  "updatedAt": "2026-02-28T18:54:54.373Z",
+  "conversations": [
+    {
+      "taskId": "{\"workflowFilename\":\"comedy_show\",\"taskId\":\"test-1772304722044\"}",
+      "terminalId": "0a3edcd5-2301-46b1-a474-cf38839972e9",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: task\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"## ≡ƒÄñ *taps microphone* Alright, alright, settle down...\\n\\n---\\n\\n### ≡ƒö¼ \\\"Why don't scientists trust atoms? Because they make up everything!\\\"\\n\\n**Rating: 6/10** ΓÜù∩╕Å\\n\\nLook, I'll give credit where it's due ΓÇö the wordplay is *technically* solid. \\\"Make up\\\" pulling double duty as both \\\"fabricate\\\" AND the literal atomic composition of matter? That's a two-for-one pun deal, like buying socks at a discount store.\\n\\nBUT ΓÇö and this is a big but ΓÇö this joke has been around longer than the periodic table itself. I've heard this one so many times, the atoms in my *brain* have started making it up on their own. ≡ƒÿä\\n\\nIt's the **white bread of science jokes** ΓÇö reliable, inoffensive, gets the job done, but nobody's writing home about it.\\n\\nWant bonus points? Try telling it to an *actual* scientist. The groan-to-laugh ratio is *chef's kiss*. ≡ƒÿÿ\\n\\n---\\n\\n**Handoff:** @audience \\\"The comedian just dropped a 6/10 science pun ΓÇö 'Why don't scientists trust atoms? Because they make up everything!' Show your appreciation accordingly! ≡ƒÄë\\\"\"\n}",
+      "timestamp": "2026-02-28T18:53:21.673Z",
+      "metadata": {
+        "sessionId": "0cde0a77-7a54-4f01-aeb6-5439354b1022",
+        "timestamp": 1772304801136,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "task",
+        "toolArgs": {
+          "agent_type": "hecker",
+          "description": "Rate the joke",
+          "prompt": "I just told this joke: 'Why don't scientists trust atoms? Because they make up everything!' Please rate it!"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "## ≡ƒÄñ *taps microphone* Alright, alright, settle down...\n\n---\n\n### ≡ƒö¼ \"Why don't scientists trust atoms? Because they make up everything!\"\n\n**Rating: 6/10** ΓÜù∩╕Å\n\nLook, I'll give credit where it's due ΓÇö the wordplay is *technically* solid. \"Make up\" pulling double duty as both \"fabricate\" AND the literal atomic composition of matter? That's a two-for-one pun deal, like buying socks at a discount store.\n\nBUT ΓÇö and this is a big but ΓÇö this joke has been around longer than the periodic table itself. I've heard this one so many times, the atoms in my *brain* have started making it up on their own. ≡ƒÿä\n\nIt's the **white bread of science jokes** ΓÇö reliable, inoffensive, gets the job done, but nobody's writing home about it.\n\nWant bonus points? Try telling it to an *actual* scientist. The groan-to-laugh ratio is *chef's kiss*. ≡ƒÿÿ\n\n---\n\n**Handoff:** @audience \"The comedian just dropped a 6/10 science pun ΓÇö 'Why don't scientists trust atoms? Because they make up everything!' Show your appreciation accordingly! ≡ƒÄë\""
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "{\"workflowFilename\":\"comedy_show\",\"taskId\":\"test-1772304722044\"}",
+      "terminalId": "0a3edcd5-2301-46b1-a474-cf38839972e9",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: task\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"≡ƒæÅ≡ƒæÅ≡ƒæÅ *claps steadily from the third row*\\n\\nHaha! Okay, okay ΓÇö I see you! ≡ƒÿä That one landed!\\n\\n≡ƒÄñ *lets out a warm chuckle and nudges the person next to me*\\n\\n**\\\"They make up everything\\\"** ΓÇö classic! You can't go wrong with a good atom joke, am I right?! ≡ƒÿé\\n\\n*whistles lightly and claps a few more times*\\n\\n**Woooo!** Not bad, not bad at all! Keep 'em coming! ≡ƒæïΓ£¿\\n\\n---\\n\\n**Handoff:** @hecker \\\"Rate this joke: 'Why don't scientists trust atoms? Because they make up everything!' ΓÇö the audience gave a solid, warm reaction. What's your official verdict?\\\"\"\n}",
+      "timestamp": "2026-02-28T18:54:54.373Z",
+      "metadata": {
+        "sessionId": "0cde0a77-7a54-4f01-aeb6-5439354b1022",
+        "timestamp": 1772304893822,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "task",
+        "toolArgs": {
+          "agent_type": "audience",
+          "description": "Audience reaction",
+          "prompt": "The comedian just dropped a 6/10 science pun ΓÇö 'Why don't scientists trust atoms? Because they make up everything!' Show your appreciation accordingly! ≡ƒÄë"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "≡ƒæÅ≡ƒæÅ≡ƒæÅ *claps steadily from the third row*\n\nHaha! Okay, okay ΓÇö I see you! ≡ƒÿä That one landed!\n\n≡ƒÄñ *lets out a warm chuckle and nudges the person next to me*\n\n**\"They make up everything\"** ΓÇö classic! You can't go wrong with a good atom joke, am I right?! ≡ƒÿé\n\n*whistles lightly and claps a few more times*\n\n**Woooo!** Not bad, not bad at all! Keep 'em coming! ≡ƒæïΓ£¿\n\n---\n\n**Handoff:** @hecker \"Rate this joke: 'Why don't scientists trust atoms? Because they make up everything!' ΓÇö the audience gave a solid, warm reaction. What's your official verdict?\""
+        },
+        "eventType": "post_tool_use"
+      }
+    }
+  ]
+}

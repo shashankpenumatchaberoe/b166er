@@ -1,0 +1,116 @@
+{
+  "taskId": "task-11",
+  "createdAt": "2026-02-25T02:18:26.743Z",
+  "updatedAt": "2026-02-25T02:23:04.276Z",
+  "conversations": [
+    {
+      "taskId": "task-11",
+      "terminalId": "bootstrap-session-074301",
+      "terminalName": "orchestrator-test",
+      "agentName": "orchestrator",
+      "eventType": "test",
+      "role": "assistant",
+      "message": "Manual test to verify backend is receiving events",
+      "timestamp": "2026-02-25T02:18:26.742Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "test",
+        "raw": {
+          "buffer": "Manual test to verify backend is receiving events",
+          "event_type": "test",
+          "task_id": "task-11",
+          "terminal_id": "bootstrap-session-074301",
+          "agent_name": "orchestrator",
+          "terminal_name": "orchestrator-test"
+        }
+      }
+    },
+    {
+      "taskId": "task-11",
+      "terminalId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "terminalName": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "test rtj",
+      "timestamp": "2026-02-25T02:20:38.625Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:20:38.625Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\21fd79d5-d593-46bc-8c30-bada0b5300a0.jsonl",
+          "prompt": "test rtj",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-11",
+          "event_type": "user_prompt",
+          "terminal_id": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "test rtj"
+        }
+      }
+    },
+    {
+      "taskId": "task-11",
+      "terminalId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "terminalName": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "can we handle this Note: Each new Copilot chat window gets a new session ID. Run this to map future sessions:\r\n\r\n",
+      "timestamp": "2026-02-25T02:21:40.443Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:21:40.443Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\21fd79d5-d593-46bc-8c30-bada0b5300a0.jsonl",
+          "prompt": "can we handle this Note: Each new Copilot chat window gets a new session ID. Run this to map future sessions:\r\n\r\n",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-11",
+          "event_type": "user_prompt",
+          "terminal_id": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "can we handle this Note: Each new Copilot chat window gets a new session ID. Run this to map future sessions:\r\n\r\n"
+        }
+      }
+    },
+    {
+      "taskId": "task-11",
+      "terminalId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "terminalName": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+      "agentName": null,
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "automatically ask for task id on every new chat",
+      "timestamp": "2026-02-25T02:23:03.592Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "user_prompt",
+        "raw": {
+          "timestamp": "2026-02-25T02:23:03.592Z",
+          "hookEventName": "UserPromptSubmit",
+          "sessionId": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "transcript_path": "c:\\Users\\Shashank.penumatcha\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bf5fa511286190ad954851068ce95e57\\GitHub.copilot-chat\\transcripts\\21fd79d5-d593-46bc-8c30-bada0b5300a0.jsonl",
+          "prompt": "automatically ask for task id on every new chat",
+          "cwd": "d:\\Repositories\\max-ai-ui",
+          "task_id": "task-11",
+          "event_type": "user_prompt",
+          "terminal_id": "21fd79d5-d593-46bc-8c30-bada0b5300a0",
+          "terminal_name": "",
+          "agent_name": "",
+          "role": "user",
+          "message": "automatically ask for task id on every new chat"
+        }
+      }
+    }
+  ]
+}

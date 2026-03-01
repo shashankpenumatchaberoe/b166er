@@ -1,0 +1,140 @@
+{
+  "taskId": "test-1772304722044",
+  "createdAt": "2026-02-28T18:52:49.850Z",
+  "updatedAt": "2026-02-28T19:02:15.210Z",
+  "conversations": [
+    {
+      "taskId": "test-1772304722044",
+      "terminalId": "0a3edcd5-2301-46b1-a474-cf38839972e9",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "invike @comedy and start workflow",
+      "timestamp": "2026-02-28T18:52:49.850Z",
+      "metadata": {
+        "sessionId": "0cde0a77-7a54-4f01-aeb6-5439354b1022",
+        "timestamp": 1772304769359,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "prompt": "invike @comedy and start workflow",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "test-1772304722044",
+      "terminalId": "da2ba7ba-4b98-4b85-a7e7-5a3fb0cdb00e",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "start",
+      "timestamp": "2026-02-28T19:00:48.826Z",
+      "metadata": {
+        "sessionId": "313d1503-be68-4561-8420-5d0eacc0d76d",
+        "timestamp": 1772305248322,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "prompt": "start",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "test-1772304722044",
+      "terminalId": "da2ba7ba-4b98-4b85-a7e7-5a3fb0cdb00e",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "start workflow",
+      "timestamp": "2026-02-28T19:00:58.801Z",
+      "metadata": {
+        "sessionId": "313d1503-be68-4561-8420-5d0eacc0d76d",
+        "timestamp": 1772305258317,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "prompt": "start workflow",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "test-1772304722044",
+      "terminalId": "da2ba7ba-4b98-4b85-a7e7-5a3fb0cdb00e",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "continue",
+      "timestamp": "2026-02-28T19:01:33.864Z",
+      "metadata": {
+        "sessionId": "313d1503-be68-4561-8420-5d0eacc0d76d",
+        "timestamp": 1772305293399,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "prompt": "continue",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "test-1772304722044",
+      "terminalId": "da2ba7ba-4b98-4b85-a7e7-5a3fb0cdb00e",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete.",
+      "timestamp": "2026-02-28T19:01:39.931Z",
+      "metadata": {
+        "sessionId": "313d1503-be68-4561-8420-5d0eacc0d76d",
+        "timestamp": 1772305299508,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "prompt": "You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete.",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "test-1772304722044",
+      "terminalId": "da2ba7ba-4b98-4b85-a7e7-5a3fb0cdb00e",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: task\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"# ≡ƒÄñ COMEDY HECKLER'S SCORECARD ≡ƒÄñ\\n*adjusts novelty foam finger and clears throat aggressively*\\n\\n---\\n\\n### 1. \\\"Why don't scientists trust atoms? Because they make up everything!\\\"\\n**Γ¡É 6/10** ΓÇö A solid grandpa joke. It's the *atomic* unit of \\\"dad humor\\\" ΓÇö fundamental, inescapable, and it's been around since the Big Bang. We've all heard it, but it still lands. Barely.\\n\\n---\\n\\n### 2. \\\"Why did the scarecrow win an award? Because he was outstanding in his field!\\\"\\n**Γ¡É 7/10** ΓÇö Now THAT'S how you work a pun! Double meaning, clean delivery. He was truly outstanding... unlike this comedian's fashion choices.\\n\\n---\\n\\n### 3. \\\"I told my wife she was drawing her eyebrows too high. She looked surprised.\\\"\\n**Γ¡É 9/10** ΓÇö *chef's kiss* The visual gag writes itself. Short, punchy, and the punchline IS the setup. This one genuinely raised MY eyebrows. Well played. ≡ƒæÅ\\n\\n---\\n\\n### 4. \\\"Why do programmers prefer dark mode? Because light attracts bugs!\\\"\\n**Γ¡É 8/10** ΓÇö Finally, a joke for the nerds in the back row! The double meaning of \\\"bugs\\\" is genuinely clever. Would've been a 10, but half the audience is already Googling what dark mode is.\\n\\n---\\n\\n### 5. \\\"I asked my dog what two minus two is. He said nothing.\\\"\\n**Γ¡É 8/10** ΓÇö Deceptively brilliant. The \\\"said nothing\\\" works on TWO levels ΓÇö zero, and a dog's silence. Underrated gem. Your dog is the real comedian here. ≡ƒÉò\\n\\n---\\n\\n### 6. \\\"Why did the bicycle fall over? Because it was two-tired!\\\"\\n**Γ¡É 4/10** ΓÇö Oh no. NO. We rode that joke hard and put it away wet. *throws popcorn* This one's been recycled more times than a bike at a rental shop. You're better than this!\\n\\n---\\n\\n### 7. \\\"Why can't you give Elsa a balloon? Because she'll just let it go!\\\"\\n**Γ¡É 7/10** ΓÇö Okay, cute. A Disney crossover pun that actually works. It's been floating around since 2013, but it still has a little lift. Points for the cultural reference!\\n\\n---\\n\\n### 8. \\\"I'm reading a book about anti-gravity. It's impossible to put down.\\\"\\n**Γ¡É 9/10** ΓÇö Now THIS is comedy craftsmanship! Wordplay so clean it defies physics. Conceptually satisfying AND funny. The best closer of the night ΓÇö it elevates the whole set!\\n\\n---\\n\\n## ≡ƒÅå FINAL VERDICT\\n\\n| # | Joke | Score |\\n|---|------|-------|\\n| 1 | Atoms | Γ¡É 6/10 |\\n| 2 | Scarecrow | Γ¡É 7/10 |\\n| 3 | Eyebrows | Γ¡É 9/10 |\\n| 4 | Dark Mode | Γ¡É 8/10 |\\n| 5 | Dog Math | Γ¡É 8/10 |\\n| 6 | Bicycle | Γ¡É 4/10 |\\n| 7 | Elsa | Γ¡É 7/10 |\\n| 8 | Anti-Gravity | Γ¡É 9/10 |\\n\\n**≡ƒÄ» Overall Set Score: 7.25/10** ΓÇö A genuinely entertaining set! Two absolute bangers (#3 and #8), a few solid mid-card jokes, and one absolutely *tire*-d clunker holding you back. Drop the bicycle joke and you're headlining Vegas, kid. ≡ƒÄ░\\n\\n---\\n\\n**Handoff:** @audience \\\"The comedian just finished their 8-joke set and scored a solid 7.25/10! Highlights were the eyebrow wife joke (9/10) and the anti-gravity book closer (9/10). Show your appreciation! ≡ƒæÅ\\\"\"\n}",
+      "timestamp": "2026-02-28T19:02:08.998Z",
+      "metadata": {
+        "sessionId": "313d1503-be68-4561-8420-5d0eacc0d76d",
+        "timestamp": 1772305328564,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "task",
+        "toolArgs": {
+          "description": "Rate comedian jokes",
+          "agent_type": "hecker",
+          "prompt": "The stand-up comedian told these jokes across their set:\n\n1. Why don't scientists trust atoms? Because they make up everything!\n2. Why did the scarecrow win an award? Because he was outstanding in his field!\n3. I told my wife she was drawing her eyebrows too high. She looked surprised.\n4. Why do programmers prefer dark mode? Because light attracts bugs!\n5. I asked my dog what two minus two is. He said nothing.\n6. Why did the bicycle fall over? Because it was two-tired!\n7. Why can't you give Elsa a balloon? Because she'll just let it go!\n8. I'm reading a book about anti-gravity. It's impossible to put down.\n\nPlease rate these jokes!"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "# ≡ƒÄñ COMEDY HECKLER'S SCORECARD ≡ƒÄñ\n*adjusts novelty foam finger and clears throat aggressively*\n\n---\n\n### 1. \"Why don't scientists trust atoms? Because they make up everything!\"\n**Γ¡É 6/10** ΓÇö A solid grandpa joke. It's the *atomic* unit of \"dad humor\" ΓÇö fundamental, inescapable, and it's been around since the Big Bang. We've all heard it, but it still lands. Barely.\n\n---\n\n### 2. \"Why did the scarecrow win an award? Because he was outstanding in his field!\"\n**Γ¡É 7/10** ΓÇö Now THAT'S how you work a pun! Double meaning, clean delivery. He was truly outstanding... unlike this comedian's fashion choices.\n\n---\n\n### 3. \"I told my wife she was drawing her eyebrows too high. She looked surprised.\"\n**Γ¡É 9/10** ΓÇö *chef's kiss* The visual gag writes itself. Short, punchy, and the punchline IS the setup. This one genuinely raised MY eyebrows. Well played. ≡ƒæÅ\n\n---\n\n### 4. \"Why do programmers prefer dark mode? Because light attracts bugs!\"\n**Γ¡É 8/10** ΓÇö Finally, a joke for the nerds in the back row! The double meaning of \"bugs\" is genuinely clever. Would've been a 10, but half the audience is already Googling what dark mode is.\n\n---\n\n### 5. \"I asked my dog what two minus two is. He said nothing.\"\n**Γ¡É 8/10** ΓÇö Deceptively brilliant. The \"said nothing\" works on TWO levels ΓÇö zero, and a dog's silence. Underrated gem. Your dog is the real comedian here. ≡ƒÉò\n\n---\n\n### 6. \"Why did the bicycle fall over? Because it was two-tired!\"\n**Γ¡É 4/10** ΓÇö Oh no. NO. We rode that joke hard and put it away wet. *throws popcorn* This one's been recycled more times than a bike at a rental shop. You're better than this!\n\n---\n\n### 7. \"Why can't you give Elsa a balloon? Because she'll just let it go!\"\n**Γ¡É 7/10** ΓÇö Okay, cute. A Disney crossover pun that actually works. It's been floating around since 2013, but it still has a little lift. Points for the cultural reference!\n\n---\n\n### 8. \"I'm reading a book about anti-gravity. It's impossible to put down.\"\n**Γ¡É 9/10** ΓÇö Now THIS is comedy craftsmanship! Wordplay so clean it defies physics. Conceptually satisfying AND funny. The best closer of the night ΓÇö it elevates the whole set!\n\n---\n\n## ≡ƒÅå FINAL VERDICT\n\n| # | Joke | Score |\n|---|------|-------|\n| 1 | Atoms | Γ¡É 6/10 |\n| 2 | Scarecrow | Γ¡É 7/10 |\n| 3 | Eyebrows | Γ¡É 9/10 |\n| 4 | Dark Mode | Γ¡É 8/10 |\n| 5 | Dog Math | Γ¡É 8/10 |\n| 6 | Bicycle | Γ¡É 4/10 |\n| 7 | Elsa | Γ¡É 7/10 |\n| 8 | Anti-Gravity | Γ¡É 9/10 |\n\n**≡ƒÄ» Overall Set Score: 7.25/10** ΓÇö A genuinely entertaining set! Two absolute bangers (#3 and #8), a few solid mid-card jokes, and one absolutely *tire*-d clunker holding you back. Drop the bicycle joke and you're headlining Vegas, kid. ≡ƒÄ░\n\n---\n\n**Handoff:** @audience \"The comedian just finished their 8-joke set and scored a solid 7.25/10! Highlights were the eyebrow wife joke (9/10) and the anti-gravity book closer (9/10). Show your appreciation! ≡ƒæÅ\""
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "test-1772304722044",
+      "terminalId": "da2ba7ba-4b98-4b85-a7e7-5a3fb0cdb00e",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: task_complete\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"All done!\"\n}",
+      "timestamp": "2026-02-28T19:02:15.210Z",
+      "metadata": {
+        "sessionId": "313d1503-be68-4561-8420-5d0eacc0d76d",
+        "timestamp": 1772305334783,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "task_complete",
+        "toolArgs": {},
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "All done!"
+        },
+        "eventType": "post_tool_use"
+      }
+    }
+  ]
+}

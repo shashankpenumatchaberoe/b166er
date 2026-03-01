@@ -1,0 +1,29 @@
+{
+  "taskId": "task-13",
+  "createdAt": "2026-02-25T03:06:40.443Z",
+  "updatedAt": "2026-02-25T03:06:40.443Z",
+  "conversations": [
+    {
+      "taskId": "task-13",
+      "terminalId": "test-terminal-123",
+      "terminalName": "lead",
+      "agentName": "lead",
+      "eventType": "test",
+      "role": "assistant",
+      "message": "Manual test from lead agent",
+      "timestamp": "2026-02-25T03:06:40.443Z",
+      "metadata": {
+        "source": "hook",
+        "rawEventType": "test",
+        "raw": {
+          "buffer": "Manual test from lead agent",
+          "event_type": "test",
+          "task_id": "task-13",
+          "terminal_id": "test-terminal-123",
+          "agent_name": "lead",
+          "terminal_name": "lead"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "taskId": "{\"taskId\":\"test-1772297433579\"}",
+  "createdAt": "2026-02-28T16:51:03.316Z",
+  "updatedAt": "2026-02-28T16:51:43.026Z",
+  "conversations": [
+    {
+      "taskId": "{\"taskId\":\"test-1772297433579\"}",
+      "terminalId": "566e0065-4b48-4295-a161-fab4de1d92a6",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "start",
+      "timestamp": "2026-02-28T16:51:03.315Z",
+      "metadata": {
+        "sessionId": "54040607-390e-4cc1-8ce0-b3fc476c1a04",
+        "timestamp": 1772297462796,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "prompt": "start",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "{\"taskId\":\"test-1772297433579\"}",
+      "terminalId": "566e0065-4b48-4295-a161-fab4de1d92a6",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: report_intent\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"Intent logged\"\n}",
+      "timestamp": "2026-02-28T16:51:16.258Z",
+      "metadata": {
+        "sessionId": "54040607-390e-4cc1-8ce0-b3fc476c1a04",
+        "timestamp": 1772297475798,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "report_intent",
+        "toolArgs": {
+          "intent": "Reviewing handoff instructions"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "Intent logged"
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "{\"taskId\":\"test-1772297433579\"}",
+      "terminalId": "566e0065-4b48-4295-a161-fab4de1d92a6",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: view\n\nResult: {\n  \"resultType\": \"failure\",\n  \"textResultForLlm\": \"Path D:\\\\Repositories\\\\max-ai-ui\\\\playground\\\\workflows.md does not exist. Please provide a valid path.\"\n}",
+      "timestamp": "2026-02-28T16:51:26.130Z",
+      "metadata": {
+        "sessionId": "54040607-390e-4cc1-8ce0-b3fc476c1a04",
+        "timestamp": 1772297485656,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "view",
+        "toolArgs": {
+          "path": "D:\\Repositories\\max-ai-ui\\playground\\workflows.md"
+        },
+        "toolResult": {
+          "resultType": "failure",
+          "textResultForLlm": "Path D:\\Repositories\\max-ai-ui\\playground\\workflows.md does not exist. Please provide a valid path."
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "{\"taskId\":\"test-1772297433579\"}",
+      "terminalId": "566e0065-4b48-4295-a161-fab4de1d92a6",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: glob\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"No files matched the pattern.\"\n}",
+      "timestamp": "2026-02-28T16:51:33.715Z",
+      "metadata": {
+        "sessionId": "54040607-390e-4cc1-8ce0-b3fc476c1a04",
+        "timestamp": 1772297493223,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "glob",
+        "toolArgs": {
+          "pattern": "**/workflows.md",
+          "path": "D:\\Repositories\\max-ai-ui\\playground\\backend"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "No files matched the pattern."
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "{\"taskId\":\"test-1772297433579\"}",
+      "terminalId": "566e0065-4b48-4295-a161-fab4de1d92a6",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: glob\n\nResult: {\n  \"resultType\": \"success\",\n  \"textResultForLlm\": \"No files matched the pattern.\"\n}",
+      "timestamp": "2026-02-28T16:51:43.026Z",
+      "metadata": {
+        "sessionId": "54040607-390e-4cc1-8ce0-b3fc476c1a04",
+        "timestamp": 1772297502430,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "toolName": "glob",
+        "toolArgs": {
+          "pattern": "**/workflows.md",
+          "path": "D:\\Repositories\\max-ai-ui"
+        },
+        "toolResult": {
+          "resultType": "success",
+          "textResultForLlm": "No files matched the pattern."
+        },
+        "eventType": "post_tool_use"
+      }
+    }
+  ]
+}

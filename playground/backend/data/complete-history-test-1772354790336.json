@@ -1,0 +1,58 @@
+{
+  "taskId": "complete-history-test-1772354790336",
+  "createdAt": "2026-03-01T08:46:30.340Z",
+  "updatedAt": "2026-03-01T08:46:41.340Z",
+  "conversations": [
+    {
+      "taskId": "complete-history-test-1772354790336",
+      "terminalId": "test-term",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Tell me a programming joke",
+      "timestamp": "2026-03-01T08:46:30.362Z",
+      "metadata": {
+        "cwd": "D:\\test",
+        "prompt": "Tell me a programming joke",
+        "sessionId": "977a8eb4-916f-47e7-8121-b9758f66564f",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "complete-history-test-1772354790336",
+      "terminalId": "test-term",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "agent_response",
+      "role": "assistant",
+      "message": "Why do programmers prefer dark mode? Because light attracts bugs! ",
+      "timestamp": "2026-03-01T08:46:41.326Z",
+      "metadata": {
+        "message": "Why do programmers prefer dark mode? Because light attracts bugs! ",
+        "agentName": "GitHub Copilot",
+        "sessionId": "977a8eb4-916f-47e7-8121-b9758f66564f",
+        "eventType": "agent_response"
+      }
+    },
+    {
+      "taskId": "complete-history-test-1772354790336",
+      "terminalId": "test-term",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: read_file\n\nResult: {\n  \"success\": true,\n  \"data\": \"file contents\"\n}",
+      "timestamp": "2026-03-01T08:46:41.338Z",
+      "metadata": {
+        "toolName": "read_file",
+        "toolResult": {
+          "success": true,
+          "data": "file contents"
+        },
+        "sessionId": "977a8eb4-916f-47e7-8121-b9758f66564f",
+        "eventType": "post_tool_use"
+      }
+    }
+  ]
+}

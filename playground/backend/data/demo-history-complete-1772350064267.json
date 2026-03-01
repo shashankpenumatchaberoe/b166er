@@ -1,0 +1,56 @@
+{
+  "taskId": "demo-history-complete-1772350064267",
+  "createdAt": "2026-03-01T07:27:44.269Z",
+  "updatedAt": "2026-03-01T07:27:44.612Z",
+  "conversations": [
+    {
+      "taskId": "demo-history-complete-1772350064267",
+      "terminalId": "demo-term",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "List all files in current directory",
+      "timestamp": "2026-03-01T07:27:44.380Z",
+      "metadata": {
+        "prompt": "List all files in current directory",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "demo-history-complete-1772350064267",
+      "terminalId": "demo-term",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "post_tool_use",
+      "role": "assistant",
+      "message": "Used tool: list_files\n\nResult: {\n  \"files\": [\n    \"file1.txt\",\n    \"file2.txt\"\n  ]\n}",
+      "timestamp": "2026-03-01T07:27:44.504Z",
+      "metadata": {
+        "toolName": "list_files",
+        "toolResult": {
+          "files": [
+            "file1.txt",
+            "file2.txt"
+          ]
+        },
+        "eventType": "post_tool_use"
+      }
+    },
+    {
+      "taskId": "demo-history-complete-1772350064267",
+      "terminalId": "demo-term",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "agent_response",
+      "role": "assistant",
+      "message": "I found 2 files in the directory.",
+      "timestamp": "2026-03-01T07:27:44.609Z",
+      "metadata": {
+        "message": "I found 2 files in the directory.",
+        "eventType": "agent_response",
+        "agentName": "GitHub Copilot"
+      }
+    }
+  ]
+}

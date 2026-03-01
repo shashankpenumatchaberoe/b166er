@@ -1,0 +1,23 @@
+{
+  "taskId": "test-copilot-integration",
+  "createdAt": "2026-02-25T18:10:26.040Z",
+  "updatedAt": "2026-02-25T18:10:26.040Z",
+  "conversations": [
+    {
+      "taskId": "test-copilot-integration",
+      "terminalId": "test-terminal-456",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Full integration test - how do I list files?",
+      "timestamp": "2026-02-25T18:10:26.040Z",
+      "metadata": {
+        "cwd": "D:\\Repositories\\max-ai-ui",
+        "prompt": "Full integration test - how do I list files?",
+        "sessionId": "integration-session-001",
+        "eventType": "user_prompt"
+      }
+    }
+  ]
+}

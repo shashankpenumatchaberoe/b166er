@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>B1-66ER</title>
+
+  <!-- xterm.js v5 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/xterm@5.3.0/css/xterm.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/xterm@5.3.0/lib/xterm.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/xterm-addon-fit@0.8.0/lib/xterm-addon-fit.min.js"></script>
+
+  <!-- Socket.IO client — served by the backend at the exact matching version -->
+  <script src="/socket.io/socket.io.js"></script>
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<script>
+  // Must run before any HTML renders to prevent flash
+  if (sessionStorage.getItem('matrix-loader-shown')) {
+    document.write('<style>#matrix-loader{display:none!important}#app{transform:scale(1)!important;opacity:1!important;transition:none!important}</style>');
+  }
+</script>
+<!-- Full-screen Matrix loader -->
+<div id="matrix-loader" class="matrix-loader">
+  <div class="matrix-loader-content">
+    <div class="loader-logo">Б</div>
+    <div class="loader-text">B1-66ER</div>
+    <div class="loader-subtitle">INITIALIZING...</div>
+  </div>
+</div>
+
+<div id="app">
+
+  <!-- ── Header (full width) ── -->
+  <header id="header">
+    <div class="header-logo">
+      <div class="header-logo-icon">Б</div>
+      <span class="header-title">B1-66ER</span>
+      <div class="header-sep"></div>
+      <span class="header-subtitle" id="project-name">Loading...</span>
+    </div>
+
+    <div class="header-actions">
+      <button id="btn-workflows" class="header-nav-btn" title="Workflows">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+          <path d="M3 7h8M7 3v8" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+          <circle cx="3" cy="7" r="1.5" fill="currentColor"/>
+          <circle cx="11" cy="7" r="1.5" fill="currentColor"/>
+          <circle cx="7" cy="3" r="1.5" fill="currentColor"/>
+          <circle cx="7" cy="11" r="1.5" fill="currentColor"/>
+        </svg>
+        <span>Workflows</span>
+      </button>
+      <button id="btn-agents" class="header-nav-btn" title="Agents">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+          <circle cx="7" cy="4" r="2" stroke="currentColor" stroke-width="1.3" fill="none"/>
+          <path d="M3 12c0-2.2 1.8-4 4-4s4 1.8 4 4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+        </svg>
+        <span>Agents</span>
+      </button>
+      <button id="btn-prompt-composer" class="icon-btn" title="Prompt Composer (Ctrl+P)">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+          <path d="M2 3.5h10M2 7h10M2 10.5h6" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <div id="connection-status">
+        <div id="connection-dot"></div>
+        <span id="connection-text">Connecting</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── Content area: sidebar + right pane ── -->
+  <div id="content-area">
+
+    <!-- ── Task Sidebar ── -->
+    <aside id="task-sidebar">
+      <div class="sidebar-header">
+        <button id="btn-collapse-sidebar" class="sidebar-collapse-btn" title="Collapse sidebar">
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+            <path d="M8 3L5 6l3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <span class="sidebar-title">Tasks</span>
+        <button id="btn-add-task" class="sidebar-add-btn" title="Add new task">
+          <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+            <path d="M5.5 1v9M1 5.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+      <div id="task-list">
+        <!-- rendered by task-manager.js -->
+      </div>
+    </aside>
+
+    <!-- ── Right pane ── -->
+    <div id="right-pane">
+
+      <!-- ── Workflow Stage Manager (hidden) ── -->
+      <div id="workflow-bar" class="hidden">
+        <div id="stage-list">
+          <div class="stage-item" data-role="orchestrator">
+            <span class="stage-dot"></span>
+            <span class="stage-label">Orchestrator</span>
+          </div>
+          <span class="stage-arrow">→</span>
+          <div class="stage-item" data-role="coder">
+            <span class="stage-dot"></span>
+            <span class="stage-label">Coder</span>
+          </div>
+          <span class="stage-arrow">→</span>
+          <div class="stage-item" data-role="reviewer">
+            <span class="stage-dot"></span>
+            <span class="stage-label">Reviewer</span>
+          </div>
+          <span class="stage-arrow">→</span>
+          <div class="stage-item" data-role="test">
+            <span class="stage-dot"></span>
+            <span class="stage-label">Test</span>
+          </div>
+          <span class="stage-arrow">→</span>
+          <div class="stage-item" data-role="lead">
+            <span class="stage-dot"></span>
+            <span class="stage-label">Lead</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── Tab bar: view switcher ── -->
+      <div id="tab-bar">
+        <div id="current-task-label">
+          <span class="task-label-text">Task:</span>
+          <span id="current-task-id">None</span>
+        </div>
+        <div id="view-tabs">
+          <button class="view-tab view-tab--active" data-view="terminals">Terminals</button>
+          <button class="view-tab" data-view="history">History</button>
+        </div>
+        <button id="btn-split-history" class="btn-icon-bar" title="Split view: History + Terminals">
+          <svg width="13" height="13" viewBox="0 0 13 13" fill="none">
+            <rect x="1" y="1" width="4.5" height="11" rx="1" stroke="currentColor" stroke-width="1.2"/>
+            <rect x="7.5" y="1" width="4.5" height="11" rx="1" stroke="currentColor" stroke-width="1.2"/>
+          </svg>
+        </button>
+      </div>
+
+      <!-- ── Terminal bar: tabs + controls (hidden in history view) ── -->
+      <div id="terminal-bar">
+        <div id="tabs-scroll">
+          <!-- tabs injected by tab-manager.js -->
+        </div>
+        <div id="terminal-tab-controls">
+          <button id="btn-split-view" class="btn-icon-bar" title="Toggle split orchestration view">
+            <svg width="13" height="13" viewBox="0 0 13 13" fill="none">
+              <rect x="1" y="1" width="5" height="5" rx="1" stroke="currentColor" stroke-width="1.2"/>
+              <rect x="7" y="1" width="5" height="5" rx="1" stroke="currentColor" stroke-width="1.2"/>
+              <rect x="1" y="7" width="5" height="5" rx="1" stroke="currentColor" stroke-width="1.2"/>
+              <rect x="7" y="7" width="5" height="5" rx="1" stroke="currentColor" stroke-width="1.2"/>
+            </svg>
+          </button>
+          <button id="btn-new-terminal" title="New terminal (Ctrl+Shift+`)">+</button>
+        </div>
+      </div>
+
+      <!-- ── Terminal area (Terminals view) ── -->
+      <div id="task-content-area">
+        <div id="main-area">
+          <div id="terminal-container">
+            <div id="empty-state">
+              <img src="icons8-morpheus-48.png" alt="" class="empty-icon" id="empty-icon" />
+              <div id="empty-heading" class="empty-heading"></div>
+              <div id="empty-sub" class="empty-sub"></div>
+              <button id="btn-open-terminal">
+                <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                  <path d="M6 1v10M1 6h10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+                New Terminal
+              </button>
+              <p id="empty-hint" class="empty-hint">or press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>`</kbd></p>
+            </div>
+            <!-- terminal wrappers injected by terminal-manager.js -->
+          </div>
+        </div>
+
+        <!-- ── History view (hidden by default) ── -->
+        <div id="history-view" class="hidden">
+          <div id="history-header">
+            <span class="history-header-title">History</span>
+            <button id="btn-collapse-history" class="btn-icon-bar" title="Collapse history panel">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                <path d="M9 4L6 7L3 4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+          </div>
+          <div id="history-list">
+            <div class="history-empty">Select a task to view its history.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── Workflows view (hidden by default) ── -->
+      <div id="workflows-view" class="hidden">
+        <div class="management-header">
+          <h2 class="management-title">Workflow Management</h2>
+          <button id="btn-new-workflow" class="btn btn-primary">
+            <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+              <path d="M5.5 1v9M1 5.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+            New Workflow
+          </button>
+        </div>
+        <div id="workflow-list" class="management-list">
+          <div class="management-empty">No workflows yet. Create one to get started.</div>
+        </div>
+      </div>
+
+      <!-- ── Agents view (hidden by default) ── -->
+      <div id="agents-view" class="hidden">
+        <div class="management-header">
+          <h2 class="management-title">Agent Management</h2>
+          <button id="btn-new-agent" class="btn btn-primary">
+            <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+              <path d="M5.5 1v9M1 5.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+            New Agent
+          </button>
+        </div>
+        <div id="agent-list" class="management-list">
+          <div class="management-empty">No agents yet. Create one to get started.</div>
+        </div>
+      </div>
+
+    </div><!-- /#right-pane -->
+
+  </div><!-- /#content-area -->
+
+  <!-- ── Status bar (full width) ── -->
+  <div id="status-bar" class="disconnected">
+    <span id="status-message">Connecting to backend…</span>
+    <span class="status-agent-count" id="status-agent-count"></span>
+  </div>
+
+</div><!-- /#app -->
+
+<!-- ── Modal: New Terminal ── -->
+<div id="modal-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+  <div id="modal">
+    <div class="modal-header">
+      <div class="modal-header-icon">
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+          <rect x="1" y="1" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.2"/>
+          <path d="M3.5 4.5L5.5 6L3.5 7.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M6.5 7.5h2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <h2 id="modal-title">New Terminal</h2>
+    </div>
+    <form id="modal-form" novalidate>
+      <div class="modal-body">
+        <div class="form-group">
+          <label for="input-terminal-name">Terminal name</label>
+          <input
+            id="input-terminal-name"
+            type="text"
+            placeholder="e.g. orchestrator, coder, main"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <div class="form-group">
+          <label for="input-terminal-agent">Agent (from workflow)</label>
+          <select id="input-terminal-agent">
+            <option value="">Select agent...</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="input-task-id">Task ID</label>
+          <input
+            id="input-task-id"
+            type="text"
+            readonly
+            style="background: var(--bg-3); cursor: not-allowed;"
+          />
+        </div>
+        <div class="form-group">
+          <label for="input-user-prompt">User Prompt (optional)</label>
+          <textarea
+            id="input-user-prompt"
+            placeholder="Enter your prompt..."
+            rows="3"
+            autocomplete="off"
+            spellcheck="true"
+          ></textarea>
+        </div>
+        <div class="form-error" id="modal-error"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" id="btn-modal-cancel" class="btn btn-ghost">Cancel</button>
+        <button type="button" id="btn-modal-confirm" class="btn btn-primary">
+          <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+            <path d="M1.5 5.5L4.5 8.5L9.5 2.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Create
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- ── Modal: New Task ── -->
+<div id="modal-task-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="modal-task-title">
+  <div id="modal-task">
+    <div class="modal-header">
+      <div class="modal-header-icon">
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+          <rect x="1" y="1" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.2"/>
+          <path d="M4 6h4M6 4v4" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <h2 id="modal-task-title">New Task</h2>
+    </div>
+    <form id="modal-task-form" novalidate>
+      <div class="modal-body">
+        <div class="form-group">
+          <label for="input-task-name">Task name</label>
+          <input
+            id="input-task-name"
+            type="text"
+            placeholder="e.g. Auth flow, Bug fixes"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <div class="form-group">
+          <label for="input-task-desc">
+            Description
+            <span class="label-optional">optional</span>
+          </label>
+          <input
+            id="input-task-desc"
+            type="text"
+            placeholder="Brief description…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <div class="form-group">
+          <label for="input-task-workflow">
+            Workflow
+            <span class="label-optional">optional</span>
+          </label>
+          <select id="input-task-workflow">
+            <option value="">-- No workflow --</option>
+          </select>
+        </div>
+        <div class="form-error" id="modal-task-error"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" id="btn-task-cancel" class="btn btn-ghost">Cancel</button>
+        <button type="button" id="btn-task-confirm" class="btn btn-primary">
+          <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+            <path d="M1.5 5.5L4.5 8.5L9.5 2.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Create Task
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- ── Modal: Prompt Composer ── -->
+<div id="modal-prompt-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="modal-prompt-title">
+  <div id="modal-prompt">
+    <div class="modal-header">
+      <div class="modal-header-icon">
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+          <path d="M2 3h8M2 6h8M2 9h5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <h2 id="modal-prompt-title">Prompt Composer</h2>
+    </div>
+    <div id="prompt-task-context" class="prompt-task-context hidden">
+      <div id="prompt-task-info"></div>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label for="input-prompt-text">Compose your prompt</label>
+        <textarea
+          id="input-prompt-text"
+          rows="10"
+          placeholder="Type your prompt here...&#10;&#10;You can use Ctrl+Enter to save and copy to clipboard."
+          autocomplete="off"
+          spellcheck="true"
+        ></textarea>
+      </div>
+      <div class="prompt-stats">
+        <span id="prompt-char-count">0 characters</span>
+        <span id="prompt-word-count">0 words</span>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button type="button" id="btn-prompt-clear" class="btn btn-ghost">Clear</button>
+      <button type="button" id="btn-prompt-cancel" class="btn btn-ghost">Close</button>
+      <button type="button" id="btn-prompt-copy" class="btn btn-primary">
+        <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+          <rect x="3" y="3" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.2"/>
+          <path d="M7 3V2a1 1 0 00-1-1H2a1 1 0 00-1 1v4a1 1 0 001 1h1" stroke="currentColor" stroke-width="1.2"/>
+        </svg>
+        Copy to Clipboard
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- ── Modal: New/Edit Workflow ── -->
+<div id="modal-workflow-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="modal-workflow-title">
+  <div id="modal-workflow">
+    <div class="modal-header">
+      <div class="modal-header-icon">
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+          <circle cx="3" cy="3" r="1.5" stroke="currentColor" stroke-width="1.2"/>
+          <circle cx="9" cy="6" r="1.5" stroke="currentColor" stroke-width="1.2"/>
+          <circle cx="3" cy="9" r="1.5" stroke="currentColor" stroke-width="1.2"/>
+          <path d="M4 3.5h3.5M4 8.5h3.5" stroke="currentColor" stroke-width="1.2"/>
+        </svg>
+      </div>
+      <h2 id="modal-workflow-title">Create New Workflow</h2>
+    </div>
+    <form id="modal-workflow-form" novalidate>
+      <div class="modal-body">
+        <div class="form-group">
+          <label for="input-workflow-filename">Filename</label>
+          <input
+            id="input-workflow-filename"
+            type="text"
+            placeholder="e.g. my-workflow (no .md extension)"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <div class="form-group">
+          <label for="input-workflow-desc">Description</label>
+          <textarea
+            id="input-workflow-desc"
+            rows="3"
+            placeholder="Brief description of this workflow..."
+            autocomplete="off"
+            spellcheck="true"
+          ></textarea>
+        </div>
+        <div class="form-group">
+          <label>Agent Handoff Chain</label>
+          <div id="workflow-handoff-container" class="handoff-container">
+            <!-- Dynamically added handoff rows -->
+          </div>
+          <button type="button" id="btn-add-handoff" class="btn btn-ghost btn-sm">
+            <svg width="10" height="10" viewBox="0 0 10 10" fill="none">
+              <path d="M5 1v8M1 5h8" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+            </svg>
+            Add Handoff Rule
+          </button>
+        </div>
+        <div class="form-error" id="modal-workflow-error"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" id="btn-workflow-cancel" class="btn btn-ghost">Cancel</button>
+        <button type="button" id="btn-workflow-confirm" class="btn btn-primary">
+          <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+            <path d="M1.5 5.5L4.5 8.5L9.5 2.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Create
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- ── Modal: New/Edit Agent ── -->
+<div id="modal-agent-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="modal-agent-title">
+  <div id="modal-agent">
+    <div class="modal-header">
+      <div class="modal-header-icon">
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+          <circle cx="6" cy="4" r="2" stroke="currentColor" stroke-width="1.2"/>
+          <path d="M2 10c0-2 1.5-3 4-3s4 1 4 3" stroke="currentColor" stroke-width="1.2"/>
+        </svg>
+      </div>
+      <h2 id="modal-agent-title">Create New Agent</h2>
+    </div>
+    <form id="modal-agent-form" novalidate>
+      <div class="modal-body">
+        <div class="form-group">
+          <label for="input-agent-filename">Filename</label>
+          <input
+            id="input-agent-filename"
+            type="text"
+            placeholder="e.g. my-agent (no .md extension)"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <div class="form-group">
+          <label for="input-agent-name">Agent Name</label>
+          <input
+            id="input-agent-name"
+            type="text"
+            placeholder="e.g. coder, reviewer, tester"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <div class="form-group">
+          <label for="input-agent-desc">Description</label>
+          <textarea
+            id="input-agent-desc"
+            rows="2"
+            placeholder="Brief description of this agent's role..."
+            autocomplete="off"
+            spellcheck="true"
+          ></textarea>
+        </div>
+        <div class="form-group">
+          <label for="input-agent-prompt">Prompt</label>
+          <textarea
+            id="input-agent-prompt"
+            rows="8"
+            placeholder="Agent instructions and handoff protocol..."
+            autocomplete="off"
+            spellcheck="true"
+          ></textarea>
+        </div>
+        <div class="form-error" id="modal-agent-error"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" id="btn-agent-cancel" class="btn btn-ghost">Cancel</button>
+        <button type="button" id="btn-agent-confirm" class="btn btn-primary">
+          <svg width="11" height="11" viewBox="0 0 11 11" fill="none">
+            <path d="M1.5 5.5L4.5 8.5L9.5 2.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Create
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<script src="js/digital-rain.js"></script>
+<script src="js/loader.js"></script>
+<script src="js/socket.js"></script>
+<script src="js/terminal-manager.js"></script>
+<script src="js/tab-manager.js"></script>
+<script src="js/task-manager.js"></script>
+<script src="js/task-modal.js"></script>
+<script src="js/workflow-stage.js"></script>
+<script src="js/history-panel.js"></script>
+<script src="js/prompt-composer.js"></script>
+<script src="js/workflow-manager.js"></script>
+<script src="js/agent-manager.js"></script>
+<script src="js/workflow-modal.js"></script>
+<script src="js/agent-modal.js"></script>
+<script src="js/workflow-list-view.js"></script>
+<script src="js/agent-list-view.js"></script>
+<script src="js/modal.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

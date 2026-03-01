@@ -1,0 +1,23 @@
+{
+  "taskId": "test-task-integration",
+  "createdAt": "2026-02-25T18:10:01.352Z",
+  "updatedAt": "2026-02-25T18:10:01.352Z",
+  "conversations": [
+    {
+      "taskId": "test-task-integration",
+      "terminalId": "test-terminal-123",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "Test prompt from verification",
+      "timestamp": "2026-02-25T18:10:01.352Z",
+      "metadata": {
+        "cwd": "D:\\Repositories\\max-ai-ui",
+        "prompt": "Test prompt from verification",
+        "sessionId": "test-session",
+        "eventType": "user_prompt"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1191 @@
+2026-03-01T12:54:09.9468990+05:30 [user-prompt] Starting hook execution
+2026-03-01T12:54:10.0475143+05:30 [user-prompt] Session info received: 
+2026-03-01T12:56:05.9458599+05:30 [user-prompt] Starting hook execution
+2026-03-01T12:56:06.0501559+05:30 [user-prompt] Session info received: 
+2026-03-01T13:12:16.0977500+05:30 [user-prompt] Starting hook execution
+2026-03-01T13:12:16.1903313+05:30 [user-prompt] Session info received: 
+2026-03-01T13:15:34.9840985+05:30 [user-prompt] Starting hook execution
+2026-03-01T13:15:35.2548074+05:30 [user-prompt] Session info received: 
+2026-03-01T13:18:19.7067126+05:30 [user-prompt] Starting hook execution
+2026-03-01T13:18:19.8082286+05:30 [user-prompt] Session info received: 
+2026-03-01T13:20:03.6666844+05:30 [user-prompt] Starting hook execution
+2026-03-01T13:20:03.7487928+05:30 [user-prompt] Session info received: 
+2026-03-01T13:28:51.7128978+05:30 [user-prompt] Starting hook execution
+2026-03-01T13:28:51.7235147+05:30 [user-prompt] Received sessionId from Copilot: 919a8883-2616-46d4-a3b0-c4bfea04b077
+2026-03-01T13:28:51.7298457+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T13:28:51.8019099+05:30 [user-prompt] Session info received: 
+2026-03-01T13:28:51.8067338+05:30 [user-prompt] ERROR: No task ID found for session 919a8883-2616-46d4-a3b0-c4bfea04b077
+2026-03-01T13:44:19.4925691+05:30 [user-prompt] Starting hook execution
+2026-03-01T13:44:19.5047843+05:30 [user-prompt] Received sessionId from Copilot: d3f8ad02-2f2b-4d93-865d-0a72a5a91d6f
+2026-03-01T13:44:19.5097093+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T13:44:19.5920130+05:30 [user-prompt] Session info received: 
+2026-03-01T13:44:19.5963887+05:30 [user-prompt] ERROR: No task ID found for session d3f8ad02-2f2b-4d93-865d-0a72a5a91d6f
+2026-03-01T13:57:45.0160193+05:30 [user-prompt] Starting hook execution
+2026-03-01T13:57:45.0278672+05:30 [user-prompt] Received sessionId from Copilot: 11004c24-48f1-419c-a663-044c7a79d77b
+2026-03-01T13:57:45.0326659+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T13:57:45.1245387+05:30 [user-prompt] Session info received: 
+2026-03-01T13:57:45.1260716+05:30 [user-prompt] No task ID found for session 11004c24-48f1-419c-a663-044c7a79d77b
+2026-03-01T14:03:48.7058050+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:03:48.7216679+05:30 [user-prompt] Received sessionId from Copilot: d3e61744-5bcb-4e92-a9bc-f00fc5feaffe
+2026-03-01T14:03:48.7261887+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:03:48.8091404+05:30 [user-prompt] Session info received: 
+2026-03-01T14:03:48.8103815+05:30 [user-prompt] No task ID found for session d3e61744-5bcb-4e92-a9bc-f00fc5feaffe
+2026-03-01T14:04:47.2877023+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:04:47.3017534+05:30 [user-prompt] Received sessionId from Copilot: d3e61744-5bcb-4e92-a9bc-f00fc5feaffe
+2026-03-01T14:04:47.3071222+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:04:47.3879641+05:30 [user-prompt] Session info received: 
+2026-03-01T14:04:47.3894886+05:30 [user-prompt] No task ID found for session d3e61744-5bcb-4e92-a9bc-f00fc5feaffe
+2026-03-01T14:16:14.6212192+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:16:14.6310215+05:30 [user-prompt] Received sessionId from Copilot: fd16b33d-a3fd-4be7-acf7-a3bd152faace
+2026-03-01T14:16:14.6372327+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:16:14.7414036+05:30 [user-prompt] Session info received: 
+2026-03-01T14:16:14.7428393+05:30 [user-prompt] No task ID found for session fd16b33d-a3fd-4be7-acf7-a3bd152faace
+2026-03-01T14:33:30.5889321+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:33:30.6060401+05:30 [user-prompt] Received sessionId from Copilot: 7afc54ef-c0f0-4573-a75c-6a9bcb10fca3
+2026-03-01T14:33:30.6119143+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:33:30.6973550+05:30 [user-prompt] Session info received: 
+2026-03-01T14:33:30.6987751+05:30 [user-prompt] No task ID found for session 7afc54ef-c0f0-4573-a75c-6a9bcb10fca3
+2026-03-01T14:35:13.5548861+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:35:13.5792067+05:30 [user-prompt] Received sessionId from Copilot: aa158222-cf0b-4cfc-8a8f-3d6431ec8633
+2026-03-01T14:35:13.5867006+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:35:13.6784865+05:30 [user-prompt] Session info received: 
+2026-03-01T14:35:13.6801902+05:30 [user-prompt] No task ID found for session aa158222-cf0b-4cfc-8a8f-3d6431ec8633
+2026-03-01T14:36:33.8659763+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:36:33.8793032+05:30 [user-prompt] Received sessionId from Copilot: 35b5b234-d6cc-47e7-a738-e6065985f55e
+2026-03-01T14:36:33.8843387+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:36:33.9720522+05:30 [user-prompt] Session info received: 
+2026-03-01T14:36:33.9733778+05:30 [user-prompt] No task ID found for session 35b5b234-d6cc-47e7-a738-e6065985f55e
+2026-03-01T14:37:45.0209894+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:37:45.0332824+05:30 [user-prompt] Received sessionId from Copilot: 35b5b234-d6cc-47e7-a738-e6065985f55e
+2026-03-01T14:37:45.0383401+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:37:45.1417748+05:30 [user-prompt] Session info received: {"taskId":"assa-1772355978341","workflowFilename":"comedy_club"}
+2026-03-01T14:37:45.1427641+05:30 [user-prompt] Parsed - TaskId: assa-1772355978341, Workflow: comedy_club
+2026-03-01T14:37:45.1601812+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:37:45.1609887+05:30 [user-prompt] Payload: {"eventType":"user_prompt","workflowFilename":"comedy_club","taskId":"assa-1772355978341","terminalId":"31a73e52-f6b7-4830-a9ad-a56aab85b368","data":{"sessionId":"35b5b234-d6cc-47e7-a738-e6065985f55e","timestamp":1772356064691,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"[[PLAN]] I want to create an implementation plan. Please:\n1. Analyze the codebase to understand the current state\n2. Ask clarifying questions if my request is ambiguous\n3. Create a structured plan and save it to the plan file in the session folder\n\nMy request: continue"}}
+2026-03-01T14:37:45.1794999+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:37:45.1818412+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:37:45.1842265+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:37:45.1880513+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:37:45.1895818+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:37:45.1917898+05:30 [user-prompt] File exists: True
+2026-03-01T14:37:45.1968332+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:39:18.6264875+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:39:18.6365414+05:30 [user-prompt] Received sessionId from Copilot: 35b5b234-d6cc-47e7-a738-e6065985f55e
+2026-03-01T14:39:18.6419297+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:39:18.7294543+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"assa-1772355978341"}
+2026-03-01T14:39:18.7303021+05:30 [user-prompt] Parsed - TaskId: assa-1772355978341, Workflow: comedy_club
+2026-03-01T14:39:18.7423977+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:39:18.7433697+05:30 [user-prompt] Payload: {"terminalId":"31a73e52-f6b7-4830-a9ad-a56aab85b368","taskId":"assa-1772355978341","workflowFilename":"comedy_club","data":{"sessionId":"35b5b234-d6cc-47e7-a738-e6065985f55e","timestamp":1772356158319,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt"}
+2026-03-01T14:39:18.7642245+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:39:18.7656764+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:39:18.7663842+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:39:18.7693820+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:39:18.7703918+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:39:18.7715075+05:30 [user-prompt] File exists: True
+2026-03-01T14:39:18.7780985+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:45:47.2260991+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:45:47.2449122+05:30 [user-prompt] Received sessionId from Copilot: 42112a8e-e2ae-4918-87b9-dc54b1018764
+2026-03-01T14:45:47.2505321+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:45:47.3367961+05:30 [user-prompt] Session info received: 
+2026-03-01T14:45:47.3381480+05:30 [user-prompt] No task ID found for session 42112a8e-e2ae-4918-87b9-dc54b1018764
+2026-03-01T14:46:23.9918913+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:46:24.0033926+05:30 [user-prompt] Received sessionId from Copilot: 42112a8e-e2ae-4918-87b9-dc54b1018764
+2026-03-01T14:46:24.0077939+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:46:24.0943990+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"club-1772356528492"}
+2026-03-01T14:46:24.0953474+05:30 [user-prompt] Parsed - TaskId: club-1772356528492, Workflow: comedy_club
+2026-03-01T14:46:24.1090642+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:46:24.1098289+05:30 [user-prompt] Payload: {"terminalId":"f2d00ebd-cfe7-420a-bdb7-18b53c17e40b","data":{"sessionId":"42112a8e-e2ae-4918-87b9-dc54b1018764","timestamp":1772356583665,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","eventType":"user_prompt","taskId":"club-1772356528492"}
+2026-03-01T14:46:24.1237816+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:46:24.1252135+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:46:24.1259221+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:46:24.1298364+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:46:24.1311103+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:46:24.1322476+05:30 [user-prompt] File exists: True
+2026-03-01T14:46:24.1378671+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:47:12.6770508+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:47:12.6870560+05:30 [user-prompt] Received sessionId from Copilot: 42112a8e-e2ae-4918-87b9-dc54b1018764
+2026-03-01T14:47:12.6923179+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:47:12.7813232+05:30 [user-prompt] Session info received: {"taskId":"club-1772356528492","workflowFilename":"comedy_club"}
+2026-03-01T14:47:12.7821992+05:30 [user-prompt] Parsed - TaskId: club-1772356528492, Workflow: comedy_club
+2026-03-01T14:47:12.7935984+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:47:12.7943384+05:30 [user-prompt] Payload: {"terminalId":"f2d00ebd-cfe7-420a-bdb7-18b53c17e40b","data":{"sessionId":"42112a8e-e2ae-4918-87b9-dc54b1018764","timestamp":1772356632358,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","taskId":"club-1772356528492","workflowFilename":"comedy_club"}
+2026-03-01T14:47:12.8145544+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:47:12.8165415+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:47:12.8172914+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:47:12.8203096+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:47:12.8224675+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:47:12.8262875+05:30 [user-prompt] File exists: True
+2026-03-01T14:47:12.8324170+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:50:38.7427931+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:50:38.7533843+05:30 [user-prompt] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:50:38.7579926+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:50:38.8382511+05:30 [user-prompt] Session info received: 
+2026-03-01T14:50:38.8395679+05:30 [user-prompt] No task ID found for session 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:51:45.3276951+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:51:45.3389192+05:30 [user-prompt] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:51:45.3436696+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:51:45.4184954+05:30 [user-prompt] Session info received: 
+2026-03-01T14:51:45.4198725+05:30 [user-prompt] No task ID found for session 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:51:58.4987961+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:51:58.5082048+05:30 [user-prompt] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:51:58.5122810+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:51:58.5923151+05:30 [user-prompt] Session info received: {"taskId":"aksl-1772356824145","workflowFilename":"comedy_club"}
+2026-03-01T14:51:58.5931780+05:30 [user-prompt] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:51:58.6049084+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:51:58.6057812+05:30 [user-prompt] Payload: {"taskId":"aksl-1772356824145","data":{"sessionId":"56634d21-130f-4bf3-87cd-e9ac6985fce7","timestamp":1772356918186,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","terminalId":"812c22b2-6ecd-43f9-bafb-790082e0d4b8","workflowFilename":"comedy_club"}
+2026-03-01T14:51:58.6163267+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:51:58.6179367+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:51:58.6194286+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:51:58.6235112+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:51:58.6246486+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:51:58.6260335+05:30 [user-prompt] File exists: True
+2026-03-01T14:51:58.6301783+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:52:05.8943863+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:52:05.9065883+05:30 [user-prompt] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:52:05.9126428+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:52:06.0140235+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksl-1772356824145"}
+2026-03-01T14:52:06.0150423+05:30 [user-prompt] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:52:06.0283828+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:52:06.0293329+05:30 [user-prompt] Payload: {"taskId":"aksl-1772356824145","data":{"sessionId":"56634d21-130f-4bf3-87cd-e9ac6985fce7","timestamp":1772356925582,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","terminalId":"812c22b2-6ecd-43f9-bafb-790082e0d4b8","workflowFilename":"comedy_club"}
+2026-03-01T14:52:06.0436121+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:52:06.0449979+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:52:06.0463529+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:52:06.0499098+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:52:06.0513759+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:52:06.0536636+05:30 [user-prompt] File exists: True
+2026-03-01T14:52:06.0625815+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:52:15.1842993+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:52:15.1948313+05:30 [user-prompt] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:52:15.2000696+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:52:15.2802482+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksl-1772356824145"}
+2026-03-01T14:52:15.2810629+05:30 [user-prompt] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:52:15.2914349+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:52:15.2921203+05:30 [user-prompt] Payload: {"data":{"sessionId":"56634d21-130f-4bf3-87cd-e9ac6985fce7","timestamp":1772356934915,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","taskId":"aksl-1772356824145","terminalId":"812c22b2-6ecd-43f9-bafb-790082e0d4b8","workflowFilename":"comedy_club"}
+2026-03-01T14:52:15.3077960+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:52:15.3091038+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:52:15.3098003+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:52:15.3125588+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:52:15.3135469+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:52:15.3146380+05:30 [user-prompt] File exists: True
+2026-03-01T14:52:15.3222733+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:52:35.4051861+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:52:35.4145334+05:30 [user-prompt] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:52:35.4194923+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:52:35.5049308+05:30 [user-prompt] Session info received: {"taskId":"aksl-1772356824145","workflowFilename":"comedy_club"}
+2026-03-01T14:52:35.5057829+05:30 [user-prompt] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:52:35.5149869+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:52:35.5156934+05:30 [user-prompt] Payload: {"eventType":"user_prompt","workflowFilename":"comedy_club","data":{"sessionId":"56634d21-130f-4bf3-87cd-e9ac6985fce7","timestamp":1772356955096,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"taskId":"aksl-1772356824145","terminalId":"812c22b2-6ecd-43f9-bafb-790082e0d4b8"}
+2026-03-01T14:52:35.5335748+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:52:35.5354905+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:52:35.5367866+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:52:35.5404821+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:52:35.5416291+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:52:35.5437409+05:30 [user-prompt] File exists: True
+2026-03-01T14:52:35.5501881+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:52:52.8900011+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:52:52.9084961+05:30 [user-prompt] Received sessionId from Copilot: 56634d21-130f-4bf3-87cd-e9ac6985fce7
+2026-03-01T14:52:52.9268813+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:52:53.0231408+05:30 [user-prompt] Session info received: {"taskId":"aksl-1772356824145","workflowFilename":"comedy_club"}
+2026-03-01T14:52:53.0240501+05:30 [user-prompt] Parsed - TaskId: aksl-1772356824145, Workflow: comedy_club
+2026-03-01T14:52:53.0354102+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:52:53.0361444+05:30 [user-prompt] Payload: {"terminalId":"812c22b2-6ecd-43f9-bafb-790082e0d4b8","data":{"sessionId":"56634d21-130f-4bf3-87cd-e9ac6985fce7","timestamp":1772356972587,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","taskId":"aksl-1772356824145","eventType":"user_prompt"}
+2026-03-01T14:52:53.0554492+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:52:53.0578017+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:52:53.0595210+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:52:53.0647583+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:52:53.0661558+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:52:53.0673540+05:30 [user-prompt] File exists: True
+2026-03-01T14:52:53.0740060+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:56:56.8723413+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:56:56.8843699+05:30 [user-prompt] Received sessionId from Copilot: b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:56:56.8893835+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:56:56.9809349+05:30 [user-prompt] Session info received: 
+2026-03-01T14:56:56.9822782+05:30 [user-prompt] No task ID found for session b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:57:23.8970378+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:57:23.9064989+05:30 [user-prompt] Received sessionId from Copilot: b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:57:23.9117259+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:57:23.9956369+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"adas-1772357204084"}
+2026-03-01T14:57:23.9965415+05:30 [user-prompt] Parsed - TaskId: adas-1772357204084, Workflow: comedy_club
+2026-03-01T14:57:24.0068575+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:57:24.0075866+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","data":{"sessionId":"b98be431-14a4-40f2-9735-bae9b3fe2026","timestamp":1772357243575,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue"},"terminalId":"d45ad1af-a547-4a37-8009-2cb001a1ea02","eventType":"user_prompt","taskId":"adas-1772357204084"}
+2026-03-01T14:57:24.0196940+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:57:24.0209718+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:57:24.0216502+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:57:24.0250393+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:57:24.0269732+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:57:24.0286165+05:30 [user-prompt] File exists: True
+2026-03-01T14:57:24.0345710+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:58:03.1730448+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:58:03.1836720+05:30 [user-prompt] Received sessionId from Copilot: b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:58:03.1880136+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:58:03.2849633+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"adas-1772357204084"}
+2026-03-01T14:58:03.2858865+05:30 [user-prompt] Parsed - TaskId: adas-1772357204084, Workflow: comedy_club
+2026-03-01T14:58:03.2985027+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:58:03.2992568+05:30 [user-prompt] Payload: {"taskId":"adas-1772357204084","eventType":"user_prompt","workflowFilename":"comedy_club","data":{"sessionId":"b98be431-14a4-40f2-9735-bae9b3fe2026","timestamp":1772357282872,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue"},"terminalId":"d45ad1af-a547-4a37-8009-2cb001a1ea02"}
+2026-03-01T14:58:03.3159949+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:58:03.3173421+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:58:03.3183273+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:58:03.3228493+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:58:03.3239075+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:58:03.3249922+05:30 [user-prompt] File exists: True
+2026-03-01T14:58:03.3307463+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T14:58:36.1913430+05:30 [user-prompt] Starting hook execution
+2026-03-01T14:58:36.2054428+05:30 [user-prompt] Received sessionId from Copilot: b98be431-14a4-40f2-9735-bae9b3fe2026
+2026-03-01T14:58:36.2110984+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T14:58:36.3063114+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"adas-1772357204084"}
+2026-03-01T14:58:36.3071884+05:30 [user-prompt] Parsed - TaskId: adas-1772357204084, Workflow: comedy_club
+2026-03-01T14:58:36.3191375+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T14:58:36.3198168+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","terminalId":"d45ad1af-a547-4a37-8009-2cb001a1ea02","data":{"sessionId":"b98be431-14a4-40f2-9735-bae9b3fe2026","timestamp":1772357315860,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"taskId":"adas-1772357204084","eventType":"user_prompt"}
+2026-03-01T14:58:36.3398788+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T14:58:36.3412009+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T14:58:36.3419793+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T14:58:36.3458881+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T14:58:36.3471435+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T14:58:36.3497870+05:30 [user-prompt] File exists: True
+2026-03-01T14:58:36.3560978+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:01.1972473+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:05:01.2069551+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:01.2123255+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:05:01.2920001+05:30 [user-prompt] Session info received: 
+2026-03-01T15:05:01.2933298+05:30 [user-prompt] No task ID found for session 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:22.3412549+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:05:22.3534764+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:22.3583221+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:05:22.4505354+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:22.4517795+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:22.4658768+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:05:22.4668721+05:30 [user-prompt] Payload: {"eventType":"user_prompt","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357722033,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","terminalId":"29530510-924e-40a6-a62e-759d259ced7a","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:22.4894456+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:05:22.4910677+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:05:22.4920182+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:05:22.4949830+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:22.4975945+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:22.5011595+05:30 [user-prompt] File exists: True
+2026-03-01T15:05:22.5067930+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:36.5696243+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:05:36.5800062+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:36.5858000+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:05:36.6828286+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:36.6840704+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:36.6970710+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:05:36.6994736+05:30 [user-prompt] Payload: {"terminalId":"29530510-924e-40a6-a62e-759d259ced7a","taskId":"aksja-1772357689513","eventType":"user_prompt","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357736226,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club"}
+2026-03-01T15:05:36.7178032+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:05:36.7194572+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:05:36.7202645+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:05:36.7235102+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:36.7247126+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:36.7260802+05:30 [user-prompt] File exists: True
+2026-03-01T15:05:36.7363041+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:41.9007171+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:05:41.9129039+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:41.9197126+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:05:42.0226616+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:42.0236932+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:42.0352993+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:05:42.0361600+05:30 [user-prompt] Payload: {"taskId":"aksja-1772357689513","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357741354,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","terminalId":"29530510-924e-40a6-a62e-759d259ced7a","eventType":"user_prompt"}
+2026-03-01T15:05:42.0560965+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:05:42.0577501+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:05:42.0586363+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:05:42.0620693+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:42.0633698+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:42.0658673+05:30 [user-prompt] File exists: True
+2026-03-01T15:05:42.0721315+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:47.0279869+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:05:47.0385375+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:47.0429329+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:05:47.1298213+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:47.1306503+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:47.1419733+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:05:47.1427164+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513","eventType":"user_prompt","terminalId":"29530510-924e-40a6-a62e-759d259ced7a","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357746641,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."}}
+2026-03-01T15:05:47.1557491+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:05:47.1576388+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:05:47.1591284+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:05:47.1625155+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:47.1637407+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:47.1659694+05:30 [user-prompt] File exists: True
+2026-03-01T15:05:47.1735133+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:51.8487250+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:05:51.8594534+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:51.8640214+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:05:51.9497756+05:30 [user-prompt] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:05:51.9507199+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:51.9603063+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:05:51.9609580+05:30 [user-prompt] Payload: {"eventType":"user_prompt","taskId":"aksja-1772357689513","terminalId":"29530510-924e-40a6-a62e-759d259ced7a","workflowFilename":"comedy_club","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357751518,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."}}
+2026-03-01T15:05:51.9740605+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:05:51.9752918+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:05:51.9761205+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:05:51.9788509+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:51.9798035+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:51.9809220+05:30 [user-prompt] File exists: True
+2026-03-01T15:05:51.9871179+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:05:56.1763270+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:05:56.1884553+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:05:56.1936364+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:05:56.2902397+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:05:56.2912114+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:05:56.3017347+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:05:56.3024217+05:30 [user-prompt] Payload: {"taskId":"aksja-1772357689513","eventType":"user_prompt","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357755806,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"terminalId":"29530510-924e-40a6-a62e-759d259ced7a","workflowFilename":"comedy_club"}
+2026-03-01T15:05:56.3221572+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:05:56.3248161+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:05:56.3257085+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:05:56.3285271+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:05:56.3295874+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:05:56.3306849+05:30 [user-prompt] File exists: True
+2026-03-01T15:05:56.3371030+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:00.9014560+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:06:00.9123750+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:00.9173355+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:06:01.0045409+05:30 [user-prompt] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:06:01.0054158+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:01.0146880+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:06:01.0154390+05:30 [user-prompt] Payload: {"terminalId":"29530510-924e-40a6-a62e-759d259ced7a","eventType":"user_prompt","taskId":"aksja-1772357689513","workflowFilename":"comedy_club","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357760591,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."}}
+2026-03-01T15:06:01.0316733+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:06:01.0345262+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:06:01.0356293+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:06:01.0390993+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:01.0401578+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:01.0412997+05:30 [user-prompt] File exists: True
+2026-03-01T15:06:01.0462564+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:05.2148715+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:06:05.2254925+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:05.2300467+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:06:05.3124914+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:06:05.3133438+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:05.3237777+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:06:05.3245284+05:30 [user-prompt] Payload: {"taskId":"aksja-1772357689513","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357764912,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","terminalId":"29530510-924e-40a6-a62e-759d259ced7a","workflowFilename":"comedy_club"}
+2026-03-01T15:06:05.3372250+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:06:05.3385173+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:06:05.3393318+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:06:05.3432888+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:05.3446534+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:05.3457719+05:30 [user-prompt] File exists: True
+2026-03-01T15:06:05.3521710+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:11.9285152+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:06:11.9412389+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:11.9460975+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:06:12.0312328+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:06:12.0320219+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:12.0426882+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:06:12.0434331+05:30 [user-prompt] Payload: {"taskId":"aksja-1772357689513","eventType":"user_prompt","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357771606,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"terminalId":"29530510-924e-40a6-a62e-759d259ced7a","workflowFilename":"comedy_club"}
+2026-03-01T15:06:12.0619944+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:06:12.0633656+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:06:12.0640482+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:06:12.0679564+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:12.0694060+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:12.0707130+05:30 [user-prompt] File exists: True
+2026-03-01T15:06:12.0770246+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:20.6230072+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:06:20.6334645+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:20.6393129+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:06:20.7321674+05:30 [user-prompt] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:06:20.7330251+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:20.7450107+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:06:20.7457777+05:30 [user-prompt] Payload: {"data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357780319,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"taskId":"aksja-1772357689513","eventType":"user_prompt","terminalId":"29530510-924e-40a6-a62e-759d259ced7a","workflowFilename":"comedy_club"}
+2026-03-01T15:06:20.7598620+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:06:20.7612457+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:06:20.7619805+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:06:20.7649692+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:20.7660352+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:20.7710001+05:30 [user-prompt] File exists: True
+2026-03-01T15:06:20.7779581+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:25.9595389+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:06:25.9725357+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:25.9783638+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:06:26.0683930+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:06:26.0698348+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:26.0794218+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:06:26.0802589+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","terminalId":"29530510-924e-40a6-a62e-759d259ced7a","eventType":"user_prompt","taskId":"aksja-1772357689513","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357785621,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."}}
+2026-03-01T15:06:26.1019780+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:06:26.1042239+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:06:26.1051338+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:06:26.1089157+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:26.1101666+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:26.1118880+05:30 [user-prompt] File exists: True
+2026-03-01T15:06:26.1179344+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:31.1687611+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:06:31.1786707+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:31.1839057+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:06:31.2877339+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:06:31.2886350+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:31.2968365+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:06:31.2975202+05:30 [user-prompt] Payload: {"eventType":"user_prompt","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357790824,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"terminalId":"29530510-924e-40a6-a62e-759d259ced7a","workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:06:31.3109446+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:06:31.3121513+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:06:31.3128520+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:06:31.3160067+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:31.3171987+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:31.3197548+05:30 [user-prompt] File exists: True
+2026-03-01T15:06:31.3264424+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:06:35.8771933+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:06:35.8917660+05:30 [user-prompt] Received sessionId from Copilot: 2de96120-83c0-4ada-8eb3-ba3ea86383a1
+2026-03-01T15:06:35.8989306+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:06:36.0167572+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"aksja-1772357689513"}
+2026-03-01T15:06:36.0178865+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:06:36.0319675+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:06:36.0328700+05:30 [user-prompt] Payload: {"eventType":"user_prompt","workflowFilename":"comedy_club","taskId":"aksja-1772357689513","terminalId":"29530510-924e-40a6-a62e-759d259ced7a","data":{"sessionId":"2de96120-83c0-4ada-8eb3-ba3ea86383a1","timestamp":1772357795469,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."}}
+2026-03-01T15:06:36.0531431+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:06:36.0556353+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:06:36.0570308+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:06:36.0608340+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:06:36.0622476+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:06:36.0644269+05:30 [user-prompt] File exists: True
+2026-03-01T15:06:36.0758723+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:07:49.7197639+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:07:49.7330647+05:30 [user-prompt] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:07:49.7376821+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:07:49.8175867+05:30 [user-prompt] Session info received: 
+2026-03-01T15:07:49.8190898+05:30 [user-prompt] No task ID found for session 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:08:49.8270870+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:08:49.8382107+05:30 [user-prompt] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:08:49.8428176+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:08:49.9188330+05:30 [user-prompt] Session info received: 
+2026-03-01T15:08:49.9201493+05:30 [user-prompt] No task ID found for session 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:09:03.2724185+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:09:03.2842649+05:30 [user-prompt] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:09:03.2892344+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:09:03.3774940+05:30 [user-prompt] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:09:03.3782908+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:09:03.3886586+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:09:03.3893517+05:30 [user-prompt] Payload: {"eventType":"user_prompt","taskId":"aksja-1772357689513","data":{"sessionId":"18730aff-7d46-4ff6-acd0-0d5d7d869469","timestamp":1772357942926,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","terminalId":"7e80e916-26da-4f5f-add2-3dc5300a7c8a"}
+2026-03-01T15:09:03.4092452+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:09:03.4106406+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:09:03.4113096+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:09:03.4156097+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:09:03.4167420+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:09:03.4179284+05:30 [user-prompt] File exists: True
+2026-03-01T15:09:03.4245893+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:10:03.8581765+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:10:03.8682410+05:30 [user-prompt] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:10:03.8727065+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:10:03.9578050+05:30 [user-prompt] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:10:03.9586725+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:10:03.9694297+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:10:03.9700979+05:30 [user-prompt] Payload: {"terminalId":"7e80e916-26da-4f5f-add2-3dc5300a7c8a","data":{"sessionId":"18730aff-7d46-4ff6-acd0-0d5d7d869469","timestamp":1772358003544,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"run again"},"taskId":"aksja-1772357689513","workflowFilename":"comedy_club","eventType":"user_prompt"}
+2026-03-01T15:10:03.9896785+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:10:03.9910788+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:10:03.9917403+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:10:03.9949965+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:10:03.9962498+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:10:03.9974333+05:30 [user-prompt] File exists: True
+2026-03-01T15:10:04.0041992+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:11:00.8643191+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:11:00.8741025+05:30 [user-prompt] Received sessionId from Copilot: 18730aff-7d46-4ff6-acd0-0d5d7d869469
+2026-03-01T15:11:00.8784949+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:11:00.9622631+05:30 [user-prompt] Session info received: {"taskId":"aksja-1772357689513","workflowFilename":"comedy_club"}
+2026-03-01T15:11:00.9631787+05:30 [user-prompt] Parsed - TaskId: aksja-1772357689513, Workflow: comedy_club
+2026-03-01T15:11:00.9733028+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:11:00.9740917+05:30 [user-prompt] Payload: {"eventType":"user_prompt","workflowFilename":"comedy_club","taskId":"aksja-1772357689513","data":{"sessionId":"18730aff-7d46-4ff6-acd0-0d5d7d869469","timestamp":1772358060570,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue"},"terminalId":"7e80e916-26da-4f5f-add2-3dc5300a7c8a"}
+2026-03-01T15:11:00.9923796+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:11:00.9937335+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:11:00.9953999+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:11:00.9997499+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:11:01.0008864+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:11:01.0020547+05:30 [user-prompt] File exists: True
+2026-03-01T15:11:01.0095514+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:14:03.6631469+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:14:03.6748964+05:30 [user-prompt] Received sessionId from Copilot: 23d7fd63-82c0-4032-b05e-e2bb47f90dc8
+2026-03-01T15:14:03.6802068+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:14:03.7618864+05:30 [user-prompt] Session info received: 
+2026-03-01T15:14:03.7634151+05:30 [user-prompt] No task ID found for session 23d7fd63-82c0-4032-b05e-e2bb47f90dc8
+2026-03-01T15:14:41.5671926+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:14:41.5776452+05:30 [user-prompt] Received sessionId from Copilot: 23d7fd63-82c0-4032-b05e-e2bb47f90dc8
+2026-03-01T15:14:41.5819843+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:14:41.6680487+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:14:41.6698324+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:14:41.6809159+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:14:41.6816124+05:30 [user-prompt] Payload: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","eventType":"user_prompt","data":{"sessionId":"23d7fd63-82c0-4032-b05e-e2bb47f90dc8","timestamp":1772358281252,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue"},"terminalId":"7b45d487-6d6a-430a-b2d5-7f03ba806373"}
+2026-03-01T15:14:41.6960141+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:14:41.6978794+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:14:41.6989667+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:14:41.7043493+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:14:41.7064676+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:14:41.7079047+05:30 [user-prompt] File exists: True
+2026-03-01T15:14:41.7123803+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:15:59.3424326+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:15:59.3523041+05:30 [user-prompt] Received sessionId from Copilot: 23d7fd63-82c0-4032-b05e-e2bb47f90dc8
+2026-03-01T15:15:59.3581362+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:15:59.4425116+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:15:59.4433703+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:15:59.4563574+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:15:59.4575152+05:30 [user-prompt] Payload: {"terminalId":"7b45d487-6d6a-430a-b2d5-7f03ba806373","eventType":"user_prompt","data":{"sessionId":"23d7fd63-82c0-4032-b05e-e2bb47f90dc8","timestamp":1772358359040,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:15:59.4750142+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:15:59.4772065+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:15:59.4782556+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:15:59.4817889+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:15:59.4833680+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:15:59.4845499+05:30 [user-prompt] File exists: True
+2026-03-01T15:15:59.4887231+05:30 [user-prompt] Workflow loaded successfully, length: 1163 bytes
+2026-03-01T15:26:17.1319025+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:26:17.1414007+05:30 [user-prompt] Received sessionId from Copilot: 5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4
+2026-03-01T15:26:17.1457791+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:26:17.2250153+05:30 [user-prompt] Session info received: 
+2026-03-01T15:26:17.2269368+05:30 [user-prompt] No task ID found for session 5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4
+2026-03-01T15:27:11.7389823+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:27:11.7493069+05:30 [user-prompt] Received sessionId from Copilot: 5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4
+2026-03-01T15:27:11.7546468+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:27:11.8281388+05:30 [user-prompt] Session info received: 
+2026-03-01T15:27:11.8295032+05:30 [user-prompt] No task ID found for session 5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4
+2026-03-01T15:27:36.6499416+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:27:36.6611186+05:30 [user-prompt] Received sessionId from Copilot: 5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4
+2026-03-01T15:27:36.6677571+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:27:36.7632714+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:27:36.7657468+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:27:36.7793190+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:27:36.7804528+05:30 [user-prompt] Payload: {"taskId":"lakd-l-1772358231395","data":{"sessionId":"5b3151aa-5d19-4cf9-bc5e-e7a0f62441d4","timestamp":1772359056274,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","eventType":"user_prompt","terminalId":"1c172994-eab2-44f1-92cb-b0fc8b0c9ca4"}
+2026-03-01T15:27:36.7932548+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:27:36.7961572+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:27:36.7978266+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:27:36.8018435+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:27:36.8030621+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:27:36.8042652+05:30 [user-prompt] File exists: True
+2026-03-01T15:27:36.8089775+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:33:16.2089997+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:33:16.2199663+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:33:16.2250633+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:33:16.3143898+05:30 [user-prompt] Session info received: 
+2026-03-01T15:33:16.3157806+05:30 [user-prompt] No task ID found for session cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:01.3922495+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:34:01.4036118+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:01.4080548+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:34:01.4992691+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:01.5008340+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:01.5131274+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:34:01.5138466+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","taskId":"lakd-l-1772358231395","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359441101,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt"}
+2026-03-01T15:34:01.5285703+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:34:01.5298889+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:34:01.5305771+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:34:01.5336267+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:01.5346301+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:01.5357069+05:30 [user-prompt] File exists: True
+2026-03-01T15:34:01.5426487+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:21.9901646+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:34:21.9990879+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:22.0034952+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:34:22.0870618+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:22.0882057+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:22.0988490+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:34:22.0995515+05:30 [user-prompt] Payload: {"eventType":"user_prompt","taskId":"lakd-l-1772358231395","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359461689,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club"}
+2026-03-01T15:34:22.1160221+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:34:22.1172029+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:34:22.1178647+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:34:22.1232216+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:22.1259052+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:22.1275660+05:30 [user-prompt] File exists: True
+2026-03-01T15:34:22.1318310+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:29.4295005+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:34:29.4407889+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:29.4458416+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:34:29.5289292+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:34:29.5297406+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:29.5394294+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:34:29.5404352+05:30 [user-prompt] Payload: {"taskId":"lakd-l-1772358231395","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359469127,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","workflowFilename":"comedy_club"}
+2026-03-01T15:34:29.5586238+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:34:29.5600715+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:34:29.5609532+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:34:29.5654005+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:29.5664800+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:29.5675791+05:30 [user-prompt] File exists: True
+2026-03-01T15:34:29.5719966+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:35.2706648+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:34:35.2813420+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:35.2864375+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:34:35.3908065+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:34:35.3941102+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:35.4164667+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:34:35.4179672+05:30 [user-prompt] Payload: {"eventType":"user_prompt","workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359474983,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed"}
+2026-03-01T15:34:35.4482551+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:34:35.4527532+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:34:35.4550414+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:34:35.4646325+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:35.4704098+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:35.4728325+05:30 [user-prompt] File exists: True
+2026-03-01T15:34:35.4807014+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:44.3476123+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:34:44.3586119+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:44.3649601+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:34:44.4665492+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:44.4673643+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:44.4798224+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:34:44.4805863+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359484020,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed"}
+2026-03-01T15:34:44.5052426+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:34:44.5076256+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:34:44.5084491+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:34:44.5130165+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:44.5144140+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:44.5155686+05:30 [user-prompt] File exists: True
+2026-03-01T15:34:44.5203221+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:52.7757112+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:34:52.7860064+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:52.7913597+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:34:52.8735156+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:52.8747254+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:52.8847102+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:34:52.8856346+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359492485,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:34:52.9015653+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:34:52.9031010+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:34:52.9038028+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:34:52.9078152+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:52.9089976+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:52.9100922+05:30 [user-prompt] File exists: True
+2026-03-01T15:34:52.9158746+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:34:59.1507910+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:34:59.1603830+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:34:59.1648952+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:34:59.2398015+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:34:59.2407000+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:34:59.2488188+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:34:59.2494917+05:30 [user-prompt] Payload: {"terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","taskId":"lakd-l-1772358231395","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359498869,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","eventType":"user_prompt"}
+2026-03-01T15:34:59.2623316+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:34:59.2640271+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:34:59.2652089+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:34:59.2683426+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:34:59.2693875+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:34:59.2704994+05:30 [user-prompt] File exists: True
+2026-03-01T15:34:59.2752885+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:05.2914631+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:35:05.3023567+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:05.3079862+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:35:05.3941344+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:05.3955474+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:05.4060740+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:35:05.4068837+05:30 [user-prompt] Payload: {"terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359505011,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:05.4211771+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:35:05.4249177+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:35:05.4257745+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:35:05.4287867+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:05.4299085+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:05.4310612+05:30 [user-prompt] File exists: True
+2026-03-01T15:35:05.4356087+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:10.5313057+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:35:10.5433717+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:10.5484234+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:35:10.6307069+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:10.6314793+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:10.6396210+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:35:10.6402951+05:30 [user-prompt] Payload: {"eventType":"user_prompt","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359510223,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed"}
+2026-03-01T15:35:10.6541937+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:35:10.6563241+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:35:10.6587462+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:35:10.6629803+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:10.6647243+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:10.6660068+05:30 [user-prompt] File exists: True
+2026-03-01T15:35:10.6702470+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:16.1785779+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:35:16.1882510+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:16.1928106+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:35:16.2757352+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:16.2766206+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:16.2866714+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:35:16.2874269+05:30 [user-prompt] Payload: {"terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","workflowFilename":"comedy_club","eventType":"user_prompt","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359515888,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:16.3019440+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:35:16.3047307+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:35:16.3068646+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:35:16.3119147+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:16.3139667+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:16.3154460+05:30 [user-prompt] File exists: True
+2026-03-01T15:35:16.3204202+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:22.1711593+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:35:22.1845682+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:22.1916846+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:35:22.3034816+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:22.3047307+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:22.3182247+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:35:22.3191353+05:30 [user-prompt] Payload: {"taskId":"lakd-l-1772358231395","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359521807,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","eventType":"user_prompt","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed"}
+2026-03-01T15:35:22.3380191+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:35:22.3396278+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:35:22.3426263+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:35:22.3482099+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:22.3508980+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:22.3525842+05:30 [user-prompt] File exists: True
+2026-03-01T15:35:22.3602857+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:30.3222030+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:35:30.3337366+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:30.3390012+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:35:30.4333736+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:30.4342448+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:30.4443437+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:35:30.4454100+05:30 [user-prompt] Payload: {"eventType":"user_prompt","taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359530014,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."}}
+2026-03-01T15:35:30.4647102+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:35:30.4673912+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:35:30.4691016+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:35:30.4723850+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:30.4743590+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:30.4775711+05:30 [user-prompt] File exists: True
+2026-03-01T15:35:30.4913293+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:37.3710530+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:35:37.3875708+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:37.3975363+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:35:37.5164378+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:37.5175621+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:37.5321031+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:35:37.5339301+05:30 [user-prompt] Payload: {"data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359536929,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:37.5628629+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:35:37.5648944+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:35:37.5660135+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:35:37.5713458+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:37.5728280+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:37.5750823+05:30 [user-prompt] File exists: True
+2026-03-01T15:35:37.5831297+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:45.3214254+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:35:45.3334472+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:45.3389754+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:35:45.4432555+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:35:45.4443323+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:45.4563369+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:35:45.4573045+05:30 [user-prompt] Payload: {"taskId":"lakd-l-1772358231395","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","eventType":"user_prompt","workflowFilename":"comedy_club","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359544970,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."}}
+2026-03-01T15:35:45.4784323+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:35:45.4818154+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:35:45.4841108+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:35:45.4903614+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:45.4919177+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:45.4935668+05:30 [user-prompt] File exists: True
+2026-03-01T15:35:45.5014287+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:35:52.9546066+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:35:52.9641678+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:35:52.9683577+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:35:53.0501751+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:35:53.0512323+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:35:53.0625798+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:35:53.0632949+05:30 [user-prompt] Payload: {"taskId":"lakd-l-1772358231395","eventType":"user_prompt","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359552651,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","workflowFilename":"comedy_club"}
+2026-03-01T15:35:53.0775887+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:35:53.0798356+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:35:53.0816089+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:35:53.0868374+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:35:53.0879652+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:35:53.0891303+05:30 [user-prompt] File exists: True
+2026-03-01T15:35:53.0937270+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:00.4430844+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:36:00.4536256+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:00.4584128+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:36:00.5469035+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:00.5478774+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:00.5569452+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:36:00.5577222+05:30 [user-prompt] Payload: {"data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359560139,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed"}
+2026-03-01T15:36:00.5779428+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:36:00.5809716+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:36:00.5829763+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:36:00.5877625+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:00.5888841+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:00.5901326+05:30 [user-prompt] File exists: True
+2026-03-01T15:36:00.5953470+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:07.4203431+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:36:07.4297355+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:07.4339795+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:36:07.5111121+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:07.5119826+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:07.5206952+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:36:07.5213720+05:30 [user-prompt] Payload: {"taskId":"lakd-l-1772358231395","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","workflowFilename":"comedy_club","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359567131,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt"}
+2026-03-01T15:36:07.5348149+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:36:07.5369403+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:36:07.5377192+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:36:07.5405621+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:07.5415612+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:07.5426355+05:30 [user-prompt] File exists: True
+2026-03-01T15:36:07.5475025+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:14.7453320+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:36:14.7653953+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:14.7755975+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:36:14.8895639+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:14.8916136+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:14.9071958+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:36:14.9088960+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359574439,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","taskId":"lakd-l-1772358231395","eventType":"user_prompt"}
+2026-03-01T15:36:14.9306511+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:36:14.9342975+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:36:14.9355536+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:36:14.9387823+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:14.9398353+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:14.9411307+05:30 [user-prompt] File exists: True
+2026-03-01T15:36:14.9459172+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:22.3423073+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:36:22.3542793+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:22.3590295+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:36:22.4500689+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:36:22.4509622+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:22.4601221+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:36:22.4608660+05:30 [user-prompt] Payload: {"eventType":"user_prompt","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359582054,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:22.4755486+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:36:22.4767718+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:36:22.4777201+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:36:22.4838021+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:22.4860161+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:22.4875190+05:30 [user-prompt] File exists: True
+2026-03-01T15:36:22.4930268+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:30.9171939+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:36:30.9299759+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:30.9358131+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:36:31.0356767+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:31.0366483+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:31.0471672+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:36:31.0482059+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359590537,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"taskId":"lakd-l-1772358231395","eventType":"user_prompt","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed"}
+2026-03-01T15:36:31.0658939+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:36:31.0680457+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:36:31.0701595+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:36:31.0742715+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:31.0763674+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:31.0783269+05:30 [user-prompt] File exists: True
+2026-03-01T15:36:31.0861468+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:38.7211200+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:36:38.7342296+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:38.7402556+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:36:38.8459356+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:38.8476611+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:38.8584717+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:36:38.8593867+05:30 [user-prompt] Payload: {"terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","workflowFilename":"comedy_club","data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359598346,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"eventType":"user_prompt","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:38.8794638+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:36:38.8813609+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:36:38.8833980+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:36:38.8881309+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:38.8895105+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:38.8909754+05:30 [user-prompt] File exists: True
+2026-03-01T15:36:38.8970355+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:46.0600882+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:36:46.0711678+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:46.0758371+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:36:46.1548192+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:46.1557890+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:46.1659853+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:36:46.1667166+05:30 [user-prompt] Payload: {"data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359605792,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","taskId":"lakd-l-1772358231395","eventType":"user_prompt"}
+2026-03-01T15:36:46.1811507+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:36:46.1834299+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:36:46.1854704+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:36:46.1914674+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:46.1926141+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:46.1938585+05:30 [user-prompt] File exists: True
+2026-03-01T15:36:46.2009950+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:36:52.8220596+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:36:52.8334054+05:30 [user-prompt] Received sessionId from Copilot: cb177f56-f40f-414b-bb2e-58bf435ae284
+2026-03-01T15:36:52.8380066+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:36:52.9197026+05:30 [user-prompt] Session info received: {"taskId":"lakd-l-1772358231395","workflowFilename":"comedy_club"}
+2026-03-01T15:36:52.9205791+05:30 [user-prompt] Parsed - TaskId: lakd-l-1772358231395, Workflow: comedy_club
+2026-03-01T15:36:52.9302891+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:36:52.9313270+05:30 [user-prompt] Payload: {"data":{"sessionId":"cb177f56-f40f-414b-bb2e-58bf435ae284","timestamp":1772359612520,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"You have not yet marked the task as complete using the task_complete tool. If you were planning, stop planning and start implementing. You aren't done until you have fully completed the task.\n\nIMPORTANT: Do NOT call task_complete if:\n- You have open questions or ambiguities - make good decisions and keep working\n- You encountered an error - try to resolve it or find an alternative approach\n- There are remaining steps - complete them first\n\nKeep working autonomously until the task is truly finished, then call task_complete."},"workflowFilename":"comedy_club","terminalId":"33f36292-191c-4d2b-b79f-53fa5dabf1ed","eventType":"user_prompt","taskId":"lakd-l-1772358231395"}
+2026-03-01T15:36:52.9567924+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:36:52.9582614+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:36:52.9590495+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:36:52.9627852+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:36:52.9649127+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:36:52.9664908+05:30 [user-prompt] File exists: True
+2026-03-01T15:36:52.9719406+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:37:28.8414892+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:37:28.8519034+05:30 [user-prompt] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:37:28.8562031+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:37:28.9437464+05:30 [user-prompt] Session info received: 
+2026-03-01T15:37:28.9450862+05:30 [user-prompt] No task ID found for session 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:38:08.9588255+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:38:08.9684233+05:30 [user-prompt] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:38:08.9734482+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:38:09.0539238+05:30 [user-prompt] Session info received: {"taskId":"asams-1772359631352","workflowFilename":"comedy_club"}
+2026-03-01T15:38:09.0548098+05:30 [user-prompt] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:38:09.0677565+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:38:09.0686924+05:30 [user-prompt] Payload: {"eventType":"user_prompt","taskId":"asams-1772359631352","terminalId":"7d407d7c-0176-4202-a19d-02b432263d5e","workflowFilename":"comedy_club","data":{"sessionId":"51d047fe-3a9b-41db-8dff-4898f70dbdf9","timestamp":1772359688671,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"run full set"}}
+2026-03-01T15:38:09.0791873+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:38:09.0804839+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:38:09.0818149+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:38:09.0883039+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:38:09.0896792+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:38:09.0919704+05:30 [user-prompt] File exists: True
+2026-03-01T15:38:09.0965991+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:38:43.4345908+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:38:43.4449811+05:30 [user-prompt] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:38:43.4492137+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:38:43.5334610+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:38:43.5343405+05:30 [user-prompt] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:38:43.5483420+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:38:43.5490667+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","data":{"sessionId":"51d047fe-3a9b-41db-8dff-4898f70dbdf9","timestamp":1772359723139,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"run full set with agents"},"eventType":"user_prompt","taskId":"asams-1772359631352","terminalId":"7d407d7c-0176-4202-a19d-02b432263d5e"}
+2026-03-01T15:38:43.5656028+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:38:43.5675671+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:38:43.5685324+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:38:43.5721264+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:38:43.5735973+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:38:43.5755234+05:30 [user-prompt] File exists: True
+2026-03-01T15:38:43.5820557+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:39:28.7728844+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:39:28.7826367+05:30 [user-prompt] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:39:28.7884781+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:39:28.9396066+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:39:28.9412363+05:30 [user-prompt] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:39:28.9581007+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:39:28.9589223+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352","eventType":"user_prompt","terminalId":"7d407d7c-0176-4202-a19d-02b432263d5e","data":{"sessionId":"51d047fe-3a9b-41db-8dff-4898f70dbdf9","timestamp":1772359768479,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"Handoff: @comedian \"Run your full joke set! The crowd is warmed up and ready. Deliver 5\n  jokes, then pass to @heckler for ratings. The workflow: comedian ΓåÆ heckler (rate) ΓåÆ audience\n  (if ΓëÑ5/10) OR back to comedian (if <5/10) ΓåÆ loop until 5 funny jokes land. taskId:\n  asams-1772359631352, workflow: comedy_club."}}
+2026-03-01T15:39:28.9761512+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:39:28.9781065+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:39:28.9791040+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:39:28.9825231+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:39:28.9837326+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:39:28.9849013+05:30 [user-prompt] File exists: True
+2026-03-01T15:39:28.9903842+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:40:07.1872625+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:40:07.1979935+05:30 [user-prompt] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:40:07.2023601+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:40:07.2886542+05:30 [user-prompt] Session info received: {"taskId":"asams-1772359631352","workflowFilename":"comedy_club"}
+2026-03-01T15:40:07.2894319+05:30 [user-prompt] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:40:07.3002272+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:40:07.3008898+05:30 [user-prompt] Payload: {"taskId":"asams-1772359631352","terminalId":"7d407d7c-0176-4202-a19d-02b432263d5e","eventType":"user_prompt","workflowFilename":"comedy_club","data":{"sessionId":"51d047fe-3a9b-41db-8dff-4898f70dbdf9","timestamp":1772359806883,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"comtimue with agentteams"}}
+2026-03-01T15:40:07.3197782+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:40:07.3213547+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:40:07.3221423+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:40:07.3269354+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:40:07.3284450+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:40:07.3301821+05:30 [user-prompt] File exists: True
+2026-03-01T15:40:07.3367012+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:44:00.6054669+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:44:00.6147416+05:30 [user-prompt] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:44:00.6189624+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:44:00.7011297+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"asams-1772359631352"}
+2026-03-01T15:44:00.7030068+05:30 [user-prompt] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:44:00.7121352+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:44:00.7127946+05:30 [user-prompt] Payload: {"terminalId":"7d407d7c-0176-4202-a19d-02b432263d5e","eventType":"user_prompt","workflowFilename":"comedy_club","taskId":"asams-1772359631352","data":{"sessionId":"51d047fe-3a9b-41db-8dff-4898f70dbdf9","timestamp":1772360040300,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"comtimue with tasks"}}
+2026-03-01T15:44:00.7396995+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:44:00.7416736+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:44:00.7428251+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:44:00.7462297+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:44:00.7472717+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:44:00.7484261+05:30 [user-prompt] File exists: True
+2026-03-01T15:44:00.7532931+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T15:44:50.4601436+05:30 [user-prompt] Starting hook execution
+2026-03-01T15:44:50.4704950+05:30 [user-prompt] Received sessionId from Copilot: 51d047fe-3a9b-41db-8dff-4898f70dbdf9
+2026-03-01T15:44:50.4759352+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T15:44:50.5673311+05:30 [user-prompt] Session info received: {"taskId":"asams-1772359631352","workflowFilename":"comedy_club"}
+2026-03-01T15:44:50.5682459+05:30 [user-prompt] Parsed - TaskId: asams-1772359631352, Workflow: comedy_club
+2026-03-01T15:44:50.5800657+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T15:44:50.5808755+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","eventType":"user_prompt","taskId":"asams-1772359631352","terminalId":"7d407d7c-0176-4202-a19d-02b432263d5e","data":{"sessionId":"51d047fe-3a9b-41db-8dff-4898f70dbdf9","timestamp":1772360090157,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"use agents to finish"}}
+2026-03-01T15:44:50.6079908+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T15:44:50.6108151+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T15:44:50.6131591+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T15:44:50.6174387+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T15:44:50.6185889+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T15:44:50.6197126+05:30 [user-prompt] File exists: True
+2026-03-01T15:44:50.6262203+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:00:01.5614158+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:00:01.5723406+05:30 [user-prompt] Received sessionId from Copilot: e13ba98b-a3e5-4cc0-8086-2a3e1c86c16b
+2026-03-01T16:00:01.5771890+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:00:01.6576980+05:30 [user-prompt] Session info received: 
+2026-03-01T16:00:01.6591986+05:30 [user-prompt] No task ID found for session e13ba98b-a3e5-4cc0-8086-2a3e1c86c16b
+2026-03-01T16:03:54.6416694+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:03:54.6509165+05:30 [user-prompt] Received sessionId from Copilot: e13ba98b-a3e5-4cc0-8086-2a3e1c86c16b
+2026-03-01T16:03:54.6550396+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:03:54.7450260+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"dsfsdf-1772360975813"}
+2026-03-01T16:03:54.7458679+05:30 [user-prompt] Parsed - TaskId: dsfsdf-1772360975813, Workflow: comedy_club
+2026-03-01T16:03:54.7629518+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T16:03:54.7636628+05:30 [user-prompt] Payload: {"terminalId":"5f22fb44-a914-4c7f-88d8-264d7226ba3b","eventType":"user_prompt","data":{"sessionId":"e13ba98b-a3e5-4cc0-8086-2a3e1c86c16b","timestamp":1772361234320,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue"},"workflowFilename":"comedy_club","taskId":"dsfsdf-1772360975813"}
+2026-03-01T16:03:54.7816621+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T16:03:54.7830412+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T16:03:54.7840514+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T16:03:54.7871467+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:03:54.7882138+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:03:54.7914810+05:30 [user-prompt] File exists: True
+2026-03-01T16:03:54.7969418+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:16:26.7733222+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:16:26.7874669+05:30 [user-prompt] Received sessionId from Copilot: 86151608-28eb-47e3-8739-b0384ca085cb
+2026-03-01T16:16:26.7938654+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:16:26.9118287+05:30 [user-prompt] Session info received: 
+2026-03-01T16:16:26.9136997+05:30 [user-prompt] No task ID found for session 86151608-28eb-47e3-8739-b0384ca085cb
+2026-03-01T16:17:40.9262475+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:17:40.9397057+05:30 [user-prompt] Received sessionId from Copilot: 86151608-28eb-47e3-8739-b0384ca085cb
+2026-03-01T16:17:40.9469187+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:17:41.0613043+05:30 [user-prompt] Session info received: 
+2026-03-01T16:17:41.0632512+05:30 [user-prompt] No task ID found for session 86151608-28eb-47e3-8739-b0384ca085cb
+2026-03-01T16:23:13.9272777+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:23:13.9569023+05:30 [user-prompt] Received sessionId from Copilot: a677fd2c-7db0-4e55-bd5a-51a756d2b07f
+2026-03-01T16:23:13.9632851+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:23:14.1074464+05:30 [user-prompt] Session info received: 
+2026-03-01T16:23:14.1093106+05:30 [user-prompt] No task ID found for session a677fd2c-7db0-4e55-bd5a-51a756d2b07f
+2026-03-01T16:24:11.8724554+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:24:11.8872280+05:30 [user-prompt] Received sessionId from Copilot: a677fd2c-7db0-4e55-bd5a-51a756d2b07f
+2026-03-01T16:24:11.8949378+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:24:12.0306207+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"iuwiquwl-1772362377363"}
+2026-03-01T16:24:12.0324803+05:30 [user-prompt] Parsed - TaskId: iuwiquwl-1772362377363, Workflow: comedy_club
+2026-03-01T16:24:12.0786132+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T16:24:12.0800699+05:30 [user-prompt] Payload: {"taskId":"iuwiquwl-1772362377363","workflowFilename":"comedy_club","eventType":"user_prompt","data":{"sessionId":"a677fd2c-7db0-4e55-bd5a-51a756d2b07f","timestamp":1772362451450,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue"},"terminalId":"98964b8d-63ca-4179-a408-cccb1c1a8b9f"}
+2026-03-01T16:24:12.0931860+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T16:24:12.0965679+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T16:24:12.0982141+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T16:24:12.1022772+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:24:12.1046475+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:24:12.1065525+05:30 [user-prompt] File exists: True
+2026-03-01T16:24:12.1134185+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:24:39.0714700+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:24:39.0851511+05:30 [user-prompt] Received sessionId from Copilot: a677fd2c-7db0-4e55-bd5a-51a756d2b07f
+2026-03-01T16:24:39.0926421+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:24:39.2085686+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"iuwiquwl-1772362377363"}
+2026-03-01T16:24:39.2097635+05:30 [user-prompt] Parsed - TaskId: iuwiquwl-1772362377363, Workflow: comedy_club
+2026-03-01T16:24:39.2407834+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T16:24:39.2422958+05:30 [user-prompt] Payload: {"taskId":"iuwiquwl-1772362377363","eventType":"user_prompt","data":{"sessionId":"a677fd2c-7db0-4e55-bd5a-51a756d2b07f","timestamp":1772362478648,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"use agent team"},"workflowFilename":"comedy_club","terminalId":"98964b8d-63ca-4179-a408-cccb1c1a8b9f"}
+2026-03-01T16:24:39.2580686+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T16:24:39.2633385+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T16:24:39.2657187+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T16:24:39.2729423+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:24:39.2753225+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:24:39.2774497+05:30 [user-prompt] File exists: True
+2026-03-01T16:24:39.2904863+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:29:19.2048957+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:29:19.2137014+05:30 [user-prompt] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:29:19.2192020+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:29:19.3000136+05:30 [user-prompt] Session info received: 
+2026-03-01T16:29:19.3015190+05:30 [user-prompt] No task ID found for session 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:30:15.2328114+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:30:15.2429692+05:30 [user-prompt] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:30:15.2470429+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:30:15.3274001+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T16:30:15.3281509+05:30 [user-prompt] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:30:15.3386384+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T16:30:15.3393323+05:30 [user-prompt] Payload: {"terminalId":"12c80d64-fc1c-405e-8669-66ff0af908f6","eventType":"user_prompt","data":{"sessionId":"00ab4c62-c617-4b31-b606-b061bdb13661","timestamp":1772362814924,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue"},"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T16:30:15.3451340+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T16:30:15.3466150+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T16:30:15.3472710+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T16:30:15.3499844+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:30:15.3514945+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:30:15.3532734+05:30 [user-prompt] File exists: True
+2026-03-01T16:30:15.3581060+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:30:56.2901570+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:30:56.2998029+05:30 [user-prompt] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:30:56.3054442+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:30:56.3917867+05:30 [user-prompt] Session info received: {"taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club"}
+2026-03-01T16:30:56.3926788+05:30 [user-prompt] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:30:56.4045512+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T16:30:56.4053240+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","terminalId":"12c80d64-fc1c-405e-8669-66ff0af908f6","eventType":"user_prompt","taskId":"asjdlkja-1772362729187","data":{"sessionId":"00ab4c62-c617-4b31-b606-b061bdb13661","timestamp":1772362855994,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"use agent teams and do full show"}}
+2026-03-01T16:30:56.4116646+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T16:30:56.4131987+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T16:30:56.4139228+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T16:30:56.4168208+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:30:56.4179363+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:30:56.4204125+05:30 [user-prompt] File exists: True
+2026-03-01T16:30:56.4263230+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:31:19.3257757+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:31:19.3344835+05:30 [user-prompt] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:31:19.3396345+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:31:19.4181813+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T16:31:19.4202374+05:30 [user-prompt] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:31:19.4302155+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T16:31:19.4308652+05:30 [user-prompt] Payload: {"eventType":"user_prompt","data":{"sessionId":"00ab4c62-c617-4b31-b606-b061bdb13661","timestamp":1772362879021,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"use workflow agents to do full show"},"taskId":"asjdlkja-1772362729187","terminalId":"12c80d64-fc1c-405e-8669-66ff0af908f6","workflowFilename":"comedy_club"}
+2026-03-01T16:31:19.4387366+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T16:31:19.4403932+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T16:31:19.4410881+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T16:31:19.4438776+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:31:19.4448312+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:31:19.4458944+05:30 [user-prompt] File exists: True
+2026-03-01T16:31:19.4500919+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:31:47.6185390+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:31:47.6288753+05:30 [user-prompt] Received sessionId from Copilot: 00ab4c62-c617-4b31-b606-b061bdb13661
+2026-03-01T16:31:47.6330087+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:31:47.7151657+05:30 [user-prompt] Session info received: {"taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club"}
+2026-03-01T16:31:47.7159232+05:30 [user-prompt] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T16:31:47.7262031+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T16:31:47.7269136+05:30 [user-prompt] Payload: {"data":{"sessionId":"00ab4c62-c617-4b31-b606-b061bdb13661","timestamp":1772362907321,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue"},"eventType":"user_prompt","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","terminalId":"12c80d64-fc1c-405e-8669-66ff0af908f6"}
+2026-03-01T16:31:47.7337269+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T16:31:47.7350094+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T16:31:47.7356570+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T16:31:47.7405773+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T16:31:47.7428603+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T16:31:47.7444854+05:30 [user-prompt] File exists: True
+2026-03-01T16:31:47.7488931+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T16:48:37.0748313+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:48:37.0857012+05:30 [user-prompt] Received sessionId from Copilot: 9fb7d553-2770-4a01-b14a-d9242ffe8d1b
+2026-03-01T16:48:37.0915132+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:48:37.1783900+05:30 [user-prompt] Session info received: 
+2026-03-01T16:48:37.1798736+05:30 [user-prompt] No task ID found for session 9fb7d553-2770-4a01-b14a-d9242ffe8d1b
+2026-03-01T16:53:23.0558857+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:53:23.0713890+05:30 [user-prompt] Received sessionId from Copilot: 914173e9-981d-48a5-8605-64b68514f652
+2026-03-01T16:53:23.0758692+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:53:23.1660971+05:30 [user-prompt] Session info received: 
+2026-03-01T16:53:23.1682168+05:30 [user-prompt] No task ID found for session 914173e9-981d-48a5-8605-64b68514f652
+2026-03-01T16:54:45.3612328+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:54:45.3780708+05:30 [user-prompt] Received sessionId from Copilot: db489dc5-0bf4-4c12-adbb-21081221b7aa
+2026-03-01T16:54:45.3824367+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:54:45.4693724+05:30 [user-prompt] Session info received: 
+2026-03-01T16:54:45.4717922+05:30 [user-prompt] No task ID found for session db489dc5-0bf4-4c12-adbb-21081221b7aa
+2026-03-01T16:56:12.1514507+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:56:12.1629684+05:30 [user-prompt] Received sessionId from Copilot: 8785b911-1aa9-493e-816a-45f93cb87667
+2026-03-01T16:56:12.1672660+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:56:12.2502766+05:30 [user-prompt] Session info received: 
+2026-03-01T16:56:12.2515616+05:30 [user-prompt] No task ID found for session 8785b911-1aa9-493e-816a-45f93cb87667
+2026-03-01T16:58:44.7652652+05:30 [user-prompt] Starting hook execution
+2026-03-01T16:58:44.7761057+05:30 [user-prompt] Received sessionId from Copilot: 950d52c7-fa4e-4335-a98c-27097a5eeeba
+2026-03-01T16:58:44.7809947+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T16:58:44.8621529+05:30 [user-prompt] Session info received: 
+2026-03-01T16:58:44.8636902+05:30 [user-prompt] No task ID found for session 950d52c7-fa4e-4335-a98c-27097a5eeeba
+2026-03-01T17:00:34.8827296+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:00:34.8940775+05:30 [user-prompt] Received sessionId from Copilot: 77987d4e-dbcf-4e34-aa07-b443b56a141d
+2026-03-01T17:00:34.9003944+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:00:34.9746183+05:30 [user-prompt] Session info received: 
+2026-03-01T17:00:34.9759057+05:30 [user-prompt] No task ID found for session 77987d4e-dbcf-4e34-aa07-b443b56a141d
+2026-03-01T17:02:34.7849402+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:02:34.7961320+05:30 [user-prompt] Received sessionId from Copilot: f66e4325-974a-43d5-ba1c-88d4e3b4a803
+2026-03-01T17:02:34.8023535+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:02:34.8801036+05:30 [user-prompt] Session info received: 
+2026-03-01T17:02:34.8816817+05:30 [user-prompt] No task ID found for session f66e4325-974a-43d5-ba1c-88d4e3b4a803
+2026-03-01T17:04:42.6599979+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:04:42.6726305+05:30 [user-prompt] Received sessionId from Copilot: 4beb52ec-ca31-405b-8e14-e16a52dfd078
+2026-03-01T17:04:42.6775006+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:04:42.7657712+05:30 [user-prompt] Session info received: 
+2026-03-01T17:04:42.7672181+05:30 [user-prompt] No task ID found for session 4beb52ec-ca31-405b-8e14-e16a52dfd078
+2026-03-01T17:05:33.0474203+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:05:33.0579083+05:30 [user-prompt] Received sessionId from Copilot: 4beb52ec-ca31-405b-8e14-e16a52dfd078
+2026-03-01T17:05:33.0622964+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:05:33.1508016+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T17:05:33.1516818+05:30 [user-prompt] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T17:05:33.1630111+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T17:05:33.1637169+05:30 [user-prompt] Payload: {"workflowFilename":"comedy_club","eventType":"user_prompt","data":{"sessionId":"4beb52ec-ca31-405b-8e14-e16a52dfd078","timestamp":1772364932730,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"continue till all joes delivered"},"taskId":"asjdlkja-1772362729187","terminalId":"8ecd520f-35e1-4e0e-926d-6d9372ddab3a"}
+2026-03-01T17:05:33.1737076+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T17:05:33.1754450+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T17:05:33.1761521+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T17:05:33.1795094+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T17:05:33.1807810+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T17:05:33.1820821+05:30 [user-prompt] File exists: True
+2026-03-01T17:05:33.1872752+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T17:25:20.6211481+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:25:20.6330826+05:30 [user-prompt] Received sessionId from Copilot: 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:25:20.6382585+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:25:20.7217338+05:30 [user-prompt] Session info received: 
+2026-03-01T17:25:20.7231216+05:30 [user-prompt] No task ID found for session 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:26:27.8331260+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:26:27.8427097+05:30 [user-prompt] Received sessionId from Copilot: 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:26:27.8481080+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:26:27.9341305+05:30 [user-prompt] Session info received: {"taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club"}
+2026-03-01T17:26:27.9349846+05:30 [user-prompt] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T17:26:27.9456137+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T17:26:27.9468294+05:30 [user-prompt] Payload: {"data":{"sessionId":"4053e5e2-e4d3-4637-9911-79ff7cba8376","timestamp":1772366187540,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"start the shoiw and run till done"},"eventType":"user_prompt","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","terminalId":"2e0aef07-0d65-4e32-98b7-5e5913356ff5"}
+2026-03-01T17:26:27.9547500+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T17:26:27.9562180+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T17:26:27.9569237+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T17:26:27.9600908+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T17:26:27.9616339+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T17:26:27.9628874+05:30 [user-prompt] File exists: True
+2026-03-01T17:26:27.9683669+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T17:28:02.7569214+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:28:02.7673726+05:30 [user-prompt] Received sessionId from Copilot: 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:28:02.7716642+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:28:02.8548421+05:30 [user-prompt] Session info received: {"taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club"}
+2026-03-01T17:28:02.8559452+05:30 [user-prompt] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T17:28:02.8652467+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T17:28:02.8660290+05:30 [user-prompt] Payload: {"terminalId":"2e0aef07-0d65-4e32-98b7-5e5913356ff5","eventType":"user_prompt","taskId":"asjdlkja-1772362729187","workflowFilename":"comedy_club","data":{"sessionId":"4053e5e2-e4d3-4637-9911-79ff7cba8376","timestamp":1772366282449,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"go"}}
+2026-03-01T17:28:02.8731931+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T17:28:02.8745801+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T17:28:02.8752598+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T17:28:02.8782386+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T17:28:02.8802064+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T17:28:02.8816824+05:30 [user-prompt] File exists: True
+2026-03-01T17:28:02.8868693+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T17:28:24.5832757+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:28:24.5927678+05:30 [user-prompt] Received sessionId from Copilot: 4053e5e2-e4d3-4637-9911-79ff7cba8376
+2026-03-01T17:28:24.5979008+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:28:24.6815221+05:30 [user-prompt] Session info received: {"workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187"}
+2026-03-01T17:28:24.6823957+05:30 [user-prompt] Parsed - TaskId: asjdlkja-1772362729187, Workflow: comedy_club
+2026-03-01T17:28:24.6916835+05:30 [user-prompt] Sending to backend: http://localhost:3001/copilot/event
+2026-03-01T17:28:24.6923305+05:30 [user-prompt] Payload: {"terminalId":"2e0aef07-0d65-4e32-98b7-5e5913356ff5","eventType":"user_prompt","workflowFilename":"comedy_club","taskId":"asjdlkja-1772362729187","data":{"sessionId":"4053e5e2-e4d3-4637-9911-79ff7cba8376","timestamp":1772366304287,"cwd":"D:\\Repositories\\max-ai-ui\\playground\\backend","prompt":"start using teams"}}
+2026-03-01T17:28:24.7015481+05:30 [user-prompt] Backend response: {"ok":true,"saved":"user_prompt","persisted":true}
+2026-03-01T17:28:24.7042387+05:30 [user-prompt] No transcript path available for agent response extraction
+2026-03-01T17:28:24.7051022+05:30 [user-prompt] Workflow assigned: comedy_club
+2026-03-01T17:28:24.7086939+05:30 [user-prompt] Looking for workflow at: D:\Repositories\max-ai-ui\scripts\copilot-hooks\..\..\.playground\workflows\comedy_club.md
+2026-03-01T17:28:24.7097773+05:30 [user-prompt] Resolved path: D:\Repositories\max-ai-ui\.playground\workflows\comedy_club.md
+2026-03-01T17:28:24.7111345+05:30 [user-prompt] File exists: True
+2026-03-01T17:28:24.7166162+05:30 [user-prompt] Workflow loaded successfully, length: 1449 bytes
+2026-03-01T17:28:50.2068285+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:28:50.2173951+05:30 [user-prompt] Received sessionId from Copilot: 11bd3e27-d667-4f29-9219-d9169a5f03cd
+2026-03-01T17:28:50.2216379+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:28:50.2972212+05:30 [user-prompt] Session info received: 
+2026-03-01T17:28:50.2993196+05:30 [user-prompt] No task ID found for session 11bd3e27-d667-4f29-9219-d9169a5f03cd
+2026-03-01T17:29:30.9351184+05:30 [user-prompt] Starting hook execution
+2026-03-01T17:29:30.9453388+05:30 [user-prompt] Received sessionId from Copilot: 11bd3e27-d667-4f29-9219-d9169a5f03cd
+2026-03-01T17:29:30.9505315+05:30 [user-prompt] Received data fields: sessionId, timestamp, cwd, prompt
+2026-03-01T17:29:31.0348202+05:30 [user-prompt] Session info received: 
+2026-03-01T17:29:31.0362496+05:30 [user-prompt] No task ID found for session 11bd3e27-d667-4f29-9219-d9169a5f03cd

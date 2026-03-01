@@ -1,0 +1,41 @@
+{
+  "taskId": "qq-1772319675242",
+  "createdAt": "2026-02-28T23:02:12.151Z",
+  "updatedAt": "2026-03-01T03:13:39.568Z",
+  "conversations": [
+    {
+      "taskId": "qq-1772319675242",
+      "terminalId": "2b3c7a6b-a3fc-4e88-a2bd-7396166308b2",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "hi",
+      "timestamp": "2026-02-28T23:02:12.150Z",
+      "metadata": {
+        "sessionId": "b3945b50-fe5c-4b4e-9930-e0cd63153dd5",
+        "timestamp": 1772319731303,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "prompt": "hi",
+        "eventType": "user_prompt"
+      }
+    },
+    {
+      "taskId": "qq-1772319675242",
+      "terminalId": "f68e8693-333d-49eb-9b27-7ff92c6e80e7",
+      "terminalName": "copilot-cli",
+      "agentName": "GitHub Copilot",
+      "eventType": "user_prompt",
+      "role": "user",
+      "message": "whatsup",
+      "timestamp": "2026-03-01T03:13:39.568Z",
+      "metadata": {
+        "sessionId": "3d4bb4b4-1d03-4b52-8bd5-a2645e25522c",
+        "timestamp": 1772334818832,
+        "cwd": "D:\\Repositories\\max-ai-ui\\playground\\backend",
+        "prompt": "whatsup",
+        "eventType": "user_prompt"
+      }
+    }
+  ]
+}
